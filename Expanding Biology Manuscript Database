@@ -5,7 +5,7 @@
     "link": "https://www.nature.com/articles/s41587-022-01546-1",
     "sample": "tissue slice",
     "organism": "mouse",
-    "resolution": "10-50 nm",
+    "resolution": "10 to 50 nm",
     "biomolecule": "proteins (immunostaining)"
   }
 ]
