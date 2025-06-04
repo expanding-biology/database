@@ -6,6 +6,6 @@
     sample: "tissue slice",
     organism: "mouse",
     resolution: "10-50 nm",
-    biomolecule: "proteins (immunostaining)",
+    biomolecule: "proteins (immunostaining)"
   },
 ]
