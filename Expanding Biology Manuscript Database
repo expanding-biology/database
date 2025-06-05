@@ -5,8 +5,8 @@
     "authors": "Aleksandra Klimas, Brendan R. Gallagher, Piyumi Wijesekara, Sinda Fekir, Emma F. DiBernardo, Zhangyu Cheng, Donna B. Stolz, Franca Cambi, Simon C. Watkins, Steven L. Brody, Amjad Horani, Alison L. Barth, Christopher I. Moore, Xi Ren, Yongxin Zhao",
     "link": "https://www.nature.com/articles/s41587-022-01546-1",
     "sample": "tissue slice",
-    "organism": "mouse",
-    "biomolecule": "proteins (immunostaining)",
+    "organism": ["mouse", "human"],
+    "biomolecule": ["proteins (immunostaining)", "lipids", "RNA", "DNA"],
     "resolution": "10 to 50 nm"
   }
 ]
