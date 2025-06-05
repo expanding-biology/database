@@ -9,4 +9,24 @@
     "biomolecule": ["proteins (immunostaining)", "lipids", "RNA", "DNA"],
     "resolution": "10 to 50 nm"
   }
+  {
+    "name": "PlantEx",
+    "title": "Super-resolution expansion microscopy in plant roots",
+    "authors": "Michelle Gallei, Sven Truckenbrodt, Caroline Kreuzinger, Syamala Inumella, Vitali Vistunou, Christoph Sommer, Mojtaba R. Tavakoli, Nathalie Agudelo Dueñas, Jakob Vorlaufer, Wiebke Jahr, Marek Randuch, Alexander Johnson, Eva Benková, Jiří Friml, Johann G. Danzl",
+    "link": "https://academic.oup.com/plcell/article/37/4/koaf006/7951404",
+    "sample": ["tissue slices", "whole organisms"],
+    "organism": ["A. thaliana"],
+    "biomolecule": ["proteins (immunostaining)", "proteins (pan-labeling)"],
+    "resolution": ["10 to 50 nm", "below 10 nm"]
+  }
+  {
+    "name": "ROOT-ExM",
+    "title": "Root expansion microscopy: A robust method for super resolution imaging in Arabidopsis",
+    "authors": "Magali S. Grison, Guillaume Maucort, Amandine Dumazel, Dorian Champelovier, Yutaro Shimizu, Yohann Boutté, Mónica Fernández-Monreal, Emmanuelle M. Bayer",
+    "link": "https://academic.oup.com/plcell/article-abstract/37/4/koaf050/8109904",
+    "sample": ["tissue slices", "whole organisms"],
+    "organism": ["A. thaliana"],
+    "biomolecule": ["proteins (immunostaining)", "proteins (pan-labeling)"],
+    "resolution": ["10 to 50 nm"]
+  }
 ]
