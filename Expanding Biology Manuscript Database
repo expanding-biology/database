@@ -8,7 +8,7 @@
     "organism": ["mouse", "human"],
     "biomolecule": ["proteins (immunostaining)", "lipids", "RNA", "DNA"],
     "resolution": "10 to 50 nm"
-  }
+  },
   {
     "name": "PlantEx",
     "title": "Super-resolution expansion microscopy in plant roots",
@@ -18,7 +18,7 @@
     "organism": ["A. thaliana"],
     "biomolecule": ["proteins (immunostaining)", "proteins (pan-labeling)"],
     "resolution": ["10 to 50 nm", "below 10 nm"]
-  }
+  },
   {
     "name": "ROOT-ExM",
     "title": "Root expansion microscopy: A robust method for super resolution imaging in Arabidopsis",
