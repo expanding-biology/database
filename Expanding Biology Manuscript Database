@@ -13,7 +13,7 @@
     "name": "PlantEx",
     "title": "Super-resolution expansion microscopy in plant roots",
     "authors": "Michelle Gallei, Sven Truckenbrodt, Caroline Kreuzinger, Syamala Inumella, Vitali Vistunou, Christoph Sommer, Mojtaba R. Tavakoli, Nathalie Agudelo Dueñas, Jakob Vorlaufer, Wiebke Jahr, Marek Randuch, Alexander Johnson, Eva Benková, Jiří Friml, Johann G. Danzl",
-    "link": "https://academic.oup.com/plcell/article/37/4/koaf006/7951404"],
+    "link": "https://academic.oup.com/plcell/article/37/4/koaf006/7951404",
     "sample": ["tissue slices", "whole organisms"],
     "organism": ["A. thaliana"],
     "biomolecule": ["proteins (immunostaining)", "proteins (pan-labeling)"],
