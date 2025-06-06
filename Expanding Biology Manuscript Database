@@ -26,7 +26,7 @@
     "link": "https://academic.oup.com/plcell/article-abstract/37/4/koaf050/8109904",
     "sample": ["tissue slices", "whole organisms"],
     "organism": ["A. thaliana"],
-    "biomolecule": ["proteins (immunostaining)", "proteins (pan-labeling)"],
+    "biomolecule": ["proteins (immunostaining)"],
     "resolution": ["50 to 100 nm"]
   },
   {
