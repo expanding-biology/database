@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Magnify is a universal molecular anchoring strategy for expansion microscopy",
+    "doi": "10.1038/s41587-022-01546-1",
+    "link": "https://doi.org/10.1038/s41587-022-01546-1",
+    "authors": "Aleksandra Klimas, Brendan R. Gallagher, Piyumi Wijesekara, Sinda Fekir, Emma F. DiBernardo, Zhangyu Cheng, Donna B. Stolz, Franca Cambi, Simon C. Watkins, Steven L. Brody, Amjad Horani, Alison L. Barth, Christopher I. Moore, Xi Ren, Yongxin Zhao",
+    "sample": [
+      "cells",
+      "tissues",
+      "mouse brain",
+      "human kidney",
+      "human lung organoids"
+    ],
+    "organism": [
+      "mouse",
+      "human"
+    ],
+    "resolution": "around 25-nm",
+    "biomolecule": [
+      "proteins",
+      "nucleic acids",
+      "lipids"
+    ],
+    "expansion_factor": "up to 11x",
+    "expansion_strategy": "single-shot",
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "DMAA",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "N,N\u2019-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse brain",
+        "human kidney",
+        "human lung organoids",
+        "HEK-293FT cells"
+      ],
+      "variant": [
+        "ChrimsonR-tdTomato",
+        "SST\u2013GFP"
+      ],
+      "homogenization": {
+        "score": 5,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 60
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "methacrolein"
+      }
+    }
+  },
+  {
+    "title": "Light microscopy of proteins in their ultrastructural context",
+    "doi": "10.1038/s41467-020-17523-8",
+    "link": "https://doi.org/10.1038/s41467-020-17523-8",
+    "authors": "Ons M\u2019Saad, Joerg Bewersdorf",
+    "sample": [
+      "whole-cell",
+      "HeLa cells",
+      "U-2OS cells"
+    ],
+    "organism": [
+      "human"
+    ],
+    "resolution": "20-30 nm",
+    "biomolecule": [
+      "proteins (pan-staining)",
+      "DNA (SYTOX Green)",
+      "lipids (MitoTracker Orange)"
+    ],
+    "expansion_factor": "13-21x",
+    "expansion_strategy": "iterative",
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "DHEBA",
+        "BIS"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "HeLa cells",
+        "U-2OS cells"
+      ],
+      "variant": [
+        "GFP-ManII",
+        "GFP-Sec61\u03b2"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 73,
+        "duration_min": 60
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "FA + AAm"
+      }
+    }
+  },
+  {
+    "title": "Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx)",
+    "doi": "10.7554/eLife.73775",
+    "link": "https://doi.org/10.7554/eLife.73775",
+    "authors": "Hugo GJ Damstra, Boaz Mohar, Mark Eddison, Anna Akhmanova, Lukas C Kapitein, Paul W Tillberg",
+    "sample": [
+      "thick mouse brain tissue sections",
+      "cultured human cells"
+    ],
+    "organism": [
+      "mouse",
+      "human"
+    ],
+    "resolution": "subcellular",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "membranes",
+      "total protein"
+    ],
+    "expansion_factor": "10x",
+    "expansion_strategy": "single-shot",
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse brain cortex",
+        "U2OS cells",
+        "Jurkat T cells",
+        "Caco-2 cells"
+      ],
+      "variant": [
+        "GFP-Sec61\u03b2",
+        "NUP96-GFP knock-in"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "proteolytic",
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 180
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "AcX"
+      }
+    }
+  }
+]
