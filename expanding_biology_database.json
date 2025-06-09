@@ -17,20 +17,312 @@
     ],
     "resolution": "around 25-nm",
     "biomolecule": [
-      "proteins",
       "nucleic acids",
+      "proteins",
       "lipids"
     ],
     "expansion_factor": "up to 11x",
     "expansion_strategy": "single-shot",
+    "combined_with": [
+      "SOFI"
+    ],
     "chemistry": {
       "monomer": [
         "acrylamide",
-        "DMAA",
+        "sodium acrylate",
+        "N,N-dimethylacrylamide"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse brain",
+        "human kidney",
+        "human lung organoids"
+      ],
+      "variant": [
+        "SST-cre/Ai3 mouse brain",
+        "DAT-cre, injected with AAV5-Syn-FLEX-rc(ChrimsonR-tdTomato)"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 60
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "methacrolein"
+      }
+    },
+    "hash": "e8642cd18c5c424f001a084e3f5586d968b3a27d846fc96db8918101d46cf6ed"
+  },
+  {
+    "title": "Light microscopy of proteins in their ultrastructural context",
+    "doi": "10.1038/s41467-020-17523-8",
+    "link": "https://doi.org/10.1038/s41467-020-17523-8",
+    "authors": "Ons M\u2019Saad, Joerg Bewersdorf",
+    "sample": [
+      "whole-cell",
+      "HeLa cells",
+      "U-2OS cells"
+    ],
+    "organism": [
+      "human"
+    ],
+    "resolution": "20-30 nm",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "DNA"
+    ],
+    "expansion_factor": "13-21x",
+    "expansion_strategy": "iterative",
+    "combined_with": [
+      "STED"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
         "sodium acrylate"
       ],
       "crosslinker": [
-        "N,N\u2019-methylenebisacrylamide"
+        "bisacrylamide",
+        "DHEBA"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "HeLa cells",
+        "U-2OS cells"
+      ],
+      "variant": [
+        "GFP-ManII",
+        "GFP-Sec61\u03b2"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 73,
+        "duration_min": 60
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "AcX"
+      }
+    },
+    "hash": "e9843b6be1eed249698071e0e01209cbcf3b01a31f6aaac2b166b4c0cf5e2b50"
+  },
+  {
+    "title": "Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx)",
+    "doi": "10.7554/eLife.73775",
+    "link": "https://doi.org/10.7554/eLife.73775",
+    "authors": "Hugo GJ Damstra, Boaz Mohar, Mark Eddison, Anna Akhmanova, Lukas C Kapitein, Paul W Tillberg",
+    "sample": [
+      "thick mouse brain tissue sections",
+      "cultured human cells"
+    ],
+    "organism": [
+      "mouse",
+      "human"
+    ],
+    "resolution": "subcellular",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "membranes",
+      "total protein"
+    ],
+    "expansion_factor": "10x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "bisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse brain tissue",
+        "U2OS cells",
+        "Jurkat T cells",
+        "Caco2 cells"
+      ],
+      "variant": [
+        "GFP-Sec61\u03b2",
+        "NUP96-GFP knock-in"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "proteolytic",
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 180
+      },
+      "anchoring": {
+        "score": 3,
+        "reagent": "AcX"
+      }
+    },
+    "hash": "ab940ee6f7cfd63868b045668cb9deddd74d3edebd1eff68fad30935d785fd5d"
+  },
+  {
+    "title": "Light-microscopy-based connectomic reconstruction of mammalian brain tissue",
+    "doi": "10.1038/s41586-025-08985-1",
+    "link": "https://doi.org/10.1038/s41586-025-08985-1",
+    "authors": "Mojtaba R. Tavakoli, Julia Lyudchik, Micha\u0142 Januszewski, Vitali Vistunou, Nathalie Agudelo Due\u00f1as, Jakob Vorlaufer, Christoph Sommer, Caroline Kreuzinger, B\u00e1rbara Oliveira, Alban Cenameri, Gaia Novarino, Viren Jain, Johann G. Danzl",
+    "sample": "brain tissue",
+    "organism": [
+      "mouse"
+    ],
+    "resolution": "20-50 nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "16x",
+    "expansion_strategy": "iterative",
+    "combined_with": [
+      "STED"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse primary somatosensory cortex",
+        "hippocampal CA1"
+      ],
+      "variant": [
+        "Thy1-eGFP"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 95,
+        "duration_min": 100
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "epoxide"
+      }
+    },
+    "hash": "b5a0ae259e71d860a52c2aa4bedd6fdeaaf6f53388557438a2e2331cb64d3b05"
+  },
+  {
+    "title": "Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio",
+    "doi": "10.1002/advs.201901673",
+    "link": "https://doi.org/10.1002/advs.201901673",
+    "authors": "Han-Eol Park, Dongkil Choi, Ji Su Park, Changgon Sim, Sohyun Park, Sunah Kang, Hyunsoo Yim, Myungsun Lee, Jaeyoun Kim, Jinyoung Pac, Kunsoo Rhee, Junho Lee, Yunjong Lee, Yan Lee, Sung-Yon Kim",
+    "sample": [
+      "cultured cells",
+      "thick tissues",
+      "bacteria",
+      "exoskeletal Caenorhabditis elegans",
+      "human brain samples"
+    ],
+    "organism": [
+      "mouse",
+      "human",
+      "Caenorhabditis elegans",
+      "Escherichia coli"
+    ],
+    "resolution": "submicron",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "up to 8x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "light-sheet microscopy"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "bisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "HeLa cells",
+        "mouse brain",
+        "C. elegans",
+        "E. coli",
+        "human brain tissue"
+      ],
+      "variant": [
+        "Thy1-eYFP mouse",
+        "PV-tdTomato reporter mice"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 1440
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "N-acryloxysuccinimide (NAS)"
+      }
+    },
+    "hash": "2b530ff416aa97ed4c9e3493ed7bdcb560d8d7cfe29d440ddfbec5320b20a932"
+  },
+  {
+    "title": "Magnify is a universal molecular anchoring strategy for expansion microscopy",
+    "doi": "10.1038/s41587-022-01546-1",
+    "link": null,
+    "authors": "Aleksandra Klimas, Brendan R. Gallagher, Piyumi Wijesekara, Sinda Fekir, Emma F. DiBernardo, Zhangyu Cheng, Donna B. Stolz, Franca Cambi, Simon C. Watkins, Steven L. Brody, Amjad Horani, Alison L. Barth, Christopher I. Moore, Xi Ren, Yongxin Zhao",
+    "sample": [
+      "cells",
+      "tissues",
+      "mouse brain",
+      "human kidney",
+      "human lung organoids"
+    ],
+    "organism": [
+      "mouse",
+      "human"
+    ],
+    "resolution": "around 25-nm",
+    "biomolecule": [
+      "nucleic acids",
+      "proteins",
+      "lipids"
+    ],
+    "expansion_factor": "up to 11x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "SOFI"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate",
+        "N,N-dimethylacrylamide"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
       ]
     },
     "qualifiers": {
@@ -41,11 +333,11 @@
         "HEK-293FT cells"
       ],
       "variant": [
-        "ChrimsonR-tdTomato",
-        "SST\u2013GFP"
+        "SST-cre/Ai3 mouse",
+        "DAT-cre, injected with AAV5-Syn-FLEX-rc(ChrimsonR-tdTomato)"
       ],
       "homogenization": {
-        "score": 5,
+        "score": 4,
         "method": [
           "chemical/thermal"
         ],
@@ -55,6 +347,220 @@
       "anchoring": {
         "score": 5,
         "reagent": "methacrolein"
+      }
+    }
+  },
+  {
+    "title": "Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM)",
+    "doi": "10.1038/s41467-020-17086-8",
+    "link": "https://doi.org/10.1038/s41467-020-17086-8",
+    "authors": "Fabian U. Zwettler, Sebastian Reinhard, Davide Gambarotto, Toby D. M. Bell, Virginie Hamel, Paul Guichard, Markus Sauer",
+    "sample": [
+      "biological specimen",
+      "isolated organelles",
+      "cells",
+      "pathogens",
+      "tissues",
+      "human clinical specimen"
+    ],
+    "organism": [
+      "Chlamydomonas reinhardtii"
+    ],
+    "resolution": "sub-diffraction",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "RNAs"
+    ],
+    "expansion_factor": "3.2x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "dSTORM",
+      "SIM",
+      "STED"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "N-N\u2032-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "Cos-7 cells",
+        "Chlamydomonas centrioles"
+      ],
+      "variant": [],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": 95,
+        "duration_min": 30
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "AcX"
+      }
+    },
+    "hash": "b3520196263586bb2266635eab747b1e3681daa6d2b3b3e9f6ca82b76f6f545e"
+  },
+  {
+    "title": "Visualizing the native cellular organization by coupling cryofixation with expansion microscopy (Cryo-ExM)",
+    "doi": "10.1038/s41592-021-01356-4",
+    "link": "https://doi.org/10.1038/s41592-021-01356-4",
+    "authors": "Marine H. Laporte, Nikolai Klena, Virginie Hamel, Paul Guichard",
+    "sample": [
+      "unfixed cells",
+      "cryofixed cells",
+      "expanded cells"
+    ],
+    "organism": [
+      "human",
+      "Chlamydomonas reinhardtii"
+    ],
+    "resolution": "nanometer",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "GFP-Sec61\u03b2",
+      "\u03b1/\u03b2-tubulin",
+      "NHS-ester"
+    ],
+    "expansion_factor": "fourfold",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "STED"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "formaldehyde",
+        "sodium acrylate"
+      ],
+      "crosslinker": []
+    },
+    "qualifiers": {
+      "model_system": [
+        "U2OS cells",
+        "RPE-1 cells",
+        "hippocampal neurons",
+        "Chlamydomonas reinhardtii"
+      ],
+      "variant": [
+        "GFP-Sec61\u03b2"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": -180,
+        "duration_min": null
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "NHS-ester"
+      }
+    },
+    "hash": "5a55a2fdf55677cb433238eea185cce75d64d1ab7bbda43be20d52e9f333a960"
+  },
+  {
+    "title": "Light-microscopy-based connectomic reconstruction of mammalian brain tissue",
+    "doi": "10.1038/s41586-025-08985-1",
+    "link": "https://doi.org/10.1038/s41586-025-08985-1",
+    "authors": "Mojtaba R. Tavakoli, Julia Lyudchik, Micha\u0142 Januszewski, Vitali Vistunou, Nathalie Agudelo Due\u00f1as, Jakob Vorlaufer, Christoph Sommer, Caroline Kreuzinger, B\u00e1rbara Oliveira, Alban Cenameri, Gaia Novarino, Viren Jain, Johann G. Danzl",
+    "sample": [
+      "brain tissue"
+    ],
+    "organism": [
+      "mouse"
+    ],
+    "resolution": "20-50 nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "16x",
+    "expansion_strategy": "iterative",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse primary somatosensory cortex",
+        "hippocampal CA1"
+      ],
+      "variant": [
+        "Thy1-eGFP"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 95,
+        "duration_min": 100
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "epoxide"
+      }
+    }
+  },
+  {
+    "title": "Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope",
+    "doi": "10.1126/sciadv.abm4006",
+    "link": "https://science.org/doi/10.1126/sciadv.abm4006",
+    "authors": "Hongxia Li, Antony R. Warden, Jie He, Guangxia Shen, Xianting Ding",
+    "sample": [
+      "cell culture"
+    ],
+    "organism": [
+      "mouse"
+    ],
+    "resolution": "31 nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "9x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "N,N-ethylenebisacrylamide (EBIS)"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "Hela cells"
+      ],
+      "variant": [
+        "Nup153"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": null,
+        "duration_min": null
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "methacrylic acid N-hydroxysuccinimide ester (MA-NHS)"
       }
     }
   },
@@ -74,11 +580,13 @@
     "resolution": "20-30 nm",
     "biomolecule": [
       "proteins (pan-staining)",
-      "DNA (SYTOX Green)",
-      "lipids (MitoTracker Orange)"
+      "DNA (SYTOX Green)"
     ],
     "expansion_factor": "13-21x",
     "expansion_strategy": "iterative",
+    "combined_with": [
+      "STED"
+    ],
     "chemistry": {
       "monomer": [
         "acrylamide",
@@ -133,10 +641,11 @@
     ],
     "expansion_factor": "10x",
     "expansion_strategy": "single-shot",
+    "combined_with": [],
     "chemistry": {
       "monomer": [
-        "sodium acrylate",
-        "acrylamide"
+        "acrylamide",
+        "sodium acrylate"
       ],
       "crosslinker": [
         "N,N'-methylenebisacrylamide"
@@ -144,17 +653,15 @@
     },
     "qualifiers": {
       "model_system": [
-        "mouse brain cortex",
         "U2OS cells",
-        "Jurkat T cells",
-        "Caco-2 cells"
+        "mouse brain tissue"
       ],
       "variant": [
         "GFP-Sec61\u03b2",
         "NUP96-GFP knock-in"
       ],
       "homogenization": {
-        "score": 4,
+        "score": 3,
         "method": [
           "proteolytic",
           "chemical/thermal"
@@ -167,5 +674,54 @@
         "reagent": "AcX"
       }
     }
+  },
+  {
+    "title": "Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope",
+    "doi": "10.1126/sciadv.abm4006",
+    "link": "https://science.org/doi/10.1126/sciadv.abm4006",
+    "authors": "Hongxia Li, Antony R. Warden, Jie He, Guangxia Shen, Xianting Ding",
+    "sample": [
+      "cell culture"
+    ],
+    "organism": [
+      "human"
+    ],
+    "resolution": "31 nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "9x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "N,N-ethylenebisacrylamide (EBIS)"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "Hela cells"
+      ],
+      "variant": [
+        "Nup153"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": null,
+        "duration_min": null
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "methacrylic acid N-hydroxysuccinimide ester (MA-NHS)"
+      }
+    },
+    "hash": "3523f68ea6d155b026054bca6633ae838d4a4ec677b60ce5291b061981ed7e92"
   }
 ]
