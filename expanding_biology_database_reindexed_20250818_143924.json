@@ -10,9 +10,6 @@
     "organism": [
       "Arabidopsis thaliana"
     ],
-    "exf_static": [
-      "4"
-    ],
     "resolution": "4-fold resolution increase",
     "biomolecule": [
       "microtubule cytoskeleton",
