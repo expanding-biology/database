@@ -10,6 +10,8 @@
     "organism": [
       "Arabidopsis thaliana"
     ],
+    "exf_static": [
+      4],
     "resolution": "4-fold resolution increase",
     "biomolecule": [
       "microtubule cytoskeleton",
@@ -91,7 +93,7 @@
     "year": "2023",
     "acronym": "PlantEx",
     "first_author_year": "Gallei2023",
-    "exf_static": "4",
+    "exf_static": 4,
     "variant_semantic": [
       "lysosomes",
       "microtubules",
