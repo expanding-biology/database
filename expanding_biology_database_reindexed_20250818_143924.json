@@ -1,0 +1,1603 @@
+[
+  {
+    "title": "Super-resolution expansion microscopy in plant roots",
+    "doi": "10.1093/plcell/koaf006",
+    "link": "https://doi.org/10.1093/plcell/koaf006",
+    "authors": "Michelle Gallei, Sven Truckenbrodt, Caroline Kreuzinger, Syamala Inumella, Vitali Vistunou, Christoph Sommer, Mojtaba R. Tavakoli, Nathalie Agudelo Due\u00f1as, Jakob Vorlaufer, Wiebke Jahr, Marek Randuch, Alexander Johnson, Eva Benkov\u00e1, Jir\u030c \u00ed Friml, Johann G. Danzl",
+    "sample": [
+      "whole-mount root tissues"
+    ],
+    "organism": [
+      "Arabidopsis thaliana"
+    ],
+    "resolution": "4-fold resolution increase",
+    "biomolecule": [
+      "microtubule cytoskeleton",
+      "COPI-coated vesicles"
+    ],
+    "expansion_factor": "4x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "STED"
+    ],
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "Arabidopsis thaliana root"
+      ],
+      "variant": [
+        "VHA-a1-GFP",
+        "MAP4-GFP"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "enzymatic digestion",
+          "proteolytic"
+        ],
+        "temperature_C": 50,
+        "duration_min": 1440
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "Acryloyl-X"
+      }
+    },
+    "summary": "Fig 1 demonstrates the PlantEx protocol, achieving a 4-fold resolution increase in Arabidopsis roots, highlighting microtubule organization. Fig 2 characterizes expansion-induced distortions, showing high fidelity in structure preservation. Fig 3 explores dual-color PlantEx, visualizing MAP4 and microtubules, and COPI vesicles with TGN. Fig 4 combines PlantEx with STED microscopy, resolving individual COPI vesicles, enhancing resolution beyond expansion alone. Fig 5 applies pan-protein labeling for comprehensive tissue architecture visualization, providing cellular context for molecular signals.",
+    "application_goal": "The protocol enabled super-resolution imaging of plant root tissues, overcoming optical challenges posed by plant cell walls and providing a 4-fold resolution increase, facilitating detailed visualization of subcellular structures like microtubules and vesicles in Arabidopsis thaliana.",
+    "novelty": "This study introduces PlantEx, a novel application of expansion microscopy to plant tissues, achieving a 4-fold resolution increase. Unlike previous ExM applications limited to isolated cells or organelles, PlantEx applies to whole-mount Arabidopsis roots, overcoming challenges of plant cell wall rigidity. The combination with STED microscopy further enhances resolution, allowing detailed visualization of subcellular structures, surpassing traditional super-resolution methods like SIM and Airyscan in resolution gain.",
+    "hash": "9b44b3a4d56b4a779937774f69db894373469bcdff25cd65a89230746f59aca0",
+    "source_file": "koaf006.pdf",
+    "inferred_keywords": [
+      "microtubules",
+      "MAP4",
+      "COPI vesicles",
+      "TGN",
+      "pan-protein labeling",
+      "Arabidopsis thaliana",
+      "plant root tissues",
+      "cell walls",
+      "subcellular structures",
+      "expansion microscopy",
+      "PlantEx protocol",
+      "STED microscopy",
+      "super-resolution imaging",
+      "resolution increase",
+      "structure preservation",
+      "dual-color imaging",
+      "tissue architecture",
+      "molecular signals",
+      "optical challenges",
+      "whole-mount imaging",
+      "SIM",
+      "Airyscan",
+      "high fidelity",
+      "cellular context",
+      "visualization",
+      "plant tissues",
+      "root tissues",
+      "Arabidopsis roots",
+      "subcellular visualization",
+      "resolution gain"
+    ],
+    "year": "2023",
+    "acronym": "PlantEx",
+    "first_author_year": "Gallei2023",
+    "exf_static": 4,
+    "variant_semantic": [
+      "lysosomes",
+      "microtubules",
+      "trans-golgi network"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "EASI-FISH for thick tissue defines lateral hypothalamus spatio-molecular organization",
+    "doi": "10.1016/j.cell.2021.11.024",
+    "link": "https://doi.org/10.1016/j.cell.2021.11.024",
+    "authors": "Yuhan Wang, Mark Eddison, Greg Fleishman, Martin Weigert, Shengjin Xu, Tim Wang, Konrad Rokicki, Cristian Goina, Fredrick E. Henry, Andrew L. Lemire, Uwe Schmidt, Hui Yang, Karel Svoboda, Eugene W. Myers, Stephan Saalfeld, Wyatt Korff, Scott M. Sternson, Paul W. Tillberg",
+    "sample": [
+      "thick brain slices",
+      "tissue sections"
+    ],
+    "organism": [
+      "mouse"
+    ],
+    "resolution": "submicron",
+    "biomolecule": [
+      "RNA (FISH)",
+      "neuropeptides"
+    ],
+    "expansion_factor": null,
+    "expansion_strategy": "iterative",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [],
+      "crosslinker": []
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse lateral hypothalamic area",
+        "cortex",
+        "central amygdala"
+      ],
+      "variant": [],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": null,
+        "duration_min": null
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "Melphalan"
+      }
+    },
+    "summary": "Fig 1: EASI-FISH method was developed for thick tissue sections, improving RNA retention and signal-to-noise ratio. Fig 2: A computational pipeline was created for processing large EASI-FISH datasets, enabling efficient stitching, registration, and segmentation. Fig 3: EASI-FISH was applied to the mouse lateral hypothalamic area, revealing spatial organization of excitatory and inhibitory neurons. Fig 4: Machine learning was used to identify molecularly defined subregions in the LHA, highlighting distinct spatial patterns. Fig 5: Molecularly defined cell types and afferent axons were mapped to LHA subregions, showing specific enrichment patterns. Fig 6: Neuropeptide-expressing neurons were characterized, revealing spatial and morphological diversity. Fig 7: Morphological diversity and immediate early gene expression were analyzed, identifying cell-type-specific activity patterns.",
+    "application_goal": "The EASI-FISH protocol enabled robust, high-resolution gene expression profiling in thick brain slices, facilitating the mapping of molecularly defined cell types and subregions in the lateral hypothalamus. This approach allows for detailed spatial analysis of cellular multi-gene co-expression relationships, advancing our understanding of brain organization and function.",
+    "novelty": "EASI-FISH represents a significant advancement over previous multiplex FISH methods by enabling high-resolution imaging in thick tissue sections (300 \u00b5m), which is crucial for aligning samples from different subjects and mapping continuous brain regions. The method's iterative approach and turnkey computational pipeline simplify the analysis of large datasets, democratizing access to detailed spatial gene expression data. This work highlights the importance of volumetric mapping for identifying structural subdivisions in the brain, offering a new perspective on the organization of the lateral hypothalamus.",
+    "hash": "896f6f5ac9659337f4621a3c4dd4ebdc989b035c337d586d6c8151fbb21c58c0",
+    "source_file": "1-s2.0-S0092867421013398-main.pdf",
+    "inferred_keywords": [
+      "RNA",
+      "neuropeptides",
+      "excitatory neurons",
+      "inhibitory neurons",
+      "afferent axons",
+      "immediate early genes",
+      "lateral hypothalamus",
+      "EASI-FISH",
+      "multiplex FISH",
+      "gene expression profiling",
+      "spatial organization",
+      "molecularly defined subregions",
+      "cell-type-specific activity patterns",
+      "thick tissue sections",
+      "signal-to-noise ratio",
+      "computational pipeline",
+      "stitching",
+      "registration",
+      "segmentation",
+      "machine learning",
+      "morphological diversity",
+      "high-resolution imaging",
+      "volumetric mapping",
+      "spatial gene expression data",
+      "brain organization",
+      "turnkey computational pipeline",
+      "iterative approach",
+      "thick brain slices",
+      "multi-gene co-expression relationships"
+    ],
+    "year": "2021",
+    "acronym": "EASI-FISH",
+    "first_author_year": "Wang2021",
+    "exf_static": 0,
+    "variant_semantic": [
+      "axons"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio",
+    "doi": "10.1002/advs.201901673",
+    "link": "https://doi.org/10.1002/advs.201901673",
+    "authors": "Han-Eol Park, Dongkil Choi, Ji Su Park, Changgon Sim, Sohyun Park, Sunah Kang, Hyunsoo Yim, Myungsun Lee, Jaeyoun Kim, Jinyoung Pac, Kunsoo Rhee, Junho Lee, Yunjong Lee, Yan Lee, Sung-Yon Kim",
+    "sample": [
+      "cultured cells",
+      "thick tissues",
+      "bacteria",
+      "exoskeletal Caenorhabditis elegans",
+      "human brain samples"
+    ],
+    "organism": [
+      "mouse",
+      "human",
+      "Caenorhabditis elegans",
+      "Escherichia coli"
+    ],
+    "resolution": "submicron",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "up to 8x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "bisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "HeLa cells",
+        "mouse brain",
+        "C. elegans",
+        "E. coli",
+        "human brain tissue"
+      ],
+      "variant": [
+        "Thy1-eYFP",
+        "PV-tdTomato"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 1440
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "N-acryloxysuccinimide"
+      }
+    },
+    "summary": "Fig 1 demonstrates the ZOOM method, showing tunable expansion ratios by varying hydrolysis time, achieving up to 8x expansion. Fig 2 explores isotropic expansion and resolution improvement, preserving structural integrity across multiple rounds of expansion. Fig 3 applies ZOOM to cultured cells, resolving subcellular structures like microtubules and centrioles with high precision. Fig 4 extends ZOOM to mouse brain tissues, enabling detailed imaging of synaptic structures and rapid volumetric imaging with light-sheet microscopy. Fig 5 showcases ZOOM's versatility, expanding C. elegans, E. coli, and human brain samples, highlighting its adaptability to diverse biological samples.",
+    "application_goal": "The ZOOM protocol enables flexible and scalable expansion of biological samples, allowing researchers to adjust the expansion ratio to suit specific experimental needs. This method facilitates high-resolution imaging of nanoscale structures using conventional microscopy, without the need for specialized equipment.",
+    "novelty": "ZOOM introduces a novel hydrogel conversion-based expansion method that allows for easy adjustment of the expansion ratio by altering the duration of a heating step. This contrasts with existing methods that offer fixed expansion ratios. ZOOM achieves up to 8x expansion in a single process, improving upon the scalability and simplicity of previous techniques. The method's ability to preserve biomolecular integrity and support multi-round expansion distinguishes it from other expansion microscopy variants, making it suitable for a wide range of biological samples, including those with challenging physical properties.",
+    "hash": "2b530ff416aa97ed4c9e3493ed7bdcb560d8d7cfe29d440ddfbec5320b20a932",
+    "source_file": "Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "lipids",
+      "DNA",
+      "RNA",
+      "microtubules",
+      "centrioles",
+      "synaptic structures",
+      "hydrogel",
+      "neurons",
+      "astrocytes",
+      "liver tissue",
+      "mouse brain tissues",
+      "C. elegans",
+      "E. coli",
+      "human brain samples",
+      "light-sheet microscopy",
+      "immunostaining",
+      "isotropic expansion",
+      "resolution improvement",
+      "structural integrity",
+      "subcellular structures",
+      "nanoscale structures",
+      "conventional microscopy",
+      "expansion microscopy",
+      "scalability",
+      "high-resolution imaging",
+      "tunable expansion ratio",
+      "hydrolysis time",
+      "volumetric imaging",
+      "multi-round expansion"
+    ],
+    "year": "2019",
+    "acronym": "ZOOM",
+    "first_author_year": "Park2019",
+    "exf_static": 8,
+    "variant_semantic": [
+      "microtubules"
+    ],
+    "priority_index": 3
+  },
+  {
+    "title": "Magnify is a universal molecular anchoring strategy for expansion microscopy",
+    "doi": "10.1038/s41587-022-01546-1",
+    "link": "https://doi.org/10.1038/s41587-022-01546-1",
+    "authors": "Aleksandra Klimas, Brendan R. Gallagher, Piyumi Wijesekara, Sinda Fekir, Emma F. DiBernardo, Zhangyu Cheng, Donna B. Stolz, Franca Cambi, Simon C. Watkins, Steven L. Brody, Amjad Horani, Alison L. Barth, Christopher I. Moore, Xi Ren, Yongxin Zhao",
+    "sample": [
+      "cells",
+      "tissues"
+    ],
+    "organism": [
+      "mouse",
+      "human"
+    ],
+    "resolution": "around 25-nm",
+    "biomolecule": [
+      "proteins",
+      "nucleic acids",
+      "lipids"
+    ],
+    "expansion_factor": "up to 11x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "SOFI"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate",
+        "N,N-dimethylacrylamide"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse brain",
+        "human kidney",
+        "human lung organoids"
+      ],
+      "variant": [
+        "SST-cre/Ai3 mouse",
+        "DAT-cre mouse"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 60
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "methacrolein"
+      }
+    },
+    "summary": "Fig 1: Magnify protocol design and validation, showing effective expansion and retention of biomolecules. Fig 2: Validation across various human tissues, demonstrating low distortion and high protein retention. Fig 3: Imaging of proteins, nucleic acids, and lipids, highlighting lipid retention and detailed structural visualization. Fig 4: Visualization of endogenous fluorophores, showing compatibility with transgenic models. Fig 5: Magnify\u2013SOFI resolves ultrafine structures, achieving sub-20 nm resolution. Fig 6: Application in ciliopathy models, identifying structural defects in cilia.",
+    "application_goal": "The Magnify protocol enables high-resolution imaging of a wide range of biological specimens without the need for specialized equipment or complex anchoring steps. It allows for the visualization of nanoscale structures in tissues that are typically challenging to expand, such as FFPE specimens, and supports postexpansion labeling of various biomolecules.",
+    "novelty": "Magnify introduces a robust hydrogel chemistry that eliminates the need for separate anchoring steps, allowing for the retention of proteins, nucleic acids, and lipids. This method achieves up to 11-fold expansion, surpassing traditional ExM protocols that typically achieve fourfold expansion. The integration with SOFI further enhances resolution to sub-20 nm, providing a significant improvement over previous ExM and super-resolution methods. Magnify's compatibility with a broad range of tissue types and fixation methods marks a substantial advancement in the field of expansion microscopy.",
+    "hash": "e8642cd18c5c424f001a084e3f5586d968b3a27d846fc96db8918101d46cf6ed",
+    "source_file": "www.nature.com 11-1-2023 22_34_30.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "nucleic acids",
+      "lipids",
+      "expansion microscopy",
+      "Magnify protocol",
+      "hydrogel chemistry",
+      "fluorophores",
+      "transgenic models",
+      "ciliopathy models",
+      "cilia",
+      "FFPE specimens",
+      "postexpansion labeling",
+      "SOFI",
+      "sub-20 nm resolution",
+      "11-fold expansion",
+      "traditional ExM protocols",
+      "super-resolution methods",
+      "human tissues",
+      "protein retention",
+      "lipid retention",
+      "structural visualization",
+      "nanoscale structures",
+      "high-resolution imaging",
+      "biological specimens",
+      "tissue types",
+      "fixation methods",
+      "microscopy techniques",
+      "scalability",
+      "reproducibility"
+    ],
+    "year": "2022",
+    "acronym": "MAGNIFY",
+    "first_author_year": "Klimas2022",
+    "exf_static": 11,
+    "variant_semantic": [
+      "endoplasmic reticulum",
+      "chromatin",
+      "mitochondria",
+      "plasma membrane",
+      "cilia"
+    ],
+    "priority_index": 1
+  },
+  {
+    "title": "Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM)",
+    "doi": "10.1038/s41467-020-17086-8",
+    "link": "https://doi.org/10.1038/s41467-020-17086-8",
+    "authors": "Fabian U. Zwettler, Sebastian Reinhard, Davide Gambarotto, Toby D. M. Bell, Virginie Hamel, Paul Guichard, Markus Sauer",
+    "sample": [
+      "microtubules",
+      "centrioles"
+    ],
+    "organism": [
+      "Chlamydomonas reinhardtii"
+    ],
+    "resolution": "sub-10-nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "3.2x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "dSTORM"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "N-N\u2032-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "COS-7 cells",
+        "Chlamydomonas centrioles"
+      ],
+      "variant": [],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": 95,
+        "duration_min": 30
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "AcX"
+      }
+    },
+    "summary": "Fig 1 demonstrates the use of post-labeling Ex-SMLM to preserve ultrastructural details of microtubules, showing improved labeling efficiency. Fig 2 compares pre-labeling and post-labeling Ex-SMLM, highlighting the reduction in linkage error and improved resolution. Fig 3 illustrates 3D post-labeling Ex-dSTORM of microtubules, revealing their hollow structure. Fig 4 applies Ex-SMLM to Chlamydomonas centrioles, resolving their 9-fold symmetry and microtubule triplets, demonstrating the method's capability to achieve molecular resolution.",
+    "application_goal": "The protocol enabled the visualization of ultrastructural details of microtubules and centrioles with molecular resolution, overcoming previous limitations in labeling efficiency and linkage error.",
+    "novelty": "This study introduces a post-labeling Ex-SMLM approach that significantly reduces linkage error and improves labeling efficiency compared to previous ExM methods. By re-embedding expanded hydrogels, the method allows for the use of standard photoswitching buffers, enabling dSTORM imaging with sub-10-nm resolution. This advancement bridges the gap between super-resolution microscopy and electron microscopy, providing a new tool for molecular resolution imaging of endogenous proteins.",
+    "hash": "b3520196263586bb2266635eab747b1e3681daa6d2b3b3e9f6ca82b76f6f545e",
+    "source_file": "Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM).pdf",
+    "inferred_keywords": [
+      "microtubules",
+      "centrioles",
+      "Chlamydomonas",
+      "proteins",
+      "immunostaining",
+      "Ex-SMLM",
+      "post-labeling",
+      "pre-labeling",
+      "linkage error",
+      "resolution",
+      "3D post-labeling",
+      "Ex-dSTORM",
+      "hollow structure",
+      "9-fold symmetry",
+      "microtubule triplets",
+      "molecular resolution",
+      "ultrastructural details",
+      "labeling efficiency",
+      "expanded hydrogels",
+      "photoswitching buffers",
+      "dSTORM imaging",
+      "sub-10-nm resolution",
+      "super-resolution microscopy",
+      "electron microscopy",
+      "endogenous proteins",
+      "hydrogels",
+      "standard photoswitching buffers",
+      "molecular resolution imaging"
+    ],
+    "year": "2020",
+    "acronym": "Ex-SMLM",
+    "first_author_year": "Zwettler2020",
+    "exf_static": 3,
+    "variant_semantic": [
+      "microtubules"
+    ],
+    "priority_index": 3
+  },
+  {
+    "title": "Visualizing the native cellular organization by coupling cryofixation with expansion microscopy (Cryo-ExM)",
+    "doi": "10.1038/s41592-021-01356-4",
+    "link": "https://doi.org/10.1038/s41592-021-01356-4",
+    "authors": "Marine H. Laporte, Nikolai Klena, Virginie Hamel, Paul Guichard",
+    "sample": [
+      "unfixed cells",
+      "U2OS cells",
+      "RPE-1 cells",
+      "hippocampal neurons",
+      "Chlamydomonas reinhardtii"
+    ],
+    "organism": [
+      "human",
+      "Chlamydomonas reinhardtii"
+    ],
+    "resolution": "nanoscale",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "GFP-Sec61\u03b2",
+      "\u03b1/\u03b2-tubulin",
+      "NHS-ester"
+    ],
+    "expansion_factor": "4x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "formaldehyde",
+        "sodium acrylate"
+      ],
+      "crosslinker": []
+    },
+    "qualifiers": {
+      "model_system": [
+        "U2OS cells",
+        "RPE-1 cells",
+        "hippocampal neurons",
+        "Chlamydomonas reinhardtii"
+      ],
+      "variant": [
+        "GFP-Sec61\u03b2"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": -80,
+        "duration_min": 1440
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "NHS-ester"
+      }
+    },
+    "summary": "Fig 1: Developed Cryo-ExM by combining cryofixation with expansion microscopy to preserve cellular ultrastructure. Fig 2: Demonstrated Cryo-ExM captures ER-microtubule interactions and mitochondrial organization, improving visualization of cellular architecture. Fig 3: Showed Cryo-ExM preserves cytoskeletal elements like actin and microtubules in neurons and U2OS cells. Fig 4: Highlighted Cryo-ExM's ability to preserve epitopes and improve staining intensity compared to chemical fixation. Fig 5: Demonstrated versatility of Cryo-ExM in preserving various cellular structures and phase-separated organelles.",
+    "application_goal": "The protocol enabled the visualization of native cellular organization by preserving ultrastructure and improving epitope accessibility, allowing for more accurate protein localization and structural analysis without chemical fixation artifacts.",
+    "novelty": "Cryo-ExM introduces a novel combination of cryofixation with expansion microscopy, overcoming limitations of chemical fixation by preserving native ultrastructure and improving epitope accessibility. This method surpasses previous ExM variants by maintaining cellular integrity and enabling high-resolution imaging of dynamic structures like ER-microtubule interactions and phase-separated organelles. The approach is compatible with existing microscopy techniques, offering a versatile tool for studying complex cellular processes.",
+    "hash": "5a55a2fdf55677cb433238eea185cce75d64d1ab7bbda43be20d52e9f333a960",
+    "source_file": "Visualizing the native cellular organization by coupling cryofixation with expansion microscopy (Cryo-ExM).pdf",
+    "inferred_keywords": [
+      "proteins",
+      "GFP-Sec61\u03b2",
+      "\u03b1/\u03b2-tubulin",
+      "NHS-ester",
+      "cryofixation",
+      "expansion microscopy",
+      "ER-microtubule interactions",
+      "mitochondrial organization",
+      "cytoskeletal elements",
+      "actin",
+      "microtubules",
+      "neurons",
+      "U2OS cells",
+      "epitopes",
+      "staining intensity",
+      "chemical fixation",
+      "cellular ultrastructure",
+      "phase-separated organelles",
+      "protein localization",
+      "structural analysis",
+      "high-resolution imaging",
+      "cellular integrity",
+      "dynamic structures",
+      "native cellular organization",
+      "cellular architecture",
+      "immunostaining",
+      "epitope accessibility",
+      "cellular processes",
+      "microscopy techniques"
+    ],
+    "year": "2021",
+    "acronym": "Cryo-ExM",
+    "first_author_year": "Laporte2021",
+    "exf_static": 4,
+    "variant_semantic": [
+      "endoplasmic reticulum",
+      "mitochondria",
+      "microtubules",
+      "actin filaments"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "Nanoscale Imaging of RNA with Expansion Microscopy",
+    "doi": "10.1038/nmeth.3899",
+    "link": "http://www.nature.com/authors/editorial_policies/license.html#terms",
+    "authors": "Fei Chen, Asmamaw T. Wassie, Allison J. Cote, Anubhav Sinha, Shahar Alon, Shoh Asano, Evan R. Daugharthy, Jae-Byum Chang, Adam Marblestone, George M. Church, Arjun Raj, Edward S. Boyden",
+    "sample": [
+      "cultured cells",
+      "intact brain tissue"
+    ],
+    "organism": [
+      "mouse",
+      "human"
+    ],
+    "resolution": "70 nm",
+    "biomolecule": [
+      "RNA (FISH)",
+      "long non-coding RNAs",
+      "mRNAs"
+    ],
+    "expansion_factor": "3.3x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "HEK cells",
+        "mouse brain tissue"
+      ],
+      "variant": [
+        "Thy1-YFP mouse"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": 37,
+        "duration_min": 1440
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "LabelX"
+      }
+    },
+    "summary": "Fig 1: Developed LabelX for RNA anchoring to ExM gel, enabling RNA FISH post-expansion. Fig 2: Demonstrated multiplexed RNA imaging with ExFISH, showing stability across multiple FISH cycles. Fig 3: Applied ExFISH to mouse brain tissue, visualizing mRNAs with HCR amplification, achieving single molecule precision in thick specimens.",
+    "application_goal": "The protocol enabled the visualization of RNA with nanoscale precision and single molecule resolution in intact tissues, facilitating the study of RNA structures and their spatial organization within biological specimens.",
+    "novelty": "This work introduces a novel reagent, LabelX, for covalently anchoring RNA to the ExM gel, allowing for high-resolution imaging of RNA in expanded samples. Compared to previous ExM variants, ExFISH provides enhanced RNA retention and supports multiplexed RNA FISH, offering a significant improvement in the ability to visualize RNA structures and localizations with nanoscale precision. The method's compatibility with conventional diffraction-limited microscopes and its application to thick tissue specimens, such as mouse brain, highlight its potential for broad biological and medical research applications.",
+    "hash": "9856787a1a52035c18b11388b8650b49a42b1e1a1bd736fe4d6cbd0870800986",
+    "source_file": "nihms790112.pdf",
+    "inferred_keywords": [
+      "RNA",
+      "mRNAs",
+      "long non-coding RNAs",
+      "LabelX",
+      "ExM gel",
+      "ExFISH",
+      "HCR amplification",
+      "multiplexed RNA imaging",
+      "single molecule precision",
+      "nanoscale precision",
+      "RNA structures",
+      "RNA spatial organization",
+      "mouse brain tissue",
+      "thick tissue specimens",
+      "diffraction-limited microscopes",
+      "RNA retention",
+      "multiplexed RNA FISH",
+      "high-resolution imaging",
+      "RNA anchoring",
+      "covalent anchoring",
+      "expanded samples",
+      "visualization of RNA",
+      "biological specimens",
+      "biological research applications",
+      "medical research applications",
+      "nanoscale imaging",
+      "expansion microscopy",
+      "RNA FISH post-expansion"
+    ],
+    "year": "2017",
+    "acronym": "ExM",
+    "first_author_year": "Chen2017",
+    "exf_static": 3,
+    "variant_semantic": [
+      "chromatin",
+      "nuclear pore complex",
+      "dendrites",
+      "axons",
+      "synaptic vesicles"
+    ],
+    "priority_index": 3
+  },
+  {
+    "title": "GelMap: intrinsic calibration and deformation mapping for expansion microscopy",
+    "doi": "10.1038/s41592-023-02001-y",
+    "link": "https://doi.org/10.1038/s41592-023-02001-y",
+    "authors": "Hugo G. J. Damstra, Josiah B. Passmore, Albert K. Serweta, Ioannis Koutlas, Mithila Burute, Frank J. Meye, Anna Akhmanova, Lukas C. Kapitein",
+    "sample": [
+      "tissue slice",
+      "cell culture"
+    ],
+    "organism": [
+      "mouse"
+    ],
+    "resolution": "submicron",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "10-11x",
+    "expansion_strategy": "iterative",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "bisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "U2OS cells",
+        "mouse brain tissue"
+      ],
+      "variant": [
+        "YFP\u2013H2B",
+        "mCherry\u2013tubulin"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "enzymatic digestion",
+          "thermal denaturation"
+        ],
+        "temperature_C": null,
+        "duration_min": null
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "PFA + AA"
+      }
+    },
+    "summary": "Fig 1: Demonstrates the transfer of a fluorescent pattern from a coverslip to a hydrogel, enabling deformation correction. Fig 2: Validates GelMap's ability to correct cellular-scale deformations using different grid sizes. Fig 3: Shows GelMap's utility in correlative live-cell and expansion microscopy, facilitating cell localization post-expansion. Fig 4: Illustrates GelMap's application to tissue slices, enabling correction of local deformations in expanded brain tissue.",
+    "application_goal": "The protocol enabled precise determination of local expansion factors and correction of deformations in expanded samples, facilitating quantitative and diagnostic applications of expansion microscopy.",
+    "novelty": "GelMap introduces a scalable fluorescent grid for intrinsic calibration of ExM hydrogels, overcoming limitations of previous methods that required pre-expansion imaging or cellular reference structures. This approach provides robust quality control, enabling accurate deformation mapping and sample navigation, which is critical for high-expansion applications and clinical diagnostics.",
+    "hash": "8cf09accc3b78cd1a841a6864ea908a9e5f527618b1db0fcc36037d3604b03a9",
+    "source_file": "s41592-023-02001-y.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "immunostaining",
+      "hydrogel",
+      "fluorescent pattern",
+      "cellular-scale deformations",
+      "correlative live-cell microscopy",
+      "expansion microscopy",
+      "brain tissue",
+      "local expansion factors",
+      "deformation correction",
+      "quantitative applications",
+      "diagnostic applications",
+      "scalable fluorescent grid",
+      "intrinsic calibration",
+      "ExM hydrogels",
+      "pre-expansion imaging",
+      "cellular reference structures",
+      "quality control",
+      "deformation mapping",
+      "sample navigation",
+      "high-expansion applications",
+      "clinical diagnostics",
+      "tissue slices",
+      "local deformations",
+      "coverslip",
+      "grid sizes",
+      "cell localization",
+      "expanded samples"
+    ],
+    "year": "2023",
+    "acronym": "GelMap",
+    "first_author_year": "Damstra2023",
+    "exf_static": 10,
+    "variant_semantic": [
+      "chromatin",
+      "microtubules",
+      "endoplasmic reticulum"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "HiExM: high-throughput expansion microscopy enables scalable super-resolution imaging",
+    "doi": "10.7554/eLife.96025.3",
+    "link": "https://doi.org/10.7554/eLife.96025.3",
+    "authors": "John H Day, Catherine Marin Della Santina, Pema Maretich, Alexander L Auld, Kirsten K Schnieder, Tay Shin, Edward S Boyden, Laurie A Boyer",
+    "sample": [
+      "cell culture"
+    ],
+    "organism": [
+      "human"
+    ],
+    "resolution": "\u223c115 nm",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "DNA"
+    ],
+    "expansion_factor": "\u223c4.2x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "n, n\u2019-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "A549 cells",
+        "human induced pluripotent stem cell derived cardiomyocytes"
+      ],
+      "variant": [],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": null,
+        "duration_min": null
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "AcX"
+      }
+    },
+    "summary": "Fig 1: HiExM device design enables gel formation and expansion in 96-well plates, crucial for high-throughput applications. Fig 2: HiExM achieves nanoscale resolution and minimal distortion, demonstrating compatibility with automated imaging systems. Fig 3: HiExM reveals doxorubicin-induced nuclear changes in cardiomyocytes, highlighting its sensitivity to detect subtle cellular alterations. The study showcases HiExM's potential for scalable super-resolution imaging, broadening ExM's applicability in biological research.",
+    "application_goal": "The protocol enabled high-throughput expansion microscopy in standard 96-well plates, allowing for scalable super-resolution imaging of biological samples. This method facilitates the analysis of multiple experimental conditions simultaneously, significantly increasing data output and enabling detailed cellular phenotyping and drug response studies.",
+    "novelty": "HiExM introduces a high-throughput approach to expansion microscopy by adapting the technique to 96-well plates, allowing for parallel sample processing and automated imaging. This method contrasts with traditional slide-based ExM, which is limited in throughput. The use of a photo-active gel solution with Irgacure 2959 ensures consistent expansion, and the device's design allows for reproducible gel deposition and expansion. HiExM achieves a resolution of \u223c115 nm, comparable to other super-resolution methods, but with increased accessibility and scalability, making it a valuable tool for biological research and pharmaceutical applications.",
+    "hash": "04abe880971fe4e60f1dd94670ef1f5d2c6b801aad20fda68937e19a40f9f2d1",
+    "source_file": "96025-v3.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "DNA",
+      "cardiomyocytes",
+      "nuclear changes",
+      "super-resolution imaging",
+      "expansion microscopy",
+      "96-well plates",
+      "high-throughput",
+      "automated imaging",
+      "cellular phenotyping",
+      "drug response studies",
+      "photo-active gel solution",
+      "Irgacure 2959",
+      "gel formation",
+      "gel expansion",
+      "nanoscale resolution",
+      "cellular alterations",
+      "scalability",
+      "reproducibility",
+      "parallel sample processing",
+      "slide-based ExM",
+      "resolution",
+      "biological research",
+      "pharmaceutical applications",
+      "immunostaining",
+      "doxorubicin"
+    ],
+    "year": "2023",
+    "acronym": "HiExM",
+    "first_author_year": "Day2023",
+    "exf_static": 4,
+    "variant_semantic": [
+      "nuclear pore complex",
+      "chromatin",
+      "nuclear lamina",
+      "mitochondria"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "Light-microscopy-based connectomic reconstruction of mammalian brain tissue",
+    "doi": "10.1038/s41586-025-08985-1",
+    "link": "https://doi.org/10.1038/s41586-025-08985-1",
+    "authors": "Mojtaba R. Tavakoli, Julia Lyudchik, Micha\u0142 Januszewski, Vitali Vistunou, Nathalie Agudelo Due\u00f1as, Jakob Vorlaufer, Christoph Sommer, Caroline Kreuzinger, B\u00e1rbara Oliveira, Alban Cenameri, Gaia Novarino, Viren Jain, Johann G. Danzl",
+    "sample": [
+      "brain tissue"
+    ],
+    "organism": [
+      "mouse"
+    ],
+    "resolution": "20-50 nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "16x",
+    "expansion_strategy": "iterative",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse primary somatosensory cortex",
+        "hippocampal CA1"
+      ],
+      "variant": [
+        "Thy1-eGFP"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 95,
+        "duration_min": 100
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "epoxide"
+      }
+    },
+    "summary": "Fig 1: Demonstrates the LICONN method for synapse-level reconstruction of brain tissue, highlighting its ability to trace neuronal structures. Fig 2: Shows deep-learning-based segmentation of neuronal structures, achieving high accuracy in synapse detection. Fig 3: Illustrates molecular labelling and synapse detection, using immunolabelling to identify synaptic proteins. Fig 4: Details connectivity analysis and deep-learning-based synapse detection, mapping synaptic inputs and outputs. Fig 5: Explores applications of LICONN beyond synaptic connectivity, including cell type identification and subcellular structure characterization.",
+    "application_goal": "The protocol enabled dense reconstruction of brain circuitry with light microscopy at synaptic resolution, integrating hydrogel expansion with protein-density staining and high-speed readout for manual neuronal tracing and deep-learning-based segmentation.",
+    "novelty": "This work introduces LICONN, a method that combines iterative hydrogel expansion with light microscopy to achieve synapse-level resolution in brain tissue. Unlike previous expansion microscopy techniques, LICONN provides high-fidelity tissue preservation and traceability of neuronal structures, including axons and dendritic spines. The method allows for the integration of molecular information into synapse-level reconstructions, offering a significant advancement over traditional electron microscopy by enabling direct visualization of specific proteins and synaptic connectivity.",
+    "hash": "b5a0ae259e71d860a52c2aa4bedd6fdeaaf6f53388557438a2e2331cb64d3b05",
+    "source_file": "s41586-025-08985-1.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "lipids",
+      "DNA",
+      "RNA",
+      "synaptic proteins",
+      "neurons",
+      "astrocytes",
+      "brain tissue",
+      "synapse",
+      "axons",
+      "dendritic spines",
+      "hydrogel expansion",
+      "immunolabelling",
+      "light microscopy",
+      "electron microscopy",
+      "deep-learning-based segmentation",
+      "connectivity analysis",
+      "synapse detection",
+      "cell type identification",
+      "subcellular structure characterization",
+      "protein-density staining",
+      "manual neuronal tracing",
+      "iterative hydrogel expansion",
+      "high-speed readout",
+      "traceability",
+      "high-fidelity tissue preservation",
+      "molecular labelling",
+      "synaptic connectivity",
+      "neuronal structures"
+    ],
+    "year": "2025",
+    "acronym": "LICONN",
+    "first_author_year": "Tavakoli2025",
+    "exf_static": 16,
+    "variant_semantic": [
+      "synaptic vesicles",
+      "postsynaptic density",
+      "active zone",
+      "dendrites",
+      "axons"
+    ],
+    "priority_index": 1
+  },
+  {
+    "title": "Single-shot 20-fold expansion microscopy",
+    "doi": "10.1038/s41592-024-02454-9",
+    "link": "https://doi.org/10.1038/s41592-024-02454-9",
+    "authors": "Shiwei Wang, Tay Won Shin, Harley B. Yoder II, Ryan B. McMillan, Hanquan Su, Yixi Liu, Chi Zhang, Kylie S. Leung, Peng Yin, Laura L. Kiessling, Edward S. Boyden",
+    "sample": [
+      "brain tissue",
+      "cell culture"
+    ],
+    "organism": [
+      "mouse"
+    ],
+    "resolution": "<20-nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "20x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "N,N-dimethylacrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": []
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse somatosensory cortex",
+        "HEK293 cells"
+      ],
+      "variant": [
+        "NUP96-mNeonGreen"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "proteolytic",
+          "chemical/thermal"
+        ],
+        "temperature_C": 95,
+        "duration_min": 60
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "AcX"
+      }
+    },
+    "summary": "Fig 1: Developed a superabsorbent hydrogel for single-step 20x expansion, improving simplicity and performance. Fig 2: Validated 20ExM resolution by visualizing microtubule structures, achieving <20-nm resolution comparable to iterative methods. Fig 3: Demonstrated 20ExM's utility in brain tissue by imaging synaptic nanocolumns, revealing precise alignment of presynaptic and postsynaptic proteins. Additional figures: Explored 20ExM's application to other organelles and tissues, highlighting its versatility and potential for broader biological research.",
+    "application_goal": "The protocol enabled high-resolution imaging of biological samples, such as brain tissue and cell cultures, with a single expansion step, achieving the performance of iterative expansion methods while maintaining simplicity. This allows for detailed visualization of nanoscale structures, such as synaptic nanocolumns and microtubule architecture, facilitating advanced biological investigations.",
+    "novelty": "This study introduces a single-shot expansion microscopy protocol, 20ExM, achieving ~20x expansion and <20-nm resolution, comparable to iterative methods but with reduced complexity. The use of a superabsorbent hydrogel composed of N,N-dimethylacrylamide and sodium acrylate, along with optimized gelation conditions, represents a significant advancement over previous ExM variants. The protocol supports postexpansion staining, enhancing biomolecular labeling capabilities, and is applicable to a variety of biological samples, including challenging tissues like brain and cell cultures.",
+    "hash": "b8722b7fc6d90e4e84b4e49ffedc866a600864bba6c3e73d26f43b38c1efa12e",
+    "source_file": "www.nature.com 10_11_2024, 10_46_54 AM.pdf",
+    "inferred_keywords": [
+      "superabsorbent hydrogel",
+      "N,N-dimethylacrylamide",
+      "sodium acrylate",
+      "microtubule structures",
+      "synaptic nanocolumns",
+      "presynaptic proteins",
+      "postsynaptic proteins",
+      "brain tissue",
+      "cell cultures",
+      "expansion microscopy",
+      "20ExM",
+      "iterative expansion methods",
+      "gelation conditions",
+      "postexpansion staining",
+      "biomolecular labeling",
+      "nanoscale structures",
+      "microtubule architecture",
+      "immunostaining",
+      "resolution",
+      "single-step expansion",
+      "high-resolution imaging",
+      "biological samples",
+      "organelles",
+      "tissues",
+      "visualization",
+      "nanostructures",
+      "simplicity",
+      "versatility",
+      "biological research"
+    ],
+    "year": "2024",
+    "acronym": "20ExM",
+    "first_author_year": "Wang2024",
+    "exf_static": 20,
+    "variant_semantic": [
+      "nuclear pore complex",
+      "endoplasmic reticulum",
+      "microtubules"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope",
+    "doi": "10.1126/sciadv.abm4006",
+    "link": "https://science.org/doi/10.1126/sciadv.abm4006",
+    "authors": "Hongxia Li, Antony R. Warden, Jie He, Guangxia Shen, Xianting Ding",
+    "sample": [
+      "cell culture"
+    ],
+    "organism": [
+      "human"
+    ],
+    "resolution": "31 nm",
+    "biomolecule": [
+      "proteins (immunostaining)"
+    ],
+    "expansion_factor": "9x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "N,N-ethylenebisacrylamide (EBIS)"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "Hela cells"
+      ],
+      "variant": [
+        "Nup153"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": null,
+        "duration_min": null
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "methacrylic acid N-hydroxysuccinimide ester (MA-NHS)"
+      }
+    },
+    "summary": "Fig 1 illustrates the principle of ExM using NIFS hydrogel, highlighting the chemical components and expansion process. Fig 2 evaluates the expansion ability of NIFS hydrogels at different scales, showing consistent isotropic expansion. Fig 3 demonstrates the performance of optimized NIFS hydrogel for ExM, achieving high-resolution imaging of microtubules. Fig 4 showcases the superimaging of nuclear pore complex (NPC) structures, revealing details previously concealed in conventional microscopy.",
+    "application_goal": "The protocol enabled high-resolution imaging of cellular ultrastructures using conventional laboratory microscopes by employing a novel NIFS hydrogel that expands specimens ninefold. This method allows detailed visualization of structures like nuclear pore complexes and clathrin-coated pits, which are challenging to resolve with standard microscopy.",
+    "novelty": "This study introduces a novel NIFS hydrogel that achieves a ninefold expansion, significantly enhancing the resolution of conventional microscopy to 31 nm, comparable to advanced superresolution techniques. Unlike iterative ExM methods, this single-shot approach simplifies the process and reduces time consumption. The use of a new cross-linking agent, EBIS, and a detachable chip for integrated ExM processes further distinguishes this work from previous ExM variants, offering a cost-effective and reproducible method for high-resolution imaging.",
+    "hash": "3523f68ea6d155b026054bca6633ae838d4a4ec677b60ce5291b061981ed7e92",
+    "source_file": "Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope.pdf",
+    "inferred_keywords": [
+      "NIFS hydrogel",
+      "expansion microscopy (ExM)",
+      "microtubules",
+      "nuclear pore complex (NPC)",
+      "clathrin-coated pits",
+      "cellular ultrastructures",
+      "isotropic expansion",
+      "high-resolution imaging",
+      "conventional microscope",
+      "superresolution techniques",
+      "cross-linking agent",
+      "EBIS",
+      "detachable chip",
+      "integrated ExM processes",
+      "cost-effective",
+      "reproducible method",
+      "proteins (immunostaining)",
+      "ninefold expansion",
+      "single-shot approach",
+      "cell structures",
+      "chemical components",
+      "expansion process",
+      "superimaging",
+      "conventional microscopy",
+      "advanced superresolution",
+      "iterative ExM methods",
+      "time consumption",
+      "novelty",
+      "scalability"
+    ],
+    "year": "2023",
+    "acronym": "ExM",
+    "first_author_year": "Li2023",
+    "exf_static": 9,
+    "variant_semantic": [
+      "nuclear pore complex",
+      "microtubules"
+    ],
+    "priority_index": 3
+  },
+  {
+    "title": "iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy",
+    "doi": "10.1038/s41467-023-43582-8",
+    "link": "https://doi.org/10.1038/s41467-023-43582-8",
+    "authors": "Vincent Louvel, Romuald Haase, Olivier Mercey, Marine H. Laporte, Thibaut Eloy, \u00c9tienne Baudrier, Denis Fortun, Dominique Soldati-Favre, Virginie Hamel, Paul Guichard",
+    "sample": [
+      "isolated organelles",
+      "cells",
+      "tissue"
+    ],
+    "organism": [
+      "human",
+      "Toxoplasma gondii",
+      "mouse",
+      "Chlamydomonas reinhardtii"
+    ],
+    "resolution": "better than 20 nm",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "tubulin",
+      "NUP96"
+    ],
+    "expansion_factor": "16x",
+    "expansion_strategy": "iterative",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "DHEBA",
+        "bisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "U2OS cells",
+        "mouse retina",
+        "Toxoplasma gondii tachyzoites",
+        "Chlamydomonas reinhardtii"
+      ],
+      "variant": [
+        "NUP96-GFP",
+        "GFP-sec61\u03b2"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 85,
+        "duration_min": 90
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "formaldehyde + acrylamide"
+      }
+    },
+    "summary": "Fig 1 demonstrates the development of iU-ExM, optimizing homogenization and staining to achieve 16x expansion. Fig 2 shows iU-ExM revealing the 8-fold symmetry of nuclear pores, comparable to SMLM resolution. Fig 3 explores the molecular architecture of the Toxoplasma conoid, achieving sub-20 nm resolution. Fig 4 applies iU-ExM to membranous organelles, visualizing mitochondria and ER with high precision. Fig 5 extends iU-ExM to mouse retinal tissue, revealing ciliary periodicity and protein localization in photoreceptors.",
+    "application_goal": "The iU-ExM protocol enabled visualization of molecular details at resolutions comparable to SMLM, using conventional fluorescence microscopy. This approach allows for detailed study of subcellular structures, such as nuclear pores and Toxoplasma conoids, and is applicable to tissues, expanding the accessibility of super-resolution imaging.",
+    "novelty": "This study introduces iU-ExM, combining U-ExM with iterative expansion to achieve SMLM-level resolution. Unlike previous ExM variants, iU-ExM uses a higher denaturation temperature (85\u00b0C) and intermediate staining, enhancing expansion and signal intensity. The method achieves better than 20 nm resolution, revealing structures like the 8-fold symmetry of nuclear pores and the organization of Toxoplasma conoids, which were previously challenging to resolve with ExM alone.",
+    "hash": "0a4be6475bf11d046e5aedbf3cba88d93cf9403a2a9f2ebb9533b272892015d8",
+    "source_file": "www.nature.com 1-12-2023 19_57_47.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "tubulin",
+      "NUP96",
+      "DNA",
+      "RNA",
+      "lipids",
+      "nuclear pores",
+      "mitochondria",
+      "endoplasmic reticulum",
+      "synapse",
+      "neurons",
+      "astrocytes",
+      "liver tissue",
+      "mouse retinal tissue",
+      "photoreceptors",
+      "Toxoplasma conoid",
+      "fluorescence microscopy",
+      "super-resolution microscopy",
+      "SMLM (single-molecule localization microscopy)",
+      "iU-ExM (iterative ultrastructure expansion microscopy)",
+      "U-ExM (ultrastructure expansion microscopy)",
+      "homogenization",
+      "staining",
+      "ciliary periodicity",
+      "protein localization",
+      "membrane remodeling",
+      "cell division",
+      "high denaturation temperature",
+      "intermediate staining",
+      "16x expansion",
+      "8-fold symmetry",
+      "sub-20 nm resolution",
+      "well plates",
+      "scalability",
+      "high-throughput",
+      "reproducibility"
+    ],
+    "year": "2023",
+    "acronym": "iU-ExM",
+    "first_author_year": "Louvel2023",
+    "exf_static": 16,
+    "variant_semantic": [
+      "endoplasmic reticulum",
+      "nuclear pore complex",
+      "mitochondria"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "Light microscopy of proteins in their ultrastructural context",
+    "doi": "10.1038/s41467-020-17523-8",
+    "link": "https://doi.org/10.1038/s41467-020-17523-8",
+    "authors": "Ons M\u2019Saad, Joerg Bewersdorf",
+    "sample": [
+      "whole-cell",
+      "HeLa cells",
+      "U-2OS cells"
+    ],
+    "organism": [
+      "human"
+    ],
+    "resolution": "20-30 nm",
+    "biomolecule": [
+      "proteins (pan-staining)",
+      "DNA (SYTOX Green)",
+      "lipids (MitoTracker)"
+    ],
+    "expansion_factor": "13-21x",
+    "expansion_strategy": "iterative",
+    "combined_with": [
+      "STED"
+    ],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "DHEBA",
+        "BIS"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "HeLa cells",
+        "U-2OS cells"
+      ],
+      "variant": [
+        "GFP-ManII",
+        "GFP-Sec61\u03b2"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "chemical/thermal"
+        ],
+        "temperature_C": 73,
+        "duration_min": 60
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "formaldehyde + acrylamide"
+      }
+    },
+    "summary": "Fig 1 demonstrates the pan-ExM method, showing cellular ultrastructure in HeLa cells. Fig 2 illustrates compatibility with conventional fluorescent labels, highlighting microtubules and mitochondria. Fig 3 focuses on nuclear architecture, revealing nuclear pore complexes and nucleoli. Fig 4 explores mitotic cell ultrastructure, detailing the mitotic spindle and kinetochores. Fig 5 presents centriole ultrastructure, showing subdistal appendages and microtubule triplets. Fig 6 examines organelle ultrastructure, including mitochondrial cristae and Golgi cisternae. Fig 7 confirms 3D imaging compatibility, visualizing the Golgi complex in 3D.",
+    "application_goal": "The protocol enables visualization of cellular ultrastructure with light microscopy, achieving EM-like contrast and resolution by expanding samples up to 21-fold while retaining protein content. This allows for detailed imaging of organelles and cellular architecture without the need for electron microscopy.",
+    "novelty": "This study introduces pan-ExM, a method combining iterative expansion microscopy with pan-staining to achieve high-resolution imaging of cellular ultrastructure. Unlike previous ExM variants limited to 4x expansion, pan-ExM achieves 13-21x expansion, revealing nanoscale details with conventional light microscopy. The use of semi-interpenetrating polymer networks for protein retention and the compatibility with standard fluorescent labels distinguish this approach from prior methods, offering a simpler alternative to CLEM and super-resolution techniques.",
+    "hash": "e9843b6be1eed249698071e0e01209cbcf3b01a31f6aaac2b166b4c0cf5e2b50",
+    "source_file": "Light microscopy of proteins in their ultrastructural context.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "DNA",
+      "lipids",
+      "microtubules",
+      "mitochondria",
+      "nuclear pore complexes",
+      "nucleoli",
+      "mitotic spindle",
+      "kinetochores",
+      "centrioles",
+      "subdistal appendages",
+      "microtubule triplets",
+      "mitochondrial cristae",
+      "Golgi cisternae",
+      "Golgi complex",
+      "HeLa cells",
+      "pan-ExM",
+      "iterative expansion microscopy",
+      "fluorescent labels",
+      "semi-interpenetrating polymer networks",
+      "cellular ultrastructure",
+      "light microscopy",
+      "electron microscopy",
+      "CLEM",
+      "super-resolution techniques",
+      "expansion microscopy",
+      "3D imaging",
+      "nanoscale details",
+      "protein retention",
+      "conventional light microscopy"
+    ],
+    "year": "2020",
+    "acronym": "pan-ExM",
+    "first_author_year": "M'Saad2020",
+    "exf_static": 13,
+    "variant_semantic": [
+      "endoplasmic reticulum",
+      "nuclear pore complex",
+      "mitochondria",
+      "golgi",
+      "microtubules"
+    ],
+    "priority_index": 1
+  },
+  {
+    "title": "Protein-retention expansion microscopy of cells and tissues labeled using standard fluorescent proteins and antibodies",
+    "doi": "10.1038/nbt.3625",
+    "link": null,
+    "authors": "Paul W Tillberg, Fei Chen, Kiryl D Piatkevich, Yongxin Zhao, Chih-Chieh (Jay) Yu, Brian P English, Linyi Gao, Anthony Martorell, Ho-Jun Suk, Fumiaki Yoshida, Ellen M DeGennaro, Douglas H Roossien, Guanyu Gong, Uthpala Seneviratne, Steven R Tannenbaum, Robert Desimone, Dawen Cai, Edward S Boyden",
+    "sample": [
+      "cells",
+      "mammalian tissues"
+    ],
+    "organism": [
+      "mouse",
+      "rhesus macaque"
+    ],
+    "resolution": "~70 nm",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "fluorescent proteins"
+    ],
+    "expansion_factor": "4x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [
+      "SR-SIM",
+      "confocal microscopy"
+    ],
+    "chemistry": {
+      "monomer": [
+        "sodium acrylate",
+        "acrylamide"
+      ],
+      "crosslinker": [
+        "N,N'-methylenebisacrylamide",
+        "acryloyl-X, SE (AcX)"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "HEK293FT cells",
+        "mouse brain",
+        "rhesus macaque cortex"
+      ],
+      "variant": [
+        "Thy1-YFP",
+        "Brainbow3.0"
+      ],
+      "homogenization": {
+        "score": 4,
+        "method": [
+          "proteolytic"
+        ],
+        "temperature_C": 60,
+        "duration_min": 240
+      },
+      "anchoring": {
+        "score": 5,
+        "reagent": "AcX"
+      }
+    },
+    "summary": "Fig 1 demonstrates the retention of fluorescence signals in proExM-treated cells, highlighting the preservation of genetically encoded fluorescent proteins and antibodies. Fig 2 validates proExM across various mammalian tissues, showing consistent expansion and fluorescence retention. Fig 3 applies proExM to visualize brain circuitry in mice and macaques, resolving dendritic spines and complex neuronal structures. The figures collectively illustrate proExM's capability for high-resolution imaging using conventional microscopy setups.",
+    "application_goal": "The protocol enabled the use of conventional fluorescently labeled antibodies and genetically encoded fluorescent proteins for multicolor super-resolution imaging of cells and tissues on standard microscopes, overcoming previous limitations of ExM that required custom reagents and did not retain native proteins.",
+    "novelty": "This study introduces protein retention expansion microscopy (proExM), which anchors proteins directly to the swellable gel using a commercially available cross-linker, AcX. This approach allows for the use of standard antibodies and fluorescent proteins, unlike previous ExM methods that required custom synthesis of gel-anchorable labels. The proExM method achieves ~70 nm resolution, comparable to super-resolution techniques, but with the simplicity and accessibility of conventional microscopy. This work expands the applicability of ExM to a broader range of biological samples and imaging setups.",
+    "hash": "f01696964587d48aa3f8af128d8fb9454983653e7589c8fc61eb7a2d730bbce4",
+    "source_file": "www.nature.com 9_19_2019, 2_05_03 PM.pdf",
+    "inferred_keywords": [
+      "proteins",
+      "fluorescent proteins",
+      "antibodies",
+      "dendritic spines",
+      "neuronal structures",
+      "brain circuitry",
+      "mammalian tissues",
+      "cells",
+      "tissues",
+      "proExM",
+      "expansion microscopy",
+      "super-resolution imaging",
+      "conventional microscopy",
+      "genetically encoded fluorescent proteins",
+      "AcX cross-linker",
+      "gel-anchorable labels",
+      "high-resolution imaging",
+      "multicolor imaging",
+      "protein retention",
+      "swellable gel",
+      "standard antibodies",
+      "fluorescence retention",
+      "microscopy setups",
+      "immunostaining",
+      "neurons",
+      "mice",
+      "macaques",
+      "resolution",
+      "imaging protocols",
+      "biological samples"
+    ],
+    "year": "2016",
+    "acronym": "proExM",
+    "first_author_year": "Tillberg2016",
+    "exf_static": 4,
+    "variant_semantic": [
+      "dendrites",
+      "axons",
+      "synaptic vesicles",
+      "postsynaptic density",
+      "chromatin"
+    ],
+    "priority_index": 2
+  },
+  {
+    "title": "Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx)",
+    "doi": "10.7554/eLife.73775",
+    "link": "https://doi.org/10.7554/eLife.73775",
+    "authors": "Hugo GJ Damstra, Boaz Mohar, Mark Eddison, Anna Akhmanova, Lukas C Kapitein, Paul W Tillberg",
+    "sample": [
+      "thick mouse brain tissue sections",
+      "cultured human cells"
+    ],
+    "organism": [
+      "mouse",
+      "human"
+    ],
+    "resolution": "subcellular",
+    "biomolecule": [
+      "proteins (immunostaining)",
+      "membranes",
+      "total protein"
+    ],
+    "expansion_factor": "10x",
+    "expansion_strategy": "single-shot",
+    "combined_with": [],
+    "chemistry": {
+      "monomer": [
+        "acrylamide",
+        "sodium acrylate"
+      ],
+      "crosslinker": [
+        "bisacrylamide"
+      ]
+    },
+    "qualifiers": {
+      "model_system": [
+        "mouse brain tissue",
+        "U2OS cells",
+        "Jurkat T cells",
+        "Caco-2 cells"
+      ],
+      "variant": [
+        "GFP-Sec61\u03b2",
+        "NUP96-GFP knock-in"
+      ],
+      "homogenization": {
+        "score": 3,
+        "method": [
+          "proteolytic",
+          "chemical/thermal"
+        ],
+        "temperature_C": 80,
+        "duration_min": 180
+      },
+      "anchoring": {
+        "score": 4,
+        "reagent": "AcX"
+      }
+    },
+    "summary": "Fig 1: Systematic exploration of gel recipes to optimize expansion factor and mechanical quality. Fig 2: Application of TREx to mouse brain tissue, revealing subcellular structures with total protein and synaptic marker staining. Fig 3: Validation of expansion isotropy using nuclear pore complexes and microtubules as reference structures. Fig 4: Visualization of cellular membranes in Jurkat T cells and Caco-2 cells using mCLING, demonstrating the ability to resolve fine ultrastructural details. Fig 5: Combination of TREx with antibody and NHS ester staining to provide subcellular context in U2OS cells.",
+    "application_goal": "The TREx protocol enables high-resolution imaging of cellular and tissue ultrastructure by achieving a 10-fold expansion in a single step, allowing for detailed visualization of subcellular components such as proteins and membranes in both thick tissue sections and cultured cells.",
+    "novelty": "TREx represents a significant advancement over previous ExM methods by achieving a 10-fold expansion factor without compromising gel integrity or requiring complex procedures. Unlike iterative ExM, which involves multiple rounds of expansion, TREx simplifies the process while maintaining compatibility with standard laboratory equipment. The method's robustness and ease of use make it accessible for a wide range of biological applications, providing enhanced resolution and isotropy compared to traditional 4x ExM and other super-resolution techniques.",
+    "hash": "ab940ee6f7cfd63868b045668cb9deddd74d3edebd1eff68fad30935d785fd5d",
+    "source_file": "Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx).pdf",
+    "inferred_keywords": [
+      "proteins",
+      "lipids",
+      "DNA",
+      "RNA",
+      "nuclear pore complexes",
+      "microtubules",
+      "cellular membranes",
+      "synaptic marker",
+      "mCLING",
+      "antibody staining",
+      "NHS ester staining",
+      "Jurkat T cells",
+      "Caco-2 cells",
+      "U2OS cells",
+      "mouse brain tissue",
+      "subcellular structures",
+      "expansion microscopy",
+      "TREx protocol",
+      "10-fold expansion",
+      "gel recipes",
+      "isotropy",
+      "high-resolution imaging",
+      "ultrastructure",
+      "iterative ExM",
+      "standard laboratory equipment",
+      "super-resolution techniques",
+      "thick tissue sections",
+      "cultured cells",
+      "mechanical quality",
+      "subcellular components"
+    ],
+    "year": "2023",
+    "acronym": "TREx",
+    "first_author_year": "Damstra2023",
+    "exf_static": 10,
+    "variant_semantic": [
+      "endoplasmic reticulum",
+      "nuclear pore complex",
+      "microtubules"
+    ],
+    "priority_index": 2
+  }
+]
