@@ -3,7 +3,7 @@
     "title": "Super-resolution expansion microscopy in plant roots",
     "doi": "10.1093/plcell/koaf006",
     "link": "https://doi.org/10.1093/plcell/koaf006",
-    "authors": "Michelle Gallei, Sven Truckenbrodt, Caroline Kreuzinger, Syamala Inumella, Vitali Vistunou, Christoph Sommer, Mojtaba R. Tavakoli, Nathalie Agudelo Due\u00f1as, Jakob Vorlaufer, Wiebke Jahr, Marek Randuch, Alexander Johnson, Eva Benkov\u00e1, Jir\u030c\u00ed Friml, Johann G. Danzl",
+    "authors": "Michelle Gallei, Sven Truckenbrodt, Caroline Kreuzinger, Syamala Inumella, Vitali Vistunou, Christoph Sommer, Mojtaba R. Tavakoli, Nathalie Agudelo Due\u00f1as, Jakob Vorlaufer, Wiebke Jahr, Marek Randuch, Alexander Johnson, Eva Benkov\u00e1, Jir\u030c \u00ed Friml, Johann G. Danzl",
     "sample": [
       "whole-mount root tissues"
     ],
@@ -97,15 +97,14 @@
       "microtubules",
       "trans-golgi network"
     ],
-    "priority_index": 2,
-    "biomolecule_unified": [
-      "proteins (immunostaining)",
-      "proteins (pan-labeling)"
-    ],
+    "priority_index": 1,
+    "biomolecule_unified": [],
     "organism_unified": [
       "A. thaliana"
     ],
     "sample_unified": [
+      "tissue slice",
+      "whole organism",
       "plant tissue"
     ]
   },
@@ -204,8 +203,8 @@
       "M. musculus"
     ],
     "sample_unified": [
-      "tissue slice",
-      "brain tissue"
+      "brain tissue",
+      "tissue slice"
     ]
   },
   {
@@ -310,7 +309,7 @@
     "variant_semantic": [
       "microtubules"
     ],
-    "priority_index": 3,
+    "priority_index": 1,
     "biomolecule_unified": [
       "proteins (immunostaining)"
     ],
@@ -321,8 +320,9 @@
       "E. coli"
     ],
     "sample_unified": [
-      "cell culture",
+      "brain tissue",
       "tissue slice",
+      "cell culture",
       "whole organism",
       "bacteria"
     ]
@@ -434,15 +434,16 @@
     "priority_index": 1,
     "biomolecule_unified": [
       "proteins (immunostaining)",
-      "RNA"
+      "lipids"
     ],
     "organism_unified": [
       "M. musculus",
       "H. sapiens"
     ],
     "sample_unified": [
+      "brain tissue",
       "tissue slice",
-      "brain tissue"
+      "cell culture"
     ]
   },
   {
@@ -544,7 +545,8 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "cell culture"
+      "cell culture",
+      "isolated organelles"
     ]
   },
   {
@@ -650,7 +652,7 @@
       "microtubules",
       "actin filaments"
     ],
-    "priority_index": 2,
+    "priority_index": 1,
     "biomolecule_unified": [
       "proteins (immunostaining)"
     ],
@@ -659,8 +661,7 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "cell culture",
-      "whole organism"
+      "cell culture"
     ]
   },
   {
@@ -761,7 +762,7 @@
       "axons",
       "synaptic vesicles"
     ],
-    "priority_index": 3,
+    "priority_index": 1,
     "biomolecule_unified": [
       "RNA"
     ],
@@ -770,8 +771,9 @@
       "H. sapiens"
     ],
     "sample_unified": [
-      "cell culture",
-      "brain tissue"
+      "brain tissue",
+      "tissue slice",
+      "cell culture"
     ]
   },
   {
@@ -869,7 +871,7 @@
       "microtubules",
       "endoplasmic reticulum"
     ],
-    "priority_index": 2,
+    "priority_index": 1,
     "biomolecule_unified": [
       "proteins (immunostaining)"
     ],
@@ -877,6 +879,7 @@
       "M. musculus"
     ],
     "sample_unified": [
+      "brain tissue",
       "tissue slice",
       "cell culture"
     ]
@@ -971,10 +974,10 @@
       "nuclear lamina",
       "mitochondria"
     ],
-    "priority_index": 2,
+    "priority_index": 3,
     "biomolecule_unified": [
-      "proteins (immunostaining)",
-      "DNA"
+      "DNA",
+      "proteins (immunostaining)"
     ],
     "organism_unified": [
       "H. sapiens"
@@ -1080,14 +1083,14 @@
     ],
     "priority_index": 1,
     "biomolecule_unified": [
-      "proteins (immunostaining)",
-      "proteins (pan-labeling)"
+      "proteins (immunostaining)"
     ],
     "organism_unified": [
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue"
+      "brain tissue",
+      "tissue slice"
     ]
   },
   {
@@ -1183,7 +1186,7 @@
       "endoplasmic reticulum",
       "microtubules"
     ],
-    "priority_index": 2,
+    "priority_index": 3,
     "biomolecule_unified": [
       "proteins (immunostaining)"
     ],
@@ -1192,6 +1195,7 @@
     ],
     "sample_unified": [
       "brain tissue",
+      "tissue slice",
       "cell culture"
     ]
   },
@@ -1419,8 +1423,10 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "isolated organelles",
-      "tissue slice"
+      "brain tissue",
+      "tissue slice",
+      "cell culture",
+      "isolated organelles"
     ]
   },
   {
@@ -1529,13 +1535,16 @@
     ],
     "priority_index": 1,
     "biomolecule_unified": [
-      "proteins (immunostaining)"
+      "DNA",
+      "proteins (immunostaining)",
+      "lipids"
     ],
     "organism_unified": [
       "H. sapiens"
     ],
     "sample_unified": [
-      "cell culture"
+      "cell culture",
+      "whole organism"
     ]
   },
   {
@@ -1643,17 +1652,18 @@
       "postsynaptic density",
       "chromatin"
     ],
-    "priority_index": 2,
+    "priority_index": 3,
     "biomolecule_unified": [
       "proteins (immunostaining)"
     ],
     "organism_unified": [
       "M. musculus",
-      "M. mulatta"
+      "Rhesus Macaque"
     ],
     "sample_unified": [
-      "cell culture",
-      "tissue slice"
+      "brain tissue",
+      "tissue slice",
+      "cell culture"
     ]
   },
   {
@@ -1760,13 +1770,15 @@
     ],
     "priority_index": 2,
     "biomolecule_unified": [
-      "proteins (immunostaining)"
+      "proteins (immunostaining)",
+      "membranes"
     ],
     "organism_unified": [
       "M. musculus",
       "H. sapiens"
     ],
     "sample_unified": [
+      "brain tissue",
       "tissue slice",
       "cell culture"
     ]
@@ -1867,7 +1879,8 @@
       "H. sapiens"
     ],
     "sample_unified": [
-      "brain tissue"
+      "brain tissue",
+      "tissue slice"
     ],
     "priority_index": 1
   },
@@ -2056,9 +2069,10 @@
       "golgi"
     ],
     "biomolecule_unified": [
-      "proteins (immunostaining)",
       "RNA",
-      "DNA"
+      "DNA",
+      "proteins (immunostaining)",
+      "lipids"
     ],
     "organism_unified": [
       "Bacteria",
@@ -2068,9 +2082,9 @@
     ],
     "sample_unified": [
       "cell culture",
-      "tissue slice"
+      "bacteria"
     ],
-    "priority_index": 2
+    "priority_index": 3
   },
   {
     "title": "Expansion Stimulated Emission Depletion Microscopy (ExSTED)",
@@ -2181,9 +2195,10 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "cell culture"
+      "cell culture",
+      "isolated organelles"
     ],
-    "priority_index": 2
+    "priority_index": 3
   },
   {
     "title": "Applications of Super Resolution Expansion Microscopy in Yeast",
@@ -2284,12 +2299,10 @@
       "proteins (immunostaining)"
     ],
     "organism_unified": [
-      "S. cerevisiae"
+      "Yeast"
     ],
-    "sample_unified": [
-      "isolated organelles"
-    ],
-    "priority_index": 1
+    "sample_unified": [],
+    "priority_index": 3
   },
   {
     "title": "One-step nanoscale expansion microscopy reveals individual protein shapes",
@@ -2391,10 +2404,8 @@
     "organism_unified": [
       "H. sapiens"
     ],
-    "sample_unified": [
-      "cell culture"
-    ],
-    "priority_index": 1
+    "sample_unified": [],
+    "priority_index": 2
   },
   {
     "title": "Molecular organization of mammalian meiotic chromosome axis revealed by expansion STORM microscopy",
@@ -2486,9 +2497,7 @@
     "organism_unified": [
       "M. musculus"
     ],
-    "sample_unified": [
-      "whole organism"
-    ],
+    "sample_unified": [],
     "priority_index": 3
   },
   {
@@ -2590,12 +2599,14 @@
       "proteins (immunostaining)"
     ],
     "organism_unified": [
-      "M. musculus"
+      "M. musculus",
+      "Marmoset"
     ],
     "sample_unified": [
-      "brain tissue"
+      "brain tissue",
+      "tissue slice"
     ],
-    "priority_index": 2
+    "priority_index": 1
   },
   {
     "title": "ExPOSE: a comprehensive toolkit to perform expansion microscopy in plant protoplast systems",
@@ -2690,12 +2701,12 @@
       "actin filaments"
     ],
     "biomolecule_unified": [
-      "proteins (immunostaining)",
-      "RNA"
+      "RNA",
+      "proteins (immunostaining)"
     ],
     "organism_unified": [
-      "A. thaliana",
-      "Z. mays"
+      "Arabidopsis",
+      "Maize"
     ],
     "sample_unified": [
       "plant tissue"
@@ -2807,20 +2818,20 @@
       "endoplasmic reticulum"
     ],
     "biomolecule_unified": [
-      "proteins (immunostaining)",
-      "DNA"
+      "DNA",
+      "proteins (immunostaining)"
     ],
     "organism_unified": [
       "D. melanogaster",
       "H. sapiens",
       "Planarian",
-      "S. enterica",
+      "Salmonella",
       "E. coli",
-      "L. plantarum"
+      "Lactobacillus Plantarum"
     ],
     "sample_unified": [
-      "bacteria",
-      "whole organism"
+      "cell culture",
+      "bacteria"
     ],
     "priority_index": 3
   },
@@ -2930,6 +2941,7 @@
       "lysosomes"
     ],
     "biomolecule_unified": [
+      "DNA",
       "proteins (immunostaining)"
     ],
     "organism_unified": [
@@ -2937,10 +2949,11 @@
       "M. musculus"
     ],
     "sample_unified": [
-      "cell culture",
-      "tissue slice"
+      "brain tissue",
+      "tissue slice",
+      "cell culture"
     ],
-    "priority_index": 2
+    "priority_index": 3
   },
   {
     "title": "Expansion tomography for large volume tissue imaging with nanoscale resolution",
@@ -3045,8 +3058,9 @@
       "M. musculus"
     ],
     "sample_unified": [
+      "brain tissue",
       "tissue slice",
-      "brain tissue"
+      "cell culture"
     ],
     "priority_index": 3
   },
@@ -3148,17 +3162,18 @@
       "axons"
     ],
     "biomolecule_unified": [
-      "proteins (immunostaining)",
       "RNA",
+      "proteins (immunostaining)",
       "membranes"
     ],
     "organism_unified": [
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue"
+      "brain tissue",
+      "tissue slice"
     ],
-    "priority_index": 3
+    "priority_index": 1
   },
   {
     "title": "Expansion Microscopy for Cell Biology Analysis in Fungi",
@@ -3254,7 +3269,7 @@
       "immunostaining"
     ],
     "year": "2020",
-    "acronym": "Gotz et al. (2020)",
+    "acronym": "Gotz2020",
     "first_author_year": "Gotz2020",
     "exf_static": 4,
     "variant_semantic": [
@@ -3263,16 +3278,15 @@
       "actin filaments"
     ],
     "biomolecule_unified": [
-      "proteins (immunostaining)"
+      "proteins (immunostaining)",
+      "membranes"
     ],
     "organism_unified": [
-      "U. maydis",
-      "F. oxysporum",
-      "A. fumigatus"
+      "Ustilago Maydis",
+      "Fusarium Oxysporum",
+      "Aspergillus Fumigatus"
     ],
-    "sample_unified": [
-      "cell culture"
-    ],
-    "priority_index": 2
+    "sample_unified": [],
+    "priority_index": 3
   }
 ]
