@@ -99,7 +99,8 @@
     ],
     "priority_index": 1,
     "biomolecule_unified": [
-      "proteins (immunostaining)"
+      "proteins (immunostaining)",
+      "proteins (pan-labeling)"
     ],
     "organism_unified": [
       "Plants"
@@ -1079,7 +1080,8 @@
     ],
     "priority_index": 1,
     "biomolecule_unified": [
-      "proteins (immunostaining)"
+      "proteins (immunostaining)",
+      "proteins (pan-labeling)"
     ],
     "organism_unified": [
       "M. musculus"
