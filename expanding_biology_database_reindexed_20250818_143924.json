@@ -98,13 +98,13 @@
       "trans-golgi network"
     ],
     "priority_index": 1,
-    "biomolecule_unified": [],
+    "biomolecule_unified": [
+      "proteins (immunostaining)"
+    ],
     "organism_unified": [
-      "A. thaliana"
+      "Plants"
     ],
     "sample_unified": [
-      "tissue slice",
-      "whole organism",
       "plant tissue"
     ]
   },
@@ -203,8 +203,8 @@
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice"
+      "tissue slice",
+      "brain tissue"
     ]
   },
   {
@@ -314,17 +314,16 @@
       "proteins (immunostaining)"
     ],
     "organism_unified": [
-      "M. musculus",
       "H. sapiens",
+      "M. musculus",
       "C. elegans",
-      "E. coli"
+      "Bacteria"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice",
       "cell culture",
-      "whole organism",
-      "bacteria"
+      "tissue slice",
+      "brain tissue",
+      "whole organism"
     ]
   },
   {
@@ -434,16 +433,15 @@
     "priority_index": 1,
     "biomolecule_unified": [
       "proteins (immunostaining)",
-      "lipids"
+      "RNA"
     ],
     "organism_unified": [
       "M. musculus",
       "H. sapiens"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice",
-      "cell culture"
+      "cell culture",
+      "tissue slice"
     ]
   },
   {
@@ -545,8 +543,7 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "cell culture",
-      "isolated organelles"
+      "cell culture"
     ]
   },
   {
@@ -661,7 +658,8 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "cell culture"
+      "cell culture",
+      "whole organism"
     ]
   },
   {
@@ -771,9 +769,8 @@
       "H. sapiens"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice",
-      "cell culture"
+      "cell culture",
+      "brain tissue"
     ]
   },
   {
@@ -879,7 +876,6 @@
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue",
       "tissue slice",
       "cell culture"
     ]
@@ -976,8 +972,8 @@
     ],
     "priority_index": 3,
     "biomolecule_unified": [
-      "DNA",
-      "proteins (immunostaining)"
+      "proteins (immunostaining)",
+      "DNA"
     ],
     "organism_unified": [
       "H. sapiens"
@@ -1089,8 +1085,7 @@
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice"
+      "brain tissue"
     ]
   },
   {
@@ -1195,7 +1190,6 @@
     ],
     "sample_unified": [
       "brain tissue",
-      "tissue slice",
       "cell culture"
     ]
   },
@@ -1423,10 +1417,8 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice",
-      "cell culture",
-      "isolated organelles"
+      "isolated organelles",
+      "tissue slice"
     ]
   },
   {
@@ -1535,16 +1527,15 @@
     ],
     "priority_index": 1,
     "biomolecule_unified": [
-      "DNA",
       "proteins (immunostaining)",
+      "DNA",
       "lipids"
     ],
     "organism_unified": [
       "H. sapiens"
     ],
     "sample_unified": [
-      "cell culture",
-      "whole organism"
+      "cell culture"
     ]
   },
   {
@@ -1661,9 +1652,8 @@
       "Rhesus Macaque"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice",
-      "cell culture"
+      "cell culture",
+      "tissue slice"
     ]
   },
   {
@@ -1770,15 +1760,13 @@
     ],
     "priority_index": 2,
     "biomolecule_unified": [
-      "proteins (immunostaining)",
-      "membranes"
+      "proteins (immunostaining)"
     ],
     "organism_unified": [
       "M. musculus",
       "H. sapiens"
     ],
     "sample_unified": [
-      "brain tissue",
       "tissue slice",
       "cell culture"
     ]
@@ -1879,8 +1867,7 @@
       "H. sapiens"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice"
+      "brain tissue"
     ],
     "priority_index": 1
   },
@@ -2069,9 +2056,9 @@
       "golgi"
     ],
     "biomolecule_unified": [
+      "proteins (immunostaining)",
       "RNA",
       "DNA",
-      "proteins (immunostaining)",
       "lipids"
     ],
     "organism_unified": [
@@ -2082,7 +2069,7 @@
     ],
     "sample_unified": [
       "cell culture",
-      "bacteria"
+      "tissue slice"
     ],
     "priority_index": 3
   },
@@ -2195,8 +2182,7 @@
       "C. reinhardtii"
     ],
     "sample_unified": [
-      "cell culture",
-      "isolated organelles"
+      "cell culture"
     ],
     "priority_index": 3
   },
@@ -2299,9 +2285,11 @@
       "proteins (immunostaining)"
     ],
     "organism_unified": [
-      "Yeast"
+      "Saccharomyces Cerevisiae"
     ],
-    "sample_unified": [],
+    "sample_unified": [
+      "isolated organelles"
+    ],
     "priority_index": 3
   },
   {
@@ -2404,7 +2392,10 @@
     "organism_unified": [
       "H. sapiens"
     ],
-    "sample_unified": [],
+    "sample_unified": [
+      "cell culture",
+      "isolated organelles"
+    ],
     "priority_index": 2
   },
   {
@@ -2497,7 +2488,9 @@
     "organism_unified": [
       "M. musculus"
     ],
-    "sample_unified": [],
+    "sample_unified": [
+      "whole organism"
+    ],
     "priority_index": 3
   },
   {
@@ -2603,8 +2596,7 @@
       "Marmoset"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice"
+      "brain tissue"
     ],
     "priority_index": 1
   },
@@ -2701,12 +2693,11 @@
       "actin filaments"
     ],
     "biomolecule_unified": [
-      "RNA",
-      "proteins (immunostaining)"
+      "proteins (immunostaining)",
+      "RNA"
     ],
     "organism_unified": [
-      "Arabidopsis",
-      "Maize"
+      "Plants"
     ],
     "sample_unified": [
       "plant tissue"
@@ -2818,20 +2809,17 @@
       "endoplasmic reticulum"
     ],
     "biomolecule_unified": [
-      "DNA",
-      "proteins (immunostaining)"
+      "proteins (immunostaining)",
+      "DNA"
     ],
     "organism_unified": [
-      "D. melanogaster",
+      "Bacteria",
       "H. sapiens",
-      "Planarian",
-      "Salmonella",
-      "E. coli",
-      "Lactobacillus Plantarum"
+      "D. melanogaster"
     ],
     "sample_unified": [
-      "cell culture",
-      "bacteria"
+      "bacteria",
+      "whole organism"
     ],
     "priority_index": 3
   },
@@ -2941,7 +2929,6 @@
       "lysosomes"
     ],
     "biomolecule_unified": [
-      "DNA",
       "proteins (immunostaining)"
     ],
     "organism_unified": [
@@ -2949,9 +2936,8 @@
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice",
-      "cell culture"
+      "cell culture",
+      "tissue slice"
     ],
     "priority_index": 3
   },
@@ -3058,9 +3044,8 @@
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue",
       "tissue slice",
-      "cell culture"
+      "brain tissue"
     ],
     "priority_index": 3
   },
@@ -3162,16 +3147,14 @@
       "axons"
     ],
     "biomolecule_unified": [
-      "RNA",
       "proteins (immunostaining)",
-      "membranes"
+      "RNA"
     ],
     "organism_unified": [
       "M. musculus"
     ],
     "sample_unified": [
-      "brain tissue",
-      "tissue slice"
+      "brain tissue"
     ],
     "priority_index": 1
   },
@@ -3278,15 +3261,14 @@
       "actin filaments"
     ],
     "biomolecule_unified": [
-      "proteins (immunostaining)",
-      "membranes"
+      "proteins (immunostaining)"
     ],
     "organism_unified": [
-      "Ustilago Maydis",
-      "Fusarium Oxysporum",
-      "Aspergillus Fumigatus"
+      "Fungi"
     ],
-    "sample_unified": [],
+    "sample_unified": [
+      "cell culture"
+    ],
     "priority_index": 3
   }
 ]
