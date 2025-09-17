@@ -434,7 +434,8 @@
     "priority_index": 1,
     "biomolecule_unified": [
       "proteins (immunostaining)",
-      "RNA"
+      "RNA",
+      "lipids"
     ],
     "organism_unified": [
       "M. musculus",
