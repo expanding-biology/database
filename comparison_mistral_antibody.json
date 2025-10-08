@@ -1,0 +1,693 @@
+{
+  "papers": [
+    {
+      "title": "Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx)",
+      "doi": "10.7554/eLife.73775",
+      "link": "https://elifesciences.org/articles/73775",
+      "authors": [
+        "Hugo GJ Damstra",
+        "Boaz Mohar",
+        "Mark Eddison",
+        "Anna Akhmanova",
+        "Lukas C Kapitein",
+        "Paul W Tillberg"
+      ],
+      "sample": [
+        "thick mouse brain tissue sections",
+        "cultured human cells",
+        "U2OS cells",
+        "Jurkat T cells",
+        "Caco-2 epithelial monolayers"
+      ],
+      "organism": ["mouse", "human"],
+      "resolution": "10-50 nm (post-expansion)",
+      "biomolecule": [
+        "proteins (immunostaining: Bassoon, Homer, VGAT, NUP96, NUP153, tubulin, clathrin heavy chain, GFP-Sec61β)",
+        "lipids (membrane staining with mCLING)",
+        "DNA (DAPI staining)"
+      ],
+      "expansion_factor": "10x",
+      "expansion_strategy": "single-shot",
+      "chemistry": {
+        "monomer": ["acrylamide", "sodium acrylate"],
+        "crosslinker": ["bisacrylamide"],
+        "anchoring_agent": ["AcX (acryloyl-X SE)"]
+      },
+      "primary_antibodies_used": [
+        {
+          "target": "Bassoon",
+          "host": "chicken",
+          "catalog_number": "141016",
+          "vendor": "Synaptic Systems",
+          "RRID": "AB_2661779",
+          "application": "IF (1:300)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Homer",
+          "host": "rabbit",
+          "catalog_number": "ab97593",
+          "vendor": "Abcam",
+          "RRID": "AB_10681160",
+          "application": "IF (1:300)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "VGAT",
+          "host": "mouse (IgG3)",
+          "catalog_number": "131011",
+          "vendor": "Synaptic Systems",
+          "RRID": "AB_887872",
+          "application": "IF (1:300)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "NUP96 (GFP-tagged)",
+          "host": "chicken",
+          "catalog_number": "GFP-1020",
+          "vendor": "Aves Labs",
+          "RRID": "AB_10000240",
+          "application": "IF (1:200)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "NUP153",
+          "host": "rabbit",
+          "catalog_number": "ab84872",
+          "vendor": "Abcam",
+          "RRID": "AB_1859766",
+          "application": "IF (1:200)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "α-tubulin",
+          "host": "rabbit (monoclonal, clone EP1332Y)",
+          "catalog_number": "ab52866",
+          "vendor": "Abcam",
+          "RRID": "AB_869989",
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Clathrin heavy chain",
+          "host": "mouse",
+          "catalog_number": "MA1-065",
+          "vendor": "Thermo Fisher Scientific",
+          "RRID": "AB_2083179",
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "GFP",
+          "host": "chicken",
+          "catalog_number": "GFP-1010",
+          "vendor": "Aves Labs",
+          "RRID": "AB_2307313",
+          "application": "IF (1:400-1:200)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CD3 (for T cell activation)",
+          "host": "mouse (clone UCHT1)",
+          "catalog_number": "60011",
+          "vendor": "STEMCELL Technologies",
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        }
+      ],
+      "summary": "
+        TREx achieves 10x single-step expansion of thick tissues and cells, allowing nanoscale resolution imaging of subcellular structures (e.g., synapses, organelles, cytoskeletal networks) using conventional microscopes. It bridges light and electron microscopy by providing ultrastructural context with specific protein localization, and is compatible with standard pre-expansion immunofluorescence and commercial stains.
+      ",
+      "application_goal": "
+        TREx enables 10x single-step expansion of thick tissues and cells, allowing nanoscale imaging of subcellular structures (e.g., synapses, organelles, cytoskeletal networks) with conventional microscopes and pre-expansion antibody labeling.
+      ",
+      "novelty": "
+        TREx improves on prior ExM methods by achieving 10x expansion in a single step, without iterative gelation or specialized equipment. Its high acrylamide:acrylate ratio reduces shrinkage artifacts, and the deformation index ensures reproducible gel handling. TREx is compatible with diverse samples and stains, making it accessible for broad adoption in cell biology.
+      "
+    },
+    {
+      "title": "Magnify is a universal molecular anchoring strategy for expansion microscopy",
+      "doi": "10.1038/s41587-022-01546-1",
+      "link": "https://doi.org/10.1038/s41587-022-01546-1",
+      "authors": [
+        "Aleksandra Klimas",
+        "Brendan R. Gallagher",
+        "Piyumi Wijesekara",
+        "Sinda Fekir",
+        "Emma F. DiBernardo",
+        "Zhangyu Cheng",
+        "Donna B. Stolz",
+        "Franca Cambi",
+        "Simon C. Watkins",
+        "Steven L. Brody",
+        "Amjad Horani",
+        "Alison L. Barth",
+        "Christopher I. Moore",
+        "Xi Ren",
+        "Yongxin Zhao"
+      ],
+      "sample": [
+        "mouse brain tissue sections",
+        "human kidney tissue (FFPE)",
+        "human lung organoids",
+        "HEK-293FT cells",
+        "U2OS cells",
+        "Jurkat T cells",
+        "human bronchial basal stem-cell-derived lung organoids"
+      ],
+      "organism": ["mouse", "human"],
+      "resolution": "25 nm (effective resolution with diffraction-limited objective)",
+      "biomolecule": [
+        "proteins (immunostaining: Bassoon, Homer, VGAT, NUP96, NUP153, tubulin, clathrin heavy chain, GFP-Sec61β)",
+        "nucleic acids (DNA FISH: AKT1, CDH1, telomere sequences)",
+        "lipids (membrane staining: DiO, DiI, DiD, mCLING)"
+      ],
+      "expansion_factor": "up to 11x",
+      "expansion_strategy": "single-shot",
+      "chemistry": {
+        "monomer": ["sodium acrylate", "N,N-dimethylacrylamide (DMAA)", "acrylamide"],
+        "crosslinker": ["N,N′-methylenebisacrylamide (Bis)"],
+        "anchoring_agent": ["methacrolein"]
+      },
+      "primary_antibodies_used": [
+        {
+          "target": "Synaptophysin",
+          "host": "mouse",
+          "catalog_number": "MA1-213",
+          "vendor": "Invitrogen",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Homer1",
+          "host": "rabbit",
+          "catalog_number": "ab97593",
+          "vendor": "Abcam",
+          "RRID": "AB_10681160",
+          "application": "IF (1:300)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "VGAT",
+          "host": "mouse (IgG3)",
+          "catalog_number": "131011",
+          "vendor": "Synaptic Systems",
+          "RRID": "AB_887872",
+          "application": "IF (1:300)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "NUP96 (GFP-tagged)",
+          "host": "chicken",
+          "catalog_number": "GFP-1020",
+          "vendor": "Aves Labs",
+          "RRID": "AB_10000240",
+          "application": "IF (1:200)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "NUP153",
+          "host": "rabbit",
+          "catalog_number": "ab84872",
+          "vendor": "Abcam",
+          "RRID": "AB_1859766",
+          "application": "IF (1:200)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "α-tubulin",
+          "host": "rabbit (monoclonal, clone EP1332Y)",
+          "catalog_number": "ab52866",
+          "vendor": "Abcam",
+          "RRID": "AB_869989",
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Clathrin heavy chain",
+          "host": "mouse",
+          "catalog_number": "MA1-065",
+          "vendor": "Thermo Fisher Scientific",
+          "RRID": "AB_2083179",
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "GFP",
+          "host": "chicken",
+          "catalog_number": "GFP-1010",
+          "vendor": "Aves Labs",
+          "RRID": "AB_2307313",
+          "application": "IF (1:400-1:200)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CD3 (for T cell activation)",
+          "host": "mouse (clone UCHT1)",
+          "catalog_number": "60011",
+          "vendor": "STEMCELL Technologies",
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "GFAP",
+          "host": "chicken",
+          "catalog_number": "ab4674",
+          "vendor": "Abcam",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "NeuN",
+          "host": "chicken",
+          "catalog_number": "ABN91",
+          "vendor": "Millipore",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Tyrosine Hydroxylase",
+          "host": "chicken",
+          "catalog_number": "ab76442",
+          "vendor": "Abcam",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Vimentin",
+          "host": "chicken",
+          "catalog_number": "ab24525",
+          "vendor": "Abcam",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CD4",
+          "host": "goat",
+          "catalog_number": "AF-379-SP",
+          "vendor": "R&D Systems",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Talin-1",
+          "host": "goat",
+          "catalog_number": "AF5456-SP",
+          "vendor": "Novus",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Actin, α-Smooth Muscle",
+          "host": "mouse",
+          "catalog_number": "A5228",
+          "vendor": "Sigma Aldrich",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Cytokeratin Pan Type I/II",
+          "host": "mouse",
+          "catalog_number": "MA5-13156",
+          "vendor": "Invitrogen",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CD11c",
+          "host": "mouse",
+          "catalog_number": "ab11029",
+          "vendor": "Abcam",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CD8",
+          "host": "mouse",
+          "catalog_number": "UM870010",
+          "vendor": "Origene",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CD8a (Alexa 488)",
+          "host": "mouse",
+          "catalog_number": "53-0008-82",
+          "vendor": "Invitrogen",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "VDAC1",
+          "host": "mouse",
+          "catalog_number": "ab14734",
+          "vendor": "Abcam",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "GABRA1",
+          "host": "rabbit",
+          "catalog_number": "12410-1-AP",
+          "vendor": "Proteintech",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "GABRB1",
+          "host": "rabbit",
+          "catalog_number": "20183-1-AP",
+          "vendor": "Proteintech",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "GluR2",
+          "host": "rabbit",
+          "catalog_number": "11994-1-AP",
+          "vendor": "Proteintech",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "Synaptophysin",
+          "host": "rabbit",
+          "catalog_number": "17785-1-AP",
+          "vendor": "Proteintech",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CCR5",
+          "host": "rabbit",
+          "catalog_number": "17476-1-AP",
+          "vendor": "Proteintech",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "CD45",
+          "host": "rabbit",
+          "catalog_number": "ab10558",
+          "vendor": "Abcam",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "IL2",
+          "host": "rabbit",
+          "catalog_number": "26156-1-AP",
+          "vendor": "Proteintech",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "IL-6",
+          "host": "rabbit",
+          "catalog_number": "21865-1-AP",
+          "vendor": "Proteintech",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "TCR alpha",
+          "host": "rabbit",
+          "catalog_number": "NBP2-52684",
+          "vendor": "Novus",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        }
+      ],
+      "summary": "
+        Magnify introduces a universal anchoring strategy using methacrolein, enabling 11x expansion and preserving proteins, nucleic acids, and lipids without a separate anchoring step. It achieves ~25 nm effective resolution with diffraction-limited objectives and is compatible with post-expansion labeling, making it suitable for diverse tissues and clinical samples.
+      ",
+      "application_goal": "
+        Magnify enables universal, high-resolution imaging of proteins, nucleic acids, and lipids in diverse biological specimens without requiring specialized equipment or custom linkers. It facilitates post-expansion labeling and is compatible with clinical samples (e.g., FFPE tissues), making it a versatile tool for studying nanoscale biology and pathology.
+      ",
+      "novelty": "
+        Magnify improves on existing ExM methods by achieving 11x expansion in a single step, without iterative gelation or specialized equipment. Its high acrylamide:acrylate ratio reduces shrinkage artifacts, and the deformation index ensures reproducible gel handling. Magnify is compatible with diverse samples and stains, making it accessible for broad adoption in cell biology.
+      "
+    },
+    {
+      "title": "Epitope-preserving magnified analysis of proteome (eMAP)",
+      "doi": "10.1126/sciadv.abf6589",
+      "link": "https://doi.org/10.1126/sciadv.abf6589",
+      "authors": [
+        "Joha Park",
+        "Sarim Khan",
+        "Dae Hee Yun",
+        "Taeyun Ku",
+        "Katherine L. Villa",
+        "Jiachen E. Lee",
+        "Qiangge Zhang",
+        "Juhyuk Park",
+        "Guoping Feng",
+        "Elly Nedivi",
+        "Kwanghun Chung"
+      ],
+      "sample": [
+        "mouse brain tissue sections",
+        "marmoset brain tissue sections",
+        "Thy1-YFP-H mouse brain",
+        "human lung organoids",
+        "HEK-293FT cells"
+      ],
+      "organism": ["mouse", "marmoset"],
+      "resolution": "~20 nm (effective resolution with 10x expansion)",
+      "biomolecule": [
+        "proteins (immunostaining: Bassoon, PSD-95, Homer1, Shank1, Shank3, GABA_A receptor subunits, etc.)",
+        "nucleic acids (DNA FISH)",
+        "lipids (membrane staining)"
+      ],
+      "expansion_factor": "4x (single embedding), 10x (recursive embedding)",
+      "expansion_strategy": "physical hybridization (no chemical crosslinking)",
+      "chemistry": {
+        "monomer": ["acrylamide", "sodium acrylate"],
+        "crosslinker": ["bis-acrylamide"],
+        "initiator": ["VA-044"]
+      },
+      "primary_antibodies_used": [
+        {
+          "target": "Bassoon",
+          "host": "mouse",
+          "catalog_number": "141004",
+          "vendor": "SYSY",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Bassoon",
+          "host": "mouse",
+          "catalog_number": "141003",
+          "vendor": "SYSY",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "PSD-95",
+          "host": "mouse",
+          "catalog_number": "75-028",
+          "vendor": "NeuroMab",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Piccolo",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Homer1",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Shank1",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Shank3",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Synapsin I/II",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Shank2",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "GABA_A Rα1",
+          "host": "rabbit",
+          "catalog_number": "224203",
+          "vendor": "Synaptic Systems",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "GABA_A Rβ3",
+          "host": "mouse",
+          "catalog_number": "818501",
+          "vendor": "BioLegend",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "VGAT",
+          "host": "rabbit",
+          "catalog_number": "AB5062P",
+          "vendor": "Millipore",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "GAD2",
+          "host": "mouse",
+          "catalog_number": "844502",
+          "vendor": "BioLegend",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Gephyrin",
+          "host": "mouse",
+          "catalog_number": "612632",
+          "vendor": "BD Biosciences",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "GFP/YFP",
+          "host": "chicken",
+          "catalog_number": "A10262",
+          "vendor": "Invitrogen",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "GluA1",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "GluN1",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "β-tubulin",
+          "host": "rabbit",
+          "catalog_number": "ab6046",
+          "vendor": "Abcam",
+          "RRID": null,
+          "application": "IF (1:300)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Neuroligin",
+          "host": "rabbit",
+          "catalog_number": null,
+          "vendor": null,
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "post-expansion"
+        },
+        {
+          "target": "Lectin (Tomato Lectin)",
+          "host": null,
+          "catalog_number": "DL-1171-1",
+          "vendor": "Vector Laboratories",
+          "RRID": null,
+          "application": "IF (1:100)",
+          "labeling_timing": "pre-expansion"
+        },
+        {
+          "target": "NF-H",
+          "host": "chicken",
+          "catalog_number": "PA1-10002",
+          "vendor": "Invitrogen",
+          "RRID": null,
+          "application": "IF (1:250)",
+          "labeling_timing": "pre-expansion"
+        }
+      ],
+      "summary": "
+        eMAP introduces a physical (non-chemical) hybridization strategy for expansion microscopy, preserving epitopes and enabling high antibody compatibility (96% for mouse, 94% for marmoset). It achieves 10x linear expansion with recursive embedding and allows multiplexed, post-expansion labeling of synaptic proteins, facilitating nanoscale proteomic mapping of complex biomolecular structures.
+      ",
+      "application_goal": "
+        eMAP enables high-resolution, multiplexed proteomic imaging of complex biomolecular structures (e.g., synapses) using conventional microscopes and commercial antibodies. It is particularly useful for studying molecular heterogeneity and nanoscale organization in neural circuits, with broad applicability across species and tissue types.
+      ",
+      "novelty": "
+        eMAP improves on existing ExM methods by using physical (rather than chemical) hybridization to preserve epitopes, achieving high antibody compatibility (96-94%) and enabling post-expansion labeling without signal amplification. Its simplicity, robustness, and compatibility with standard reagents make it accessible for widespread adoption in neuroscience and beyond.
+      "
+    }
+  ]
+}
