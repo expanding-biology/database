@@ -1,0 +1,934 @@
+paper_title,first_author_year,antibody_name,antibody_type,manufacturer,catalog_number,labeling_stage,dilution
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,chicken anti-GFP,primary,Abcam,ab13970,pre-expansion,1:5000
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,rabbit anti-parvalbumin,primary,Swant,PV27,pre-expansion,1:1000
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,Alexa Fluor 488-conjugated goat antibody against chicken IgY,secondary,Life Technologies,A-11039,pre-expansion,1:400
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,Alexa Fluor 568 goat anti-rabbit,secondary,Life Technologies,A-11011,pre-expansion,1:400
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,mouse anti-bassoon,primary,Enzo Life Sciences,SAP7F407,pre-expansion,1:200
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,goat anti-mouse conjugated with biotin,secondary,Jackson ImmunoResearch,115-067-003,pre-expansion,1:200
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,guinea pig anti-Shank2,primary,Synaptic Systems,162 204,pre-expansion,1:200
+Light-sheet fluorescence expansion microscopy: fast mapping of neural circuits at super resolution,Bürgers 2019,goat anti-guinea pig conjugated with Alexa Fluor 568,secondary,Life Technologies,A-11075,pre-expansion,1:200
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,Synaptobrevin 2 (primary antibody),primary,Synaptic Systems,104 202,,10 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,RIM1/2 (primary antibody),primary,Synaptic Systems,140 205,,10 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,Homer1 (primary antibody),primary,Synaptic Systems,160 003,,5 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,VGlut1 (primary antibody),primary,Synaptic Systems,135 304,,5 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,Munc13-1 (primary antibody),primary,Synaptic Systems,126 103,,5 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,Neurofilament-L (primary antibody),primary,Synaptic Systems,171 011,,10 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,"Goat anti-mouse IgG, Alexa Fluor 488",secondary,Invitrogen (Thermo Fisher),A11017,post-expansion,20 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,"Goat anti-guinea pig IgG, Alexa Fluor 488",secondary,Jackson ImmunoResearch,106-546-003,,10 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,"Donkey anti-guinea pig IgG, CF568",secondary,Sigma,SAB4600469,post-expansion,10 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,"Goat anti-rabbit IgG, CF568",secondary,Sigma,SAB4600400,,10 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,"Goat anti-rabbit IgG, ATTO643 (self-labeled)",secondary,Invitrogen (conjugated in-house),31212 (starting antibody) / self-labeled,post-expansion,10 μg/ml
+Enhanced synaptic protein visualization by multicolor super-resolution expansion microscopy,Eilts 2023,"Goat anti-rabbit secondary antibody (unconjugated, starting material)",secondary,Invitrogen,31212,,
+Expansion Microscopy of trichomonads,Bandeira 2023,"monoclonal anti-α tubulin (Sigma-Aldrich, Clone B512)",primary,Sigma-Aldrich,Clone B512,post-expansion,1:400
+Imaging Giardia intestinalis cellular organisation using expansion microscopy reveals atypical centrin localisation,Soukup 2024,rat monoclonal Anti-HA High Affinity antibody (clone 3F10),primary,Roche,11867423001,pre-expansion,1:1000 (WB); 1:250 (IF)
+Imaging Giardia intestinalis cellular organisation using expansion microscopy reveals atypical centrin localisation,Soukup 2024,anti-rat IgG conjugated with horseradish peroxidase,secondary,Sigma,A5795,,1:20000
+Imaging Giardia intestinalis cellular organisation using expansion microscopy reveals atypical centrin localisation,Soukup 2024,rabbit anti-HA tag antibody (C29F4),primary,Cell Signalling Technology,3724S,post-expansion,1:50 (post-expansion); 1:500 (non-expanded)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Chicken anti-GFP (polyclonal IgY),primary,Abcam,ab13970,pre-expansion,1:500 (20.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Rabbit anti-RFP (polyclonal IgG),primary,Rockland,600-401-379,pre-expansion,1:500 (2.4 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Chicken anti-RFP (polyclonal IgY),primary,Rockland,600-901-379,pre-expansion,1:250 (4.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Rabbit anti-GOLGA5 / Golgin-84 (polyclonal IgG),primary,Abcam,ab224040,pre-expansion,1:500 (0.2 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Rabbit anti-COX4 (polyclonal IgG),primary,Synaptic Systems,298 003,pre-expansion,1:500 (1.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Rabbit anti-ERGIC-53/P58 (polyclonal IgG),primary,Sigma Aldrich,E1031,pre-expansion,1:600 (0.8-1.3 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Rabbit anti-ST3GAL5 (polyclonal IgG),primary,Sigma Aldrich,AV46358,pre-expansion,1:250 (2.0-4.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Rabbit anti-MCU (polyclonal IgG),primary,Sigma Aldrich,HPA016480,pre-expansion,1:500 (0.2 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Goat anti-Mouse IgG (H+L) Alexa Fluor 488,secondary,Invitrogen,A11029,pre-expansion,1:500 (4.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Goat anti-Mouse IgG (H+L) Alexa Fluor 546,secondary,Invitrogen,A11030,pre-expansion,1:500 (4.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Goat anti-Rabbit IgG (H+L) Alexa Fluor 488,secondary,Invitrogen,A11034,pre-expansion,1:500 (4.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Goat anti-Rabbit IgG (H+L) Alexa Fluor 546,secondary,Invitrogen,A11035,pre-expansion,1:500 (4.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Goat anti-Chicken IgY (H+L) Alexa Fluor 488,secondary,Invitrogen,A11039,pre-expansion,1:500 (4.0 µg/mL)
+Protein-retention expansion microscopy for visualizing subcellular organelles in fixed brain tissue,Campbell 2021,Goat anti-Chicken IgY (H+L) Alexa Fluor 546,secondary,Invitrogen,A11040,pre-expansion,1:500 (4.0 µg/mL)
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,rabbit anti-lamin B1 antibody,primary,Abcam,ab16048,pre-expansion,1 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,rabbit anti-β tubulin antibody,primary,Abcam,ab6046,pre-expansion,1 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,mouse anti-GFAP antibody,primary,Synaptic Systems,173011,pre-expansion,2 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,guinea pig anti-NeuN/Fox3 antibody,primary,Synaptic Systems,266004,pre-expansion,2 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,rabbit anti-MAP2 antibody,primary,Abcam,ab32454,pre-expansion,2 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,chicken anti-MBP antibody,primary,Aves,MBP,pre-expansion,2 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-rabbit antibody,secondary,Jackson Immunoresearch,111-005-144,pre-expansion,
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-chicken antibody,secondary,Jackson Immunoresearch,103-005-155,pre-expansion,
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-mouse antibody,secondary,Jackson Immunoresearch,115-005-166,pre-expansion,
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,donkey anti-rabbit antibody,secondary,Jackson Immunoresearch,711-005-152,pre-expansion,
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-chicken CF488A,secondary,Biotium,20079,pre-expansion,1 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-rabbit CF568,secondary,Biotium,20102,pre-expansion,1 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-guinea-pig CF660R,secondary,Biotium,20496,pre-expansion,1 μg/ml
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-mouse Alexa 405,secondary,Thermo Fisher Scientific,A-31553,pre-expansion,
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-chicken Alexa 488,secondary,Thermo Fisher Scientific,A-11039,pre-expansion,
+Multiplexed expansion microscopy of the brain through fluorophore screening,Min 2019,goat anti-rabbit Alexa 568,secondary,Thermo Fisher Scientific,A-11011,pre-expansion,
+Expansion microscopy allows quantitative characterization of structural organization of platelet aggregates,Faulkner 2025,Anti-human CD41 monoclonal antibody,primary,Agilent,F708801-2,pre-expansion,1:250
+Expansion microscopy allows quantitative characterization of structural organization of platelet aggregates,Faulkner 2025,Goat anti–mouse immunoglobulin G conjugated to CF633 dye,secondary,Biotium,20120,pre-expansion,1:1000
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Anti-mouse Centrin (20H5),primary,Sigma-Aldrich,04-1624,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Anti-mouse Pericentrin,primary,Abcam,ab4448,pre-expansion,1:200
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Anti-Chick GFP,primary,AvesLabs,GFP3717982,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Anti-mouse Polyglutamylated-tubulin (Poly E),primary,Enzo Life Sciences,AG-20B-0020,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Alexa Fluor 488 donkey anti-rabbit IgG (H+L),secondary,Thermo Fisher Scientific,A-21206,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Alexa Fluor 488 donkey anti-mouse IgG (H+L),secondary,Thermo Fisher Scientific,A-21202,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Alexa Fluor 555 donkey anti-rabbit IgG (H+L),secondary,Thermo Fisher Scientific,A-31572,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Alexa Fluor 555 donkey anti-mouse IgG (H+L),secondary,Thermo Fisher Scientific,A-31570,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Alexa Fluor 568 donkey anti-mouse IgG (H+L),secondary,Thermo Fisher Scientific,A-11004,pre-expansion,1:500
+Expansion microscopy of the chick embryo neural tube to overcome molecular crowding at the centrosomes-cilia,Wilmerding 2023,Alexa Fluor Atto647N donkey anti-mouse IgG (H+L),secondary,Sigma-Aldrich,MFCD06798562,pre-expansion,1:100
+Visualization of the membrane surface and cytoskeleton of oligodendrocyte progenitor cell growth cones using a combination of scanning ion conductance and four times expansion microscopy,Haak 2023,mouse anti-β-tubulin,primary,Proteintech,66240-1-Ig,pre-expansion,1:1000
+Visualization of the membrane surface and cytoskeleton of oligodendrocyte progenitor cell growth cones using a combination of scanning ion conductance and four times expansion microscopy,Haak 2023,rabbit anti-β-actin,primary,Proteintech,20536-1-AP,pre-expansion,1:1000
+Visualization of the membrane surface and cytoskeleton of oligodendrocyte progenitor cell growth cones using a combination of scanning ion conductance and four times expansion microscopy,Haak 2023,AlexaFluor488 goat anti-mouse IgG,secondary,Invitrogen,A11001,pre-expansion,1:250
+Visualization of the membrane surface and cytoskeleton of oligodendrocyte progenitor cell growth cones using a combination of scanning ion conductance and four times expansion microscopy,Haak 2023,AlexaFluor594 goat anti-rabbit IgG,secondary,Invitrogen,A11012,pre-expansion,1:250
+Expansion microscopy with carboxylic trifunctional linkers,Chen 2022,T6199,primary,Sigma-Aldrich,T6199,pre-expansion,1:1000
+Expansion microscopy with carboxylic trifunctional linkers,Chen 2022,DNP-TL-labeled secondary antibodies (modified from M8642),secondary,Sigma-Aldrich,M8642 (modified),pre-expansion,1:200
+Expansion microscopy with carboxylic trifunctional linkers,Chen 2022,anti-DNP primary antibodies,primary,ThermoFisher,04-8300,post-expansion,1:200
+Expansion microscopy with carboxylic trifunctional linkers,Chen 2022,fluorescently-conjugated secondary antibodies,secondary,ThermoFisher,A48272,post-expansion,1:500
+Expansion microscopy with carboxylic trifunctional linkers,Chen 2022,DIG-TL-labeled secondary antibodies (modified from M8642),secondary,Sigma-Aldrich,M8642 (modified),pre-expansion,1:200
+Expansion microscopy with carboxylic trifunctional linkers,Chen 2022,DIG-TL-modified secondary antibodies (modified from R2004),secondary,Sigma-Aldrich,R2004 (modified),pre-expansion,1:200
+Expansion microscopy with trypsin digestion and tyramide signal amplification (TT-ExM) for protein and lipid staining,Wang 2023,Cytochrome c oxidase subunit 5B (COX5B) rabbit polyclonal antibody,primary,Proteintech,11418-2-AP,pre-expansion,3-6 µg/ml
+Expansion microscopy with trypsin digestion and tyramide signal amplification (TT-ExM) for protein and lipid staining,Wang 2023,Protein disulfide isomerase (PDI) rabbit polyclonal antibody,primary,Proteintech,11245-1-AP,pre-expansion,1-2 µg/ml
+Expansion microscopy with trypsin digestion and tyramide signal amplification (TT-ExM) for protein and lipid staining,Wang 2023,Beta-tubulin mouse monoclonal antibody,primary,Sigma-Aldrich,T4026,pre-expansion,6 µg/ml
+Expansion microscopy with trypsin digestion and tyramide signal amplification (TT-ExM) for protein and lipid staining,Wang 2023,Horseradish peroxidase (HRP)-conjugated anti-rabbit IgG,secondary,Jackson ImmunoResearch Laboratory,711-035-152,pre-expansion,1:500
+Expansion microscopy with trypsin digestion and tyramide signal amplification (TT-ExM) for protein and lipid staining,Wang 2023,Alexa fluor-488-conjugated anti-mouse IgG,secondary,ThermoFisher,A28175,pre-expansion,1:500
+Expansion microscopy with trypsin digestion and tyramide signal amplification (TT-ExM) for protein and lipid staining,Wang 2023,Alexa fluor-555-conjugated anti-rabbit IgG,secondary,ThermoFisher,A32732,pre-expansion,1:500
+Expansion microscopy reveals unique ultrastructural features of pathogenic budding yeast species,Reza 2024,anti-Nop1 (Anti-Fibrillarin antibody [38F3] - Nucleolar Marker (ab4566)),primary,Abcam,ab4566,post-expansion,1:500
+Expansion microscopy reveals unique ultrastructural features of pathogenic budding yeast species,Reza 2024,"anti-GFP (mouse) (Roche, 11814460001)",primary,Roche,11814460001,post-expansion,1:500
+Expansion microscopy reveals unique ultrastructural features of pathogenic budding yeast species,Reza 2024,Alexa Fluor 488 goat anti-mouse IgG,secondary,Invitrogen,A11001,post-expansion,1:500
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,mouse anti-Plk1 antibody,primary,Santa Cruz Biotech,sc17783,pre-expansion,1:100
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,mouse anti-alpha Tubulin antibody (DM1a),primary,Sigma,T6199,pre-expansion,1:200
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,mouse anti-Nup107 antibody,primary,Abcam,ab24609,pre-expansion,1:500
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,rabbit anti-Elys,primary,SinoBiological,205696-T10,pre-expansion,1:100
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,anti-gp350 antibody,primary,SinoBiological,40373,pre-expansion,1:100
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,mouse monoclonal Gag antibody (183-H12-5C),primary,NIH AIDS Reagent Program / Bruce Chesebro,183-H12-5C,pre-expansion,1:1000
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,Rat anti-mouse IgG2a - biotin,secondary,Fisher,13-4210-80,pre-expansion,1:100
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,Rat anti-mouse IgG1 - biotin,secondary,Fisher,13-4015-80,pre-expansion,1:100
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,"Goat anti-Mouse IgG (H+L) Cross-Adsorbed Secondary Antibody, Alexa Fluor 594",secondary,Thermo Fisher Scientific,A-11005,pre-expansion,1:100
+One step 4x and 12x 3D-ExM: robust super-resolution microscopy in cell biology,Norman 2024,"Donkey anti-Goat IgG (H+L) Cross-Adsorbed Secondary Antibody, Alexa Fluor 594",secondary,Thermo Fisher Scientific,A-11058,pre-expansion,1:100
+Uniform distribution of photosystems in dark-adapted Synechocystis cells,Bos 2025,rabbit polyclonal anti-PsbA,primary,Agrisera AB,AS05 084,post-expansion,1:200
+Uniform distribution of photosystems in dark-adapted Synechocystis cells,Bos 2025,rabbit polyclonal anti-PsaC,primary,Agrisera AB,AS10 939,post-expansion,1:200
+Uniform distribution of photosystems in dark-adapted Synechocystis cells,Bos 2025,Rabbit anti C-Phycocyanin (AbBy Fluor® 594),primary,Antibody-online,ABIN2802262,post-expansion,1:50
+Uniform distribution of photosystems in dark-adapted Synechocystis cells,Bos 2025,"Goat anti-Rabbit IgG (H+L) Cross-Adsorbed Secondary Antibody, Alexa Fluor 488",secondary,ThermoFisher,AB_143165,post-expansion,
+Uniform distribution of photosystems in dark-adapted Synechocystis cells,Bos 2025,"Nano-Secondary® anti-rabbit IgG, recombinant VHH, Alexa Fluor 488 (CTK0102)",secondary,ChromoTek GmbH,CTK0102,post-expansion,
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,rabbit anti-GABA,primary,Sigma-Aldrich,A2052,pre-expansion,1:1000
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,CF488A goat anti-mouse IgG,secondary,Biotium,20018,pre-expansion,1:250
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,Alexa Fluor 568 goat anti-rabbit IgG,secondary,Invitrogen by Thermo Fisher Scientific,A-11011,pre-expansion,1:250
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,CF633 goat anti-mouse IgG,secondary,Biotium,20121,pre-expansion,1:250
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,rabbit anti-GABA,primary,Sigma-Aldrich,A2052,post-expansion,1:1000
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,CF488A goat anti-mouse IgG,secondary,Biotium,20018,post-expansion,1:250
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,Alexa Fluor 568 goat anti-rabbit IgG,secondary,Invitrogen by Thermo Fisher Scientific,A-11011,post-expansion,1:250
+Expansion microscopy in honeybee brains for high-resolution neuroanatomical analyses in social insects,Kraft 2023,CF633 goat anti-mouse IgG,secondary,Biotium,20121,post-expansion,1:250
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-Calnexin (primary),primary,Abcam,ab22595,post-expansion,10 μg/mL
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-Tom20 (primary),primary,Cell Signaling Technology,42406S,post-expansion,10 μg/mL
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-NUP98 (primary),primary,Cell Signaling Technology,2597S,post-expansion,10 μg/mL
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-Giantin (primary),primary,BioLegend,924302,post-expansion,10 μg/mL
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-Myelin Basic Protein (MBP) (primary),primary,Cell Signaling Technology,78896S,post-expansion,10 μg/mL
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-Chicken Alexa Fluor Plus 488 (secondary),secondary,Thermo Fisher Scientific,A32931,post-expansion,10 μg/mL
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-Rabbit Alexa Fluor Plus 488 (secondary),secondary,Thermo Fisher Scientific,A32731,post-expansion,10 μg/mL
+Expansion Microscopy of Lipid Membranes,Karagiannis 2019,anti-Mouse Alexa Fluor Plus 647 (secondary),secondary,Thermo Fisher Scientific,A32728,post-expansion,10 μg/mL
+Super-resolution Analysis of Astrocyte Morphology Using Expansion Microscopy,,Rabbit anti-S100 beta antibody (EP1576Y),primary,Abcam,EP1576Y,pre-expansion,1:300
+A practical guide to optimization in X10 expansion microscopy,Truckenbrodt 2019,anti-synaptophysin,primary,Synaptic Systems,101 004,pre-expansion,1:500 (from 1 mg/ml stock)
+A practical guide to optimization in X10 expansion microscopy,Truckenbrodt 2019,anti-Bassoon,primary,Enzo,SAP7F407,pre-expansion,1:100 (from 1 mg/ml stock)
+A practical guide to optimization in X10 expansion microscopy,Truckenbrodt 2019,anti-Homer 1,primary,Synaptic Systems,160 003,pre-expansion,1:100 (from 1 mg/ml stock)
+A practical guide to optimization in X10 expansion microscopy,Truckenbrodt 2019,donkey anti–guinea pig IgG conjugated to Alexa Fluor 488,secondary,Dianova,706–545–148,pre-expansion,1:100 (from 0.6 mg/ml stock)
+A practical guide to optimization in X10 expansion microscopy,Truckenbrodt 2019,goat anti-rabbit IgG conjugated to Alexa Fluor 546,secondary,Thermo Fisher Scientific,A-11035,pre-expansion,1:100 (from 0.6 mg/ml stock)
+A practical guide to optimization in X10 expansion microscopy,Truckenbrodt 2019,donkey anti-mouse IgG conjugated to CF633,secondary,Biotium,20124,pre-expansion,1:100 (from 0.6 mg/ml stock)
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,rabbit polyclonal anti-α-tubulin,primary,Proteintech,11224-1-AP,post-expansion,1:200
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,chicken polyclonal anti-vimentin,primary,Abcam,ab24525,post-expansion,1:200
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,Chicken polyclonal anti-GFP,primary,Abcam,ab13970,post-expansion,1:200
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,rabbit polyclonal anti-NEDD4,primary,Invitrogen,PA5-17463,post-expansion,1:200
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,mouse monoclonal anti-human polyoma virus JCV capsid protein VP1,primary,Abcam,ab34756,post-expansion,1:200
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,mouse monoclonal anti-CD63,primary,Abcam,ab8219,post-expansion,1:200
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,Donkey Anti-Mouse IgG (H+L) CF647,secondary,Biotium,20177,post-expansion,1:500
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,Goat anti-Chicken IgY (H+L) Alexa Fluor 488,secondary,Invitrogen,A11039,post-expansion,1:500
+MicroMagnify: A Multiplexed Expansion Microscopy Method for Pathogens and Infected Tissues,Cheng 2023,F(ab')2-Goat anti-Rabbit IgG (H+L) Alexa Fluor 546,secondary,Invitrogen,A11071,post-expansion,1:500
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,α-tubulin antibody,primary,ABCD Antibodies,AA345,post-expansion,
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,β-tubulin antibody,primary,ABCD Antibodies,AA344,post-expansion,
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,SNAP-tag antibody,primary,New England Biolabs,P9310S,post-expansion,1:100
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,PsbA antibody,primary,Agrisera,AS06 143,post-expansion,
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,Centrin antibody clone 20H5,primary,Millipore,04-1624,post-expansion,
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,GFP antibody (rabbit),primary,Torrey Pines,TP401,post-expansion,1:200
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,YFP antibody (rabbit),primary,Torrey Pines,TP401,post-expansion,1:200
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,mNeonGreen antibody (mNeongreen),primary,Chromotek,32F6,post-expansion,Non compatible
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,HA antibody,primary,Sigma-Aldrich,H6908,post-expansion,1:100
+An In-depth Guide to the Ultrastructural Expansion Microscopy (U-ExM) of Chlamydomonas reinhardtii,Klena 2023,HRV3C antibody,primary,Thermo Fisher,PA1-118,post-expansion,1:150
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Mouse IgG1 anti-Cx35/36 (monoclonal),primary,Millipore Sigma,MAB3045,pre-expansion,1:250
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Mouse IgG1 anti-ZO1 (monoclonal),primary,Invitrogen,33-9100,pre-expansion,1:200
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Mouse IgG1 anti-N-cadherin (monoclonal),primary,BD Transduction Laboratories,610920,pre-expansion,1:50
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Mouse IgG1 anti-Beta-catenin (monoclonal),primary,Sigma,C7207,pre-expansion,1:100
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Chicken IgY anti-GFP (polyclonal),primary,Abcam,ab13970,pre-expansion,1:200
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Rabbit IgG anti-GluR2/3 (polyclonal),primary,EMD Millipore,07-598,pre-expansion,1:200
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Mouse IgG Alexa Fluor 546 (polyclonal),secondary,Invitrogen,A11030,pre-expansion,1:200
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Mouse IgG Atto 647N (polyclonal),secondary,Sigma-Aldrich,50185,pre-expansion,1:200
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Rabbit IgG Alexa Fluor 546 (polyclonal),secondary,Invitrogen,A11010,pre-expansion,1:200
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Rabbit IgG Atto 647N (polyclonal),secondary,Sigma-Aldrich,40839,pre-expansion,1:200
+Expansion Microscopy of Synaptic Contacts on the Mauthner Cells of Larval Zebrafish,Ijaz 2024,Chicken IgY Alexa Fluor 488 (polyclonal),secondary,Invitrogen,A11039,pre-expansion,1:200
+Challenges of Using Expansion Microscopy for Super-resolved Imaging of Cellular Organelles,,"mouse anti-NUP153 (monoclonal, QE5)",primary,Abcam,QE5,pre-expansion,1:400
+Challenges of Using Expansion Microscopy for Super-resolved Imaging of Cellular Organelles,,"rabbit anti-TOM20 (polyclonal, FL145)",primary,Santa Cruz Biotechnology,FL145,pre-expansion,1:200
+Challenges of Using Expansion Microscopy for Super-resolved Imaging of Cellular Organelles,,"goat anti-rabbit IgG, Aberrior STAR Red",secondary,Aberrior,2-0012-011-9,pre-expansion,1:250
+Challenges of Using Expansion Microscopy for Super-resolved Imaging of Cellular Organelles,,"goat anti-mouse IgG, Aberrior STAR Red",secondary,Aberrior,2-0002-011-2,pre-expansion,1:250
+Improved Dye Survival in Expansion Microscopy through Stabilizer-Conjugated Linkers,Wen 2022,mouse anti-α-tubulin,primary,Abcam,ab7291,pre-expansion,2 μg/mL
+Combined expansion microscopy with structured illumination microscopy for analyzing protein complexes,Wang 2018,goat anti-mouse Alexa Fluor 555,secondary,Thermo Fisher Scientific,A-21424,pre-expansion,1:500
+Combined expansion microscopy with structured illumination microscopy for analyzing protein complexes,Wang 2018,goat anti-rabbit Alexa Fluor 488,secondary,Thermo Fisher Scientific,A-11008,pre-expansion,1:500
+Combined expansion microscopy with structured illumination microscopy for analyzing protein complexes,Wang 2018,goat anti-mouse Atto 647N,secondary,Sigma-Aldrich,50185,pre-expansion,1:500
+Combined expansion microscopy with structured illumination microscopy for analyzing protein complexes,Wang 2018,goat anti-rabbit Atto 647N,secondary,Sigma-Aldrich,40839,pre-expansion,1:500
+Expansion Microscopy Application for Calcium Protein Clustering Imaging in Cells and Brain Tissues,Rakovskaya 2023,rabbit anti-Cherry polyclonal antibody,primary,Abcam,ab213511,pre-expansion,1:1000
+Expansion Microscopy Application for Calcium Protein Clustering Imaging in Cells and Brain Tissues,Rakovskaya 2023,"goat anti-rabbit IgG, Alexa Fluor 594",secondary,Invitrogen,2270262,pre-expansion,1:1000
+Expansion Microscopy Application for Calcium Protein Clustering Imaging in Cells and Brain Tissues,Rakovskaya 2023,rabbit anti-IP3R,primary,Abcam,ab5804,pre-expansion,1:300
+Expansion Microscopy Application for Calcium Protein Clustering Imaging in Cells and Brain Tissues,Rakovskaya 2023,"anti-rabbit IgG, Alexa Fluor 488",secondary,Invitrogen,R37116,pre-expansion,2 drops per ml
+Super-Resolution Imaging of Clickable Lipids With Lipid Expansion Microscopy (LExM),White-Mathieu 2024,mouse anti-mCherry IC51,primary,Millipore Sigma,MAB131873,post-expansion,1:100
+Super-Resolution Imaging of Clickable Lipids With Lipid Expansion Microscopy (LExM),White-Mathieu 2024,mouse anti-V5 SV5-PK1,primary,BioRad,MCA1360GA,post-expansion,1:100
+Super-Resolution Imaging of Clickable Lipids With Lipid Expansion Microscopy (LExM),White-Mathieu 2024,Alexa Fluor 594 donkey anti-mouse,secondary,Thermo Fisher Scientific,A21203,post-expansion,1:100
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Acetylated α-tubulin (Mouse IgG2b),primary,Sigma,T6793,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Actin (Rabbit),primary,Cell Signaling,4968,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Aquaporin 1 (Rabbit),primary,Abcam,168387,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Aquaporin 2 (Mouse IgG1),primary,Santa Cruz Biotechnology,sc-515770,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Arl13b (Rabbit),primary,Proteintech,17711-1-AP,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Centrin (Mouse IgG2a),primary,Millipore,04-1624,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Cep135 (Rabbit),primary,Abcam,ab75005,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,CLC-K (Rabbit),primary,Alomone Lab,ACL 004,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Collagen IV (Goat),primary,Southern Biotech,1340-01,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Desmin (Mouse IgG1),primary,Agilent Technologies,M0760,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,E-cadherin (Mouse IgG2a),primary,BD Bioscience,BDB610181,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Glutamylated tubulin (GT335; Mouse IgG1),primary,AdipoGen,AG20B-0020-C100,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Nephrin (Goat),primary,R&D Systems,AF3159,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Odf2 (Rabbit),primary,Sigma,HPA001874,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Podocalyxin (Goat),primary,R&D Systems,AF1554,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Podocin (Rabbit),primary,IBL International,JP29040,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Synaptopodin (Guinea Pig) - Synaptic Systems,primary,Synaptic Systems,163004,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Synaptopodin (Guinea Pig) - American Research Products,primary,American Research Products,03-GP94-N,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,α-Actinin 4 (Rabbit),primary,Thermo Fisher Scientific,42-1400,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,γ-tubulin (GTU-88; Mouse IgG1),primary,Sigma-Aldrich,T6557,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Acetylated α-tubulin (Mouse IgG2b),primary,Sigma,T6793,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Actin (Rabbit),primary,Cell Signaling,4968,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Aquaporin 1 (Rabbit),primary,Abcam,168387,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Aquaporin 2 (Mouse IgG1),primary,Santa Cruz Biotechnology,sc-515770,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Arl13b (Rabbit),primary,Proteintech,17711-1-AP,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Centrin (Mouse IgG2a),primary,Millipore,04-1624,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Cep135 (Rabbit),primary,Abcam,ab75005,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,CLC-K (Rabbit),primary,Alomone Lab,ACL 004,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Collagen IV (Goat),primary,Southern Biotech,1340-01,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Desmin (Mouse IgG1),primary,Agilent Technologies,M0760,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,E-cadherin (Mouse IgG2a),primary,BD Bioscience,BDB610181,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Glutamylated tubulin (GT335; Mouse IgG1),primary,AdipoGen,AG20B-0020-C100,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Nephrin (Goat),primary,R&D Systems,AF3159,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Odf2 (Rabbit),primary,Sigma,HPA001874,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Podocalyxin (Goat),primary,R&D Systems,AF1554,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Podocin (Rabbit),primary,IBL International,JP29040,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Synaptopodin (Guinea Pig),primary,Synaptic Systems,163004,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,Synaptopodin (Guinea Pig),primary,American Research Products,03-GP94-N,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,α-Actinin 4 (Rabbit),primary,Thermo Fisher Scientific,42-1400,post-expansion,
+Ultrastructure expansion microscopy (U-ExM) of mouse and human kidneys for analysis of subcellular structures,Langner 2024,γ-tubulin (GTU-88; Mouse IgG1),primary,Sigma-Aldrich,T6557,post-expansion,
+Enzymatically enhanced ultrastructure expansion microscopy unlocks expansion of in vitro Toxoplasma gondii cysts,Bondarenko 2024,Anti-GRA2 mouse,primary,Biotem,TG17-179 GRA2 #BIO.018.5 (vt210324a-4939),post-expansion,"1:1,000 (std), 1:300 (ExM)"
+Enzymatically enhanced ultrastructure expansion microscopy unlocks expansion of in vitro Toxoplasma gondii cysts,Bondarenko 2024,Anti-SAG1 rabbit,primary,Abcam,ab138698 (GR3426284-1),pre-expansion,"1:1,000 (std)"
+Enzymatically enhanced ultrastructure expansion microscopy unlocks expansion of in vitro Toxoplasma gondii cysts,Bondarenko 2024,AlexaFluor 488 goat anti-mouse superclonal,secondary,Thermo Scientific,A28175 (2126853),post-expansion,"1:1,000 (std), 1:300 (ExM)"
+Enzymatically enhanced ultrastructure expansion microscopy unlocks expansion of in vitro Toxoplasma gondii cysts,Bondarenko 2024,AlexaFluor 568 goat anti-mouse,secondary,Thermo Scientific,A-11004 (1862187),post-expansion,"1:1,000 (std), 1:300 (ExM)"
+Enzymatically enhanced ultrastructure expansion microscopy unlocks expansion of in vitro Toxoplasma gondii cysts,Bondarenko 2024,AlexaFluor 488 goat anti-rabbit,secondary,Thermo Scientific,A-21206 (1981155),post-expansion,"1:1,000 (std), 1:300 (ExM)"
+Enzymatically enhanced ultrastructure expansion microscopy unlocks expansion of in vitro Toxoplasma gondii cysts,Bondarenko 2024,AlexaFluor 568 goat anti-rabbit,secondary,Thermo Scientific,A-11036 (1924788),post-expansion,"1:1,000 (std), 1:300 (ExM)"
+Enzymatically enhanced ultrastructure expansion microscopy unlocks expansion of in vitro Toxoplasma gondii cysts,Bondarenko 2024,Atto 647N goat anti-rabbit,secondary,Sigma-Aldrich,40839-1ML-F (BCBV5056),post-expansion,"1:1,000 (std), 1:300 (ExM)"
+Expansion Microscopy for Beginners: Visualizing Microtubules in Expanded Cultured HeLa Cells,Zhang 2020,rabbit polyclonal antibody to β-tubulin,primary,Abcam,ab6046,pre-expansion,1:100
+Expansion Microscopy for Beginners: Visualizing Microtubules in Expanded Cultured HeLa Cells,Zhang 2020,"goat anti-rabbit IgG (H+L) highly cross-adsorbed secondary antibody, Alexa Fluor 546 conjugate",secondary,Thermo Fisher,A11035,pre-expansion,1:100
+Expansion Microscopy for Imaging the Cell–Material Interface,Nakamoto 2022,AP2 (primary antibody),primary,Abcam,ab189995,pre-expansion,1:500
+Expansion Microscopy for Imaging the Cell–Material Interface,Nakamoto 2022,goat–anti-mouse AF568 (secondary antibody),secondary,Invitrogen,A11004,pre-expansion,
+Expansion microscopy allows high resolution single cell analysis of epigenetic readers,Acke 2022,LEDGF/p75 (A300-848A),primary,Bethyl,A300-848A,pre-expansion,1:2000
+Expansion microscopy allows high resolution single cell analysis of epigenetic readers,Acke 2022,LEDGF (611715),primary,BD Bioscience,611715,pre-expansion,1:2000
+Expansion microscopy allows high resolution single cell analysis of epigenetic readers,Acke 2022,H3K36me2 (ab176921),primary,Abcam,ab176921,pre-expansion,1:1000 or 1:2000
+Expansion microscopy allows high resolution single cell analysis of epigenetic readers,Acke 2022,H3K36me3 (ab9050),primary,Abcam,ab9050,pre-expansion,1:1000 or 1:2000
+Expansion microscopy facilitates quantitative super-resolution studies of cytoskeletal structures in kinetoplastid parasites,Gorilak 2021,polyclonal anti-alpha tubulin,primary,Genetex,GTX 15246,post-expansion,1:20 (ExM); 1:10 (IF)
+Expansion microscopy facilitates quantitative super-resolution studies of cytoskeletal structures in kinetoplastid parasites,Gorilak 2021,anti-HA tag,primary,Cell Signaling Technology,3724S,post-expansion,1:500 (ExM); 1:500 (IF)
+Expansion microscopy facilitates quantitative super-resolution studies of cytoskeletal structures in kinetoplastid parasites,Gorilak 2021,Alexa Fluor 488 anti-mouse IgG (H + L),secondary,Invitrogen,A11001,post-expansion,1:500 (ExM); 1:1000 (IF)
+Expansion microscopy facilitates quantitative super-resolution studies of cytoskeletal structures in kinetoplastid parasites,Gorilak 2021,Alexa Fluor 488 anti-rabbit IgG (H + L),secondary,Invitrogen,A11008,post-expansion,1:500 (ExM); 1:1000 (IF)
+Expansion microscopy facilitates quantitative super-resolution studies of cytoskeletal structures in kinetoplastid parasites,Gorilak 2021,Alexa Fluor 555 anti-mouse IgG (H + L),secondary,Invitrogen,A21422,post-expansion,1:500 (ExM); 1:1000 (IF)
+Expansion microscopy facilitates quantitative super-resolution studies of cytoskeletal structures in kinetoplastid parasites,Gorilak 2021,Alexa Fluor 555 anti-rabbit IgG (H + L),secondary,Invitrogen,A21428,post-expansion,1:500 (ExM); 1:1000 (IF)
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,mouse anti-acetylated tubulin,primary,Sigma,T7451,pre-expansion,"1:10,000"
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,mouse anti-acetylated tubulin,primary,Sigma,T7451,post-expansion,"1:4,000"
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,mouse anti-alpha tubulin,primary,Sigma,T6074,pre-expansion,"1:4,000"
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,mouse anti-alpha tubulin,primary,Sigma,T6074,post-expansion,1:500
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-ARL13B,primary,Abcam,ab83879,pre-expansion,1:300
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-ARL13B,primary,Abcam,ab83879,post-expansion,1:150
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,mouse anti-Rootletin,primary,Santa Cruz,sc-374056,pre-expansion,1:200
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,mouse anti-Rootletin,primary,Santa Cruz,sc-374056,post-expansion,1:50
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-beta tubulin,primary,Abcam,ab15568,post-expansion,1:250
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-Cep164,primary,Proteintech,22227-1-AP,post-expansion,1:500
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-ANKRD26,primary,GeneTex,GTX128255,post-expansion,1:200
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-FBF1,primary,Sigma,HPA023677,post-expansion,1:100
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-RPGRIP1L,primary,Proteintech,55160-1-AP,post-expansion,1:150
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-IFT88,primary,Proteintech,13967-1-AP,post-expansion,1:150
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-pericentrin,primary,Abcam,ab4448,post-expansion,1:400
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-Cep290,primary,Abcam,ab84870,post-expansion,1:150
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-polyglutamylated tubulin,primary,AdipoGen,AG-25B-0030,post-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,rabbit anti-ARL13B (conventional),primary,Abcam,ab83879,pre-expansion,1:300
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,CF647 antimouse (Biotium),secondary,Biotium,20042,pre-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,CF647 antirabbit (Biotium),secondary,Biotium,20045,pre-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,CF568 antirabbit (Biotium),secondary,Biotium,20099,pre-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,AF488 antimouse,secondary,Invitrogen,A11019,pre-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,AF488 antirabbit,secondary,Invitrogen,A11034,pre-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,antimouse Alexa Fluor 488,secondary,Invitrogen,A11029,post-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,antirabbit Alexa Fluor 488,secondary,Invitrogen,A11034,post-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,antimouse Alexa Fluor 555,secondary,Invitrogen,A28180,post-expansion,1:800
+Expansion microscopy for the analysis of centrioles and cilia,SAHABANDU 2019,antirabbit Alexa Fluor 555,secondary,Invitrogen,A21429,post-expansion,1:800
+Expansion microscopy reveals characteristic ultrastructural features of pathogenic budding yeast species,,"anti-Nop1 [anti-fibrillarin antibody [38F3], nucleolar marker (ab4566)]",primary,Abcam,ab4566,post-expansion,1:500
+Expansion microscopy reveals characteristic ultrastructural features of pathogenic budding yeast species,,anti-GFP (mouse),primary,Roche,11814460001,post-expansion,1:500
+Expansion microscopy reveals characteristic ultrastructural features of pathogenic budding yeast species,,Alexa Fluor 488-conjugated goat anti-mouse IgG,secondary,Invitrogen,A11001,post-expansion,1:500
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,rat anti-alpha tubulin,primary,Thermo Fisher Scientific,MA1-80017,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,rabbit anti-detyrosinated tubulin,primary,Abcam,ab48389,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,mouse anti-HEC1,primary,Abcam,ab3613,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,rabbit anti-TOM20,primary,Santa Cruz Biotechnology,sc-11415,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,rabbit anti-GFP,primary,Life Technologies,A31857,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,chicken anti-GFP,primary,Thermo Fisher Scientific,A10262,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,rabbit anti-Homer1,primary,Synaptic Systems,160003,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,mouse anti-Bassoon,primary,Abcam,ab82958,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,donkey anti-rat (unconjugated),secondary,Jackson Immunoresearch,712-005-151,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,donkey anti-rabbit (unconjugated),secondary,Jackson Immunoresearch,711-005-152,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,donkey anti-mouse (unconjugated),secondary,Jackson Immunoresearch,715-005-151,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,donkey anti-chicken (unconjugated),secondary,Jackson Immunoresearch,703-005-155,pre-expansion,
+Expansion microscopy with conventional antibodies and fluorescent proteins,Chozinski 2016,Alexa Fluor 488 conjugated donkey anti-rat,secondary,Jackson Immunoresearch,712-545-150,pre-expansion,
+Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope,Li 2022,Mouse anti–α-tubulin antibody,primary,Yeason,30304ES40,pre-expansion,
+Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope,Li 2022,anti-clathrin heavy chain antibody,primary,Abcam,ab172958,pre-expansion,
+Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope,Li 2022,anti-Nup153 antibody,primary,Abcam,ab24700,pre-expansion,
+Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope,Li 2022,Alexa Fluor 488 donkey anti-rabbit immunoglobulin G (IgG),secondary,BioLegend,406416,pre-expansion,
+Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope,Li 2022,Alexa Fluor 594 goat anti-mouse IgG (H+L),secondary,Yeason,34112ES60,pre-expansion,
+Expansion microscopy with ninefold swelling (NIFS) hydrogel permits cellular ultrastructure imaging on conventional microscope,Li 2022,Alexa Fluor 488 goat anti-mouse IgG (H+L),secondary,Yeason,33206ES60,pre-expansion,
+Expansion Microscopy-based imaging for visualization of mitochondria in Drosophila ovarian germline stem cells,Lin 2022,mouse monoclonal anti-ATP5a antibody [15H4C4],primary,Abcam,ab14748,pre-expansion,1:500
+Expansion Microscopy-based imaging for visualization of mitochondria in Drosophila ovarian germline stem cells,Lin 2022,mouse monoclonal anti-Lam C antibody,primary,Developmental Studies Hybridoma Bank,LC28.26,pre-expansion,1:50
+Expansion Microscopy-based imaging for visualization of mitochondria in Drosophila ovarian germline stem cells,Lin 2022,mouse monoclonal anti-Hts antibody,primary,Developmental Studies Hybridoma Bank,1B1,pre-expansion,1:50
+Expansion Microscopy-based imaging for visualization of mitochondria in Drosophila ovarian germline stem cells,Lin 2022,"Goat anti-mouse IgG (H + L) cross-adsorbed secondary antibody, Biotin-XX",secondary,Thermo Fisher Scientific,B2763,pre-expansion,1:200
+Hybrid Structured Illumination Expansion Microscopy Reveals Microbial Cytoskeleton Organization,Halpern 2017,unconjugated donkey anti-rat,secondary,Jackson Immunoresearch,712-005-151,pre-expansion,
+Hybrid Structured Illumination Expansion Microscopy Reveals Microbial Cytoskeleton Organization,Halpern 2017,donkey anti-mouse,secondary,Jackson Immunoresearch,715-005-151,pre-expansion,
+Hybrid Structured Illumination Expansion Microscopy Reveals Microbial Cytoskeleton Organization,Halpern 2017,rabbit anti-mouse,secondary,Jackson Immunoresearch,315-005-003,pre-expansion,
+Hybrid Structured Illumination Expansion Microscopy Reveals Microbial Cytoskeleton Organization,Halpern 2017,Alexa Fluor 488 donkey anti-rat antibody,secondary,Jackson Immunoresearch,712-545-150,pre-expansion,
+Hybrid Structured Illumination Expansion Microscopy Reveals Microbial Cytoskeleton Organization,Halpern 2017,mouse anti-acetylated tubulin (clone 6–11B-1),primary,Sigma-Aldrich,T7451,pre-expansion,
+Hybrid Structured Illumination Expansion Microscopy Reveals Microbial Cytoskeleton Organization,Halpern 2017,rat anti-HA (clone 3F10),primary,Sigma-Aldrich,11867423001,pre-expansion,
+Iterative expansion microscopy,Chang 2017,rabbit anti-beta tubulin,primary,Abcam,ab6046,pre-expansion,1:100
+Iterative expansion microscopy,Chang 2017,rabbit anti-Homer1,primary,Synaptic systems,160003,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,guinea pig anti-Homer1,primary,Synaptic systems,160004,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,mouse anti-Homer1,primary,Synaptic systems,160011,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,mouse anti-Bassoon,primary,Enzo,ADI-VAM-PS003-F,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,guinea pig anti-Bassoon,primary,Synaptic systems,141004,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,mouse anti-Gephyrin,primary,Synaptic systems,147011,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,rabbit anti-GABAARα1,primary,Synaptic systems,224203,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,rabbit anti-GABAARα2,primary,Synaptic systems,224103,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,rabbit anti-GluR1,primary,Abcam,ab31232,pre-expansion,1:100
+Iterative expansion microscopy,Chang 2017,guinea pig anti-TagRFP,primary,Kerafast,EMU107,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,rabbit anti-mCherry,primary,Abcam,ab167453,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,rat anti-mCherry,primary,ThermoFisher,M11217,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,rat anti-mTFP,primary,Kerafast,EMU103,pre-expansion,1:200
+Iterative expansion microscopy,Chang 2017,chicken anti-GFP,primary,Kerafast,EMU101,pre-expansion,1:400
+Iterative expansion microscopy,Chang 2017,goat anti-chicken (secondary),secondary,ThermoFisher,A-11039,pre-expansion,10 µg/µL
+Iterative expansion microscopy,Chang 2017,goat anti-rat (secondary),secondary,ThermoFisher,A-11081,pre-expansion,10 µg/µL
+Iterative expansion microscopy,Chang 2017,"donkey anti-rabbit (secondary, Alexa-647)",secondary,ThermoFisher,A-31573,pre-expansion,1:100; used in STORM at 20 µg/µL and 13.3 µg/mL
+Iterative expansion microscopy,Chang 2017,donkey anti-rabbit (Jackson ImmunoResearch),secondary,Jackson ImmunoResearch,711-005-152,pre-expansion,10 µg/µL (cells/neurons); 20 µg/µL (tissue slices) when used as DNA-conjugated secondary
+Iterative expansion microscopy,Chang 2017,donkey anti-chicken (Jackson ImmunoResearch),secondary,Jackson ImmunoResearch,703-005-155,pre-expansion,10 µg/µL (as used for DNA-conjugation)
+Iterative expansion microscopy,Chang 2017,donkey anti-rat (Jackson ImmunoResearch),secondary,Jackson ImmunoResearch,712-005-153,pre-expansion,10 µg/µL (as used for DNA-conjugation)
+Iterative expansion microscopy,Chang 2017,donkey anti-guinea pig (Jackson ImmunoResearch),secondary,Jackson ImmunoResearch,706-005-148,pre-expansion,10 µg/µL (as used for DNA-conjugation)
+Iterative expansion microscopy,Chang 2017,donkey anti-mouse (Jackson ImmunoResearch),secondary,Jackson ImmunoResearch,715-005-151,pre-expansion,10 µg/µL (as used for DNA-conjugation)
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Anti-green fluorescent protein (chicken polyclonal),primary,Abcam,AB13970,pre-expansion,1:8000
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Anti-synaptophysin 1 (guinea pig polyclonal),primary,Synaptic Systems,101 004,pre-expansion,1:800
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Anti-vesicular glutamate transporter 2 (rabbit polyclonal),primary,Synaptic Systems,135 403,pre-expansion,1:800
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Anti-vesicular GABA transporter (rabbit polyclonal),primary,Synaptic Systems,131 003,pre-expansion,1:800
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Anti-gephyrin (guinea pig polyclonal),primary,Synaptic Systems,147 318,pre-expansion,1:800
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Anti-Homer I (guinea pig polyclonal),primary,Synaptic Systems,160 004,pre-expansion,1:800
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Goat anti-chicken (Alexa488-conjugate),secondary,Thermo Fisher Scientific,A-11039,pre-expansion,1:200
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Goat anti-guinea pig (biotin-conjugated),secondary,Vector Laboratories,BA-7000,pre-expansion,1:200
+Morphological assessment of GABA and glutamate inputs to GnRH neurons in intact female mice using expansion microscopy,Yeo 2021,Goat anti-rabbit (ATTO647N-conjugated),secondary,Sigma-Aldrich,40 839,pre-expansion,1:200
+Measurement of expansion factor and distortion for expansion microscopy using isolated renal glomeruli as landmarks,Zhu 2021,chicken anti-vimentin antibody,primary,abcam,24525,pre-expansion,20 μg/mL
+Measurement of expansion factor and distortion for expansion microscopy using isolated renal glomeruli as landmarks,Zhu 2021,Alexa Fluor 488 conjugated donkey anti-chicken antibody,secondary,Yeason,34606ES60,pre-expansion,
+A detailed protocol for expansion microscopy of Paracentrotus lividus embryos and larvae: Incorporating decalcification for improved imaging,Sheard 2025,rabbit monoclonal anti-α-tubulin,primary,abcam,ab190573,pre-expansion,1:200
+A detailed protocol for expansion microscopy of Paracentrotus lividus embryos and larvae: Incorporating decalcification for improved imaging,Sheard 2025,Alexa Fluor 488 anti-rabbit IgG,secondary,Thermo Fisher Scientific,A11008,pre-expansion,1:200
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,monoclonal mouse anti-ɑ-tubulin (DM1α),primary,Sigma-Aldrich,T6199,post-expansion,1:250
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,mouse monoclonal anti-ɑ-tubulin (MT antibody 1),primary,Sigma-Aldrich,T5168,pre-expansion,1:500
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,rabbit anti-TOM20,primary,Abcam,ab78547,post-expansion,1:250
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,rabbit polyclonal anti-polyglutamate chain (PolyE),primary,Adipogen,AG-25B-0030-C050,post-expansion,
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,polyclonal rabbit anti-GFP,primary,Invitrogen,A11122,post-expansion,1:250
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,ATTO647N-conjugated anti-mouse antibodies,secondary,Sigma-Aldrich,50185,post-expansion,1:250 (post-expansion); 1:1000 (in other experiments)
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,ATTO647N-conjugated anti-rabbit antibodies,secondary,Sigma-Aldrich,40839,post-expansion,1:250
+Light microscopy of proteins in their ultrastructural context,M’Saad 2020,ATTO594-conjugated anti-rabbit antibodies,secondary,Sigma-Aldrich,77671,post-expansion,1:500
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Rabbit anti-α-tubulin antibody (ab18251),primary,Abcam,ab18251,pre-expansion,1:500 (final concentration 2 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Rabbit anti-α-tubulin antibody (ab18251),primary,Abcam,ab18251,post-expansion,1:500 (final concentration 2 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Mouse anti-β-tubulin antibody,primary,Sigma-Aldrich,T8328,pre-expansion,1:200 (final concentration 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Mouse anti poly-glutamylated tubulin (mAb GT335),primary,Adipogen,AG-20B-0020,pre-expansion,1:500
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 647 F(ab')2 goat anti-rabbit IgG,secondary,Thermo Fisher Scientific,A-21246,pre-expansion,1:200 (final concentration 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 647 F(ab')2 goat anti-rabbit IgG,secondary,Thermo Fisher Scientific,A-21246,post-expansion,1:200 (final concentration 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 647 F(ab')2 goat anti-mouse IgG,secondary,Thermo Fisher Scientific,A-21235,,
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 532 goat anti-rabbit IgG (H+L),secondary,Thermo Fisher Scientific,A-11002,pre-expansion,1:200 (final concentration 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 532 goat anti-rabbit IgG (H+L),secondary,Thermo Fisher Scientific,A-11002,post-expansion,1:200 (final concentration 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 532 goat anti-rabbit IgG (H+L),secondary,Thermo Fisher Scientific,A-11009,pre-expansion,1:200 (when used; listed as used in mixture)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,HMSiR 647-conjugated goat anti-rabbit IgG F(ab')2,secondary,Sigma-Aldrich,SAB3700946,post-expansion,
+Multiplexed and scalable super-resolution imaging of three-dimensional protein localization in size-adjustable tissues,Ku 2016,"anti-GFP (Alexa Fluor 594-conjugated, Life Technologies A21312)",primary,Life Technologies,A21312,post-expansion,
+Multiplexed and scalable super-resolution imaging of three-dimensional protein localization in size-adjustable tissues,Ku 2016,"anti-GFP (Alexa Fluor 647-conjugated, Life Technologies A31852)",primary,Life Technologies,A31852,post-expansion,
+Multiplexed and scalable super-resolution imaging of three-dimensional protein localization in size-adjustable tissues,Ku 2016,Alexa Fluor 594-conjugated donkey anti-rabbit IgG,secondary,Abcam,ab150072,post-expansion,
+Multiplexed and scalable super-resolution imaging of three-dimensional protein localization in size-adjustable tissues,Ku 2016,Alexa Fluor 647-conjugated donkey anti-rabbit IgG,secondary,Abcam,ab181347,post-expansion,
+Multiplexed and scalable super-resolution imaging of three-dimensional protein localization in size-adjustable tissues,Ku 2016,Alexa Fluor 594-conjugated secondary (Abcam ab150152),secondary,Abcam,ab150152,,
+Multiplexed and scalable super-resolution imaging of three-dimensional protein localization in size-adjustable tissues,Ku 2016,anti-tubulin (Abcam ab6160),primary,Abcam,ab6160,,
+Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy,Götz 2020,cHSP60 (anti-HSP60),primary,Santa Cruz,sc-57840,pre-expansion,1:1000 (Western blot); 1:200 (immunostaining)
+Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy,Götz 2020,β-actin,primary,Sigma,A5441,pre-expansion,"1:10,000"
+Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy,Götz 2020,anti-Prx3,primary,Origene,TA322470,pre-expansion,1:100
+Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy,Götz 2020,anti-CERT,primary,Abcam,ab72536,pre-expansion,1:100
+Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy,Götz 2020,anti-LPS,primary,Bio-Rad,MCA2718,pre-expansion,1:200
+Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy,Götz 2020,ATTO 647N ms (secondary),secondary,Rockland,610-156-121 S,pre-expansion,1:200
+Nanoscale imaging of bacterial infections by sphingolipid expansion microscopy,Götz 2020,ATTO 647N rb (secondary),secondary,Sigma,40839,pre-expansion,1:200
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"TOM20 (rabbit polyclonal, Santa Cruz Biotech, sc-11415)",primary,Santa Cruz Biotech,sc-11415,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Collagen IV (mouse monoclonal, Santa Cruz Biotech, sc-59814)",primary,Santa Cruz Biotech,sc-59814,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Vimentin (chicken polyclonal, Abcam, ab24525)",primary,Abcam,ab24525,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"α-Tubulin (rabbit polyclonal, Abcam, ab15246)",primary,Abcam,ab15246,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"VDAC/porin (mouse monoclonal, Abcam, ab14734)",primary,Abcam,ab14734,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"KRT19 (rabbit polyclonal, Sigma-Aldrich, HPA002465)",primary,Sigma-Aldrich,HPA002465,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"ACTN4 (rabbit polyclonal, Sigma-Aldrich, HPA001873)",primary,Sigma-Aldrich,HPA001873,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Synaptopodin (guinea pig polyclonal, PROGEN Biotechnik, GP94-IN)",primary,PROGEN Biotechnik,GP94-IN,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Actin (smooth muscle) / ACTA2 (mouse monoclonal, Agilent Technologies, M085129-2)",primary,Agilent Technologies,M085129-2,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"IgD (goat polyclonal, SouthernBiotech, 2030-01)",primary,SouthernBiotech,2030-01,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"S100A8 (mouse monoclonal, Abcam, ab22506)",primary,Abcam,ab22506,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"MCT1 (chicken polyclonal, Sigma-Aldrich, AB1286-I)",primary,Sigma-Aldrich,AB1286-I,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Tom20 (rabbit polyclonal, Sigma-Aldrich, HPA011562)",primary,Sigma-Aldrich,HPA011562,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Nephrin (rabbit polyclonal, Santa Cruz Biotech, sc-376522)",primary,Santa Cruz Biotech,sc-376522,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"CASP3 (rabbit polyclonal, Sigma-Aldrich, HPA002643)",primary,Sigma-Aldrich,HPA002643,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"hFOXP3 (goat polyclonal, R & D Systems, AF3240)",primary,R & D Systems,AF3240,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Granzyme B (rabbit polyclonal, Sigma-Aldrich, HPA003418)",primary,Sigma-Aldrich,HPA003418,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Cytokeratin pan type I/II (mouse monoclonal, Invitrogen, MA5-13156)",primary,Invitrogen,MA5-13156,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"GFAP (chicken polyclonal, Abcam, ab4674)",primary,Abcam,ab4674,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"INA (rabbit polyclonal, Sigma-Aldrich, HPA008057)",primary,Sigma-Aldrich,HPA008057,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Homer1 (rabbit polyclonal, Sigma-Aldrich, HPA036522)",primary,Sigma-Aldrich,HPA036522,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"PSD95 (goat polyclonal, Abcam, ab12093)",primary,Abcam,ab12093,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Synaptophysin (rabbit polyclonal, Proteintech, 60191-1-Ig)",primary,Proteintech,60191-1-Ig,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Tyrosine hydroxylase (chicken polyclonal, Abcam, ab76442)",primary,Abcam,ab76442,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"ATPIF1 (rabbit polyclonal, MilliporeSigma, ABC137)",primary,MilliporeSigma,ABC137,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"CD8 (rabbit polyclonal, Abcam, ab85792)",primary,Abcam,ab85792,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"p24 (P24) (mouse monoclonal, Dako, M0857)",primary,Dako,M0857,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"PD-1 (goat polyclonal, R & D Systems, AF1086)",primary,R & D Systems,AF1086,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Nanoscale imaging of clinical specimens using conventional and rapid-expansion pathology,Bucur 2020,"Hsp60 (mouse monoclonal, Abcam, Ab59457)",primary,Abcam,Ab59457,pre-expansion,10 µg/ml (or manufacturer's instructions)
+Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping,Seehra 2023,Anti-KDEL (rabbit),primary,Thermo Fisher Scientific,PA1-013,pre-expansion,1:500
+Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping,Seehra 2023,Anti-Nup98 (mouse),primary,Santa Cruz,sc-74578,pre-expansion,1:200
+Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping,Seehra 2023,"Anti-GFP, affinity-purified (rabbit)",primary,Abcam,ab6556,pre-expansion,1:200
+Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping,Seehra 2023,Alexa Fluor 594 goat anti-rabbit,secondary,Thermo Fisher Scientific,A11012,pre-expansion,1:200
+Geometry-preserving expansion microscopy microplates enable high-fidelity nanoscale distortion mapping,Seehra 2023,Alexa Fluor 594 goat anti-mouse,secondary,Thermo Fisher Scientific,A11005,pre-expansion,1:200
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"polyclonal anti-human lamin B1 (IgG, rabbit, 1:50) (ab16048, Abcam, Waltham, MA, USA)",primary,Abcam,ab16048,pre-expansion,1:50
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"monoclonal anti-human lamin B2 (IgG2a, mouse, 1:100) (MA5-17274, Invitrogen, Waltham, MA, USA)",primary,Invitrogen,MA5-17274,pre-expansion,1:100
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"polyclonal anti-human MPO (IgG, sheep, 1:50) (AA16-718, Antibody Online, Pottstown, PA, USA)",primary,Antibody Online,AA16-718,pre-expansion,1:50
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"monoclonal anti-human histone H1 (IgG2a, mouse, 1:100) (MA5-13750, Invitrogen)",primary,Invitrogen,MA5-13750,pre-expansion,1:100
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"monoclonal anti-human NPM1 (IgG1, mouse, 1:500) (325200, Invitrogen)",primary,Invitrogen,325200,pre-expansion,1:500
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"polyclonal anti-rabbit Alexa 488 (IgG, goat, 1:50) (ab11034, Abcam)",secondary,Abcam,ab11034,pre-expansion,1:50
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"polyclonal anti-mouse Alexa 488 (IgG, goat, 1:2,000) (A11029, Invitrogen)",secondary,Invitrogen,A11029,pre-expansion,"1:2,000"
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"polyclonal anti-mouse Alexa 555 (IgG, goat, 1:50) (A21422, Life Technologies)",secondary,Life Technologies,A21422,pre-expansion,1:50
+Expansion microscopy of neutrophil nuclear structure and extracellular traps,Holsapple 2023,"anti-sheep Alexa 568 (IgG, donkey, 1:50) (ab175712, Abcam)",secondary,Abcam,ab175712,pre-expansion,1:50
+Quantitative expansion microscopy for the characterization of the spectrin periodic skeleton of axons using fluorescence microscopy,Martínez 2020,mouse anti-βII-spectrin,primary,BD Biosciences,612563,pre-expansion,1:100
+Quantitative expansion microscopy for the characterization of the spectrin periodic skeleton of axons using fluorescence microscopy,Martínez 2020,rat anti-tyrosinated tubulin,primary,Abcam,ab6160,pre-expansion,1:200
+Quantitative expansion microscopy for the characterization of the spectrin periodic skeleton of axons using fluorescence microscopy,Martínez 2020,mouse anti-alpha tubulin (clone α-3A1),primary,Sigma-Aldrich,T5168,pre-expansion,1:400
+Quantitative expansion microscopy for the characterization of the spectrin periodic skeleton of axons using fluorescence microscopy,Martínez 2020,anti-mouse-Alexa Fluor 488,secondary,Thermo Fisher Scientific,A32723,pre-expansion,
+Quantitative expansion microscopy for the characterization of the spectrin periodic skeleton of axons using fluorescence microscopy,Martínez 2020,anti-rat-Alexa Fluor 568,secondary,Thermo Fisher Scientific,A11077,pre-expansion,
+Quantitative expansion microscopy for the characterization of the spectrin periodic skeleton of axons using fluorescence microscopy,Martínez 2020,anti-mouse-ATTO-647N,secondary,Sigma-Aldrich,50185,pre-expansion,
+Revealing nanostructures in brain tissue via protein decrowding by iterative expansion microscopy,,"antibody against PSD95 (ThermoFisher, MA1-046)",primary,ThermoFisher,MA1-046,,
+Revealing nanostructures in brain tissue via protein decrowding by iterative expansion microscopy,,"antibody against PSD95 (Cell Signaling Technology, CST3450S)",primary,Cell Signaling Technology,CST3450S,,
+Revealing nanostructures in brain tissue via protein decrowding by iterative expansion microscopy,,"primary antibody against GFP (ThermoFisher, A-11122)",primary,ThermoFisher,A-11122,post-expansion,
+Revealing nanostructures in brain tissue via protein decrowding by iterative expansion microscopy,,"antibody (Jackson ImmunoResearch Laboratories, 711–005–152) (DNA-conjugated)",secondary,Jackson ImmunoResearch Laboratories,711-005-152,pre-expansion,concentrated to 2 mg/ml (described in protocol); final conjugate washed to ~100 µg/ml
+Applying the Expansion Microscopy Method in Neurobiology,Derevtsova 2021,rabbit anti-GFP,primary,Sigma,G-1544,pre-expansion,1:1000
+Applying the Expansion Microscopy Method in Neurobiology,Derevtsova 2021,immunofluorescent antibodies Alexa Fluor 488,secondary,Life Technologies,A11008,pre-expansion,1:2000
+Applying the Expansion Microscopy Method in Neurobiology,Derevtsova 2021,rabbit polyclonal immunoglobulins (anti-IP3R),primary,Abcam,ab5804,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,mouse monoclonal anti-α-tubulin,primary,Sigma-Aldrich,T6199,pre-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,rabbit polyclonal anti-CEP164,primary,Abcam,ab221447,pre-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,rabbit polyclonal anti-CEP164,primary,Abcam,ab221447,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,mouse monoclonal anti-Centrin,primary,Merck,04-1624,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,mouse monoclonal anti-ATPB,primary,Abcam,ab110280,pre-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,mouse monoclonal anti-ATPB,primary,Abcam,ab110280,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,rabbit polyclonal anti-Homer1,primary,Synaptic Systems,160003,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,guinea pig polyclonal anti-Bassoon,primary,Synaptic Systems,141004,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,goat polyclonal anti-tdTomato,primary,SICGEN,AB8181-200,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,rabbit monoclonal anti-ribosomal protein S6,primary,Cell Signaling Technology,5364S,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,chicken polyclonal anti-GFP,primary,Aves Labs,GFP-1020,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,rabbit polyclonal anti-GFP,primary,Thermo Fisher Scientific,A-6455,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,mouse monoclonal anti-pS129 α-synuclein,primary,Biolegend,#825702,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 488-conjugated rabbit polyclonal anti-GFP,primary,Thermo Fisher Scientific,A-21311,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 647-conjugated rabbit polyclonal anti-GFP,primary,Thermo Fisher Scientific,A-31852,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 488-conjugated rabbit monoclonal anti-TOMM20 antibody,primary,Abcam,ab205486,pre-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 647-conjugated rabbit monoclonal anti-TOMM20 antibody,primary,Abcam,ab205487,pre-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 405-conjugated donkey anti-goat IgG,secondary,Abcam,ab175665,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 647-conjugated goat anti-mouse IgG,secondary,Abcam,ab150115,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 647-conjugated donkey anti-rabbit IgG,secondary,Abcam,ab150063,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 488-conjugated donkey anti-rabbit IgG,secondary,Abcam,150061,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 594-conjugated donkey anti-chicken IgY,secondary,Jackson ImmunoResearch,703-585-155,,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 647-conjugated donkey anti-guinea pig IgG,secondary,Jackson ImmunoResearch,706-605-148,post-expansion,
+Scalable and Isotropic Expansion of Tissues with Simply Tunable Expansion Ratio,Park 2019,Alexa 647-conjugated donkey anti-mouse IgG,secondary,Thermo Fisher Scientific,A-31571,post-expansion,
+Super-resolution Imaging of Clickable Lipids with Lipid Expansion Microscopy (LExM),White-Mathieu 2024,Mouse anti-mCherry IC51,primary,Millipore Sigma,MAB131873,post-expansion,1:100
+Super-resolution Imaging of Clickable Lipids with Lipid Expansion Microscopy (LExM),White-Mathieu 2024,Mouse anti-V5 SV5-PK1,primary,BioRad,MCA1360GA,post-expansion,1:100
+Super-resolution Imaging of Clickable Lipids with Lipid Expansion Microscopy (LExM),White-Mathieu 2024,Alexa Fluor™ 594 donkey anti-mouse,secondary,Thermo Fisher Scientific,A21203,post-expansion,1:100
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,rabbit polyclonal anti-C(3)G N-terminal (HL4287),primary,Mary Lilly,HL4287,pre-expansion and post-expansion,1:3000
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,rabbit anti-GFP,primary,Abcam,AB6556,pre-expansion and post-expansion,1:1000
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,rat anti-HA clone 3F10,primary,Sigma-Aldrich,11867423001,pre-expansion and post-expansion,1:100
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,goat anti-mouse Alexa Fluor 488,secondary,Thermo Fisher Scientific,A-11001,pre-expansion and post-expansion,1:500
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,goat anti-mouse Alexa Fluor 555,secondary,Thermo Fisher Scientific,A-21424,pre-expansion and post-expansion,1:500
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,goat anti-rabbit Alexa Fluor 488,secondary,Thermo Fisher Scientific,A-11008,pre-expansion and post-expansion,1:500
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,goat anti-rabbit Alexa Fluor 555,secondary,Thermo Fisher Scientific,A-21429,pre-expansion and post-expansion,1:500
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,goat anti-rabbit Alexa Fluor 594,secondary,Thermo Fisher Scientific,A-11037,pre-expansion and post-expansion,1:500
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,goat anti-guinea pig Alexa Fluor 488,secondary,Thermo Fisher Scientific,A-11073,pre-expansion and post-expansion,1:500
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,anti-mouse Atto 647N secondary antibody,secondary,Sigma-Aldrich,50185-1ML-F,pre-expansion and post-expansion,1:500
+Superresolution expansion microscopy reveals the three-dimensional organization of the Drosophila synaptonemal complex,Cahoon 2017,F(ab')2 fragment of goat anti-rabbit IgG UltraSmall Gold,secondary,Electron Microscopy Sciences,25360,pre-expansion,1:50
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-GFP (Abcam, ab1218)",primary,Abcam,ab1218,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-GFP (OriGene, SP3005P)",primary,OriGene,SP3005P,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-LC3B (Cell Signaling, 2775)",primary,Cell Signaling,2775,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-tubulin (Abcam, ab18251)",primary,Abcam,ab18251,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-tubulin (Sigma Aldrich, T8328)",primary,Sigma Aldrich,T8328,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-lipoteichoic acid (OriGene, BP984)",primary,OriGene,BP984,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-LAMP1 (Santa Cruz, H5G11)",primary,Santa Cruz,H5G11,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-cHSP60 (Santa Cruz, sc-57840)",primary,Santa Cruz,sc-57840,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Anti-Neisseria gonorrhoeae (US biological, N0600-02)",primary,US biological,N0600-02,pre-expansion,1:200
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Alexa488 conjugated anti rabbit (Thermo Fisher, A-11008)",secondary,Thermo Fisher,A-11008,pre-expansion,1:200
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Alexa488 conjugated anti mouse (Thermo Fisher, A-11017)",secondary,Thermo Fisher,A-11017,pre-expansion,1:200
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"CF568-conjugated anti rabbit (Sigma Aldrich, SAB4600310)",secondary,Sigma Aldrich,SAB4600310,pre-expansion,1:100
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"ATTO647N-conjugated anti rabbit (Rockland, 610-156-121S)",secondary,Rockland,610-156-121S,pre-expansion,1:200
+The Expandables: Cracking the Staphylococcal Cell Wall for Expansion Microscopy,Kunz 2021,"Alexa Fluor 488 secondary antibody (Thermo Fisher, A-11070)",secondary,Thermo Fisher,A-11070,pre-expansion,1:100
+ExPOSE: a comprehensive toolkit to perform expansion microscopy in plant protoplast systems,Jr. 2025,anti-Actin rabbit polyclonal (AS13 2640),primary,Agrisera,AS13 2640,pre-expansion,1:250
+ExPOSE: a comprehensive toolkit to perform expansion microscopy in plant protoplast systems,Jr. 2025,anti-mitochondrial matrix marker (GDC-H) rabbit polyclonal (AS05 074),primary,Agrisera,AS05 074,pre-expansion,1:250
+ExPOSE: a comprehensive toolkit to perform expansion microscopy in plant protoplast systems,Jr. 2025,donkey anti-rabbit antibody conjugated with DyLight 594 (AS12 2076),secondary,Agrisera,AS12 2076,pre-expansion,1:500
+Three-Dimensional and Chemical Mapping of Intracellular Signaling Nanodomains in Health and Disease with Enhanced Expansion Microscopy,Sheard 2019,anti-RyR2-pSer2808 IgG (A010-30AP),primary,Badrilla Ltd.,A010-30AP,pre-expansion,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,rabbit anti-SYCP3,primary,Novus Biologicals,NB300-232,,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,mouse anti-SYCP3,primary,Abcam,ab97672,,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,"Alexa Fluor 647 goat anti-guinea pig IgG (H+L), highly cross-absorbed",secondary,Thermo Fisher Scientific (Invitrogen),A-21450,,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,"goat anti-rabbit IgG (H+L), highly cross-adsorbed, Alexa Fluor 568",secondary,Thermo Fisher Scientific,A-11036,post-expansion,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,Alexa 488 AfﬁPure F(ab')2 goat anti-guinea pig IgG (H+L),secondary,Dianova,106-546-003,post-expansion,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,F(ab')2 goat anti-mouse IgG (H+L) (used for SeTau647 conjugation),secondary,Thermo Fisher Scientific,SA-10225,,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,SeTau647-conjugated F(ab')2 goat anti-mouse IgG (conjugated with SeTau647 NHS),secondary,Thermo Fisher Scientific (antibody) / SETA Biomedicals (dye),SA-10225 (antibody); K9-4149 (dye),post-expansion,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,"F(ab')2 goat anti-rabbit IgG (H+L), cross-adsorbed, Alexa Fluor 647",secondary,Thermo Fisher Scientific,A-21246,,
+Tracking down the molecular architecture of the synaptonemal complex by expansion microscopy,Zwettler 2020,"F(ab')2 goat anti-mouse IgG (H+L), cross-adsorbed, Alexa Fluor 488",secondary,Thermo Fisher Scientific,A-11017,,
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,"guinea pig tubulin detecting α-tubulin (AA345, Geneva Antibody Facility)",primary,Geneva Antibody Facility,AA345,pre-expansion,1:2000
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,"guinea pig tubulin detecting α-tubulin (AA345, Geneva Antibody Facility)",primary,Geneva Antibody Facility,AA345,post-expansion,1:500
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,20H5 (anti-centrin monoclonal),primary,Millipore Sigma,04-1624,pre-expansion,1:2000
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,20H5 (anti-centrin monoclonal),primary,Millipore Sigma,04-1624,post-expansion,1:500
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,anti-guinea pig 594,secondary,Abcam,150188,pre-expansion,1:10000
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,anti-guinea pig 594,secondary,Abcam,150188,post-expansion,1:1000
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,anti-guinea pig 647,secondary,Abcam,150187,pre-expansion,1:10000
+Ultrastructure expansion microscopy in Trypanosoma brucei,Kalichava 2021,anti-guinea pig 647,secondary,Abcam,150187,post-expansion,1:1000
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,YL1/2 anti-α-tubulin (Abcam ab61610),primary,Abcam,ab61610,post-expansion,1:200
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,anti-Mab414 (mouse) (Abcam ab24609),primary,Abcam,ab24609,post-expansion,1:500
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,anti-γ-tubulin (rabbit) (Abcam ab180595),primary,Abcam,ab180595,post-expansion,"1:10,000"
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,anti-mCherry (rabbit) (Abcam ab167453),primary,Abcam,ab167453,post-expansion,1:250
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,anti-HA (mouse) (Invitrogen 26183),primary,Invitrogen,26183,post-expansion,1:250
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,"anti-centrin (mouse) (Millipore 04-1624, clone 20H5)",primary,Millipore,04-1624,post-expansion,1:250
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,anti-GFP (Torres Pine Ref. TP401),primary,Torres Pine,TP401,post-expansion,1:250
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,goat anti-mouse IgG Alexa Fluor 488 (Invitrogen A11029),secondary,Invitrogen,A11029,post-expansion,1:1000 (S. pombe); 1:500 (S. cerevisiae)
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,goat anti-mouse IgG Alexa Fluor 568 (Invitrogen A11004),secondary,Invitrogen,A11004,post-expansion,1:1000 (S. pombe); 1:500 (S. cerevisiae)
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,goat anti-rabbit IgG Alexa Fluor 488 (Invitrogen A11008),secondary,Invitrogen,A11008,post-expansion,1:1000 (S. pombe); 1:500 (S. cerevisiae)
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,goat anti-rabbit IgG Alexa Fluor 568 (Invitrogen A11036),secondary,Invitrogen,A11036,post-expansion,1:1000 (S. pombe); 1:500 (S. cerevisiae)
+Ultrastructure expansion microscopy reveals the cellular architecture of budding and fission yeast,,goat anti-rat IgG Alexa Fluor 647 (Invitrogen A21247),secondary,Invitrogen,A21247,post-expansion,1:1000 (S. pombe); 1:500 (S. cerevisiae)
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,anti-TFAM,primary,Origene,TA332462,pre-expansion,1:100
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,alpha-PRX3,primary,Origene,TA322472,pre-expansion,1:100
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,alpha-Mitofilin (Mic60),primary,Abcam,ab48139,pre-expansion,1:100
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,alpha-GFP (Abcam),primary,Abcam,ab1218,pre-expansion,1:100
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,alpha-GFP (Origene),primary,Origene,SP3005P,pre-expansion,1:100
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,alpha-TOM20,primary,Santa Cruz,sc-17764,pre-expansion,1:25
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,alpha-TIM44,primary,BD Biosciences,612582,pre-expansion,1:50
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,Alexa 488 goat anti-mouse IgG,secondary,Thermo Fisher Scientific,A11017,pre-expansion,1:200
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,Alexa 488 goat anti-rabbit IgG,secondary,Thermo Fisher Scientific,A11070,pre-expansion,1:200
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,ATTO 647N goat anti-rabbit IgG,secondary,Rockland Immunochemicals,610-156-121S,pre-expansion,1:200
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,anti-TFAM-Alexa 546 (self-conjugated TA332462),primary,Origene,TA332462,pre-expansion,
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,anti-TFAM (sc-166965),primary,Santa Cruz Biotechnology,sc-166965,pre-expansion,1:100
+Using Expansion Microscopy to Visualize and Characterize the Morphology of Mitochondrial Cristae,Kunz 2020,anti-TFAM-ATTO 643 (self-conjugated TA332462),primary,Origene,TA332462,pre-expansion,
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Goat polyclonal anti-rabbit IgG (H+L) Alexa Fluor 488,secondary,Abcam,150077,pre-expansion,IF (1:500)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Goat polyclonal anti-mouse IgG3 Alexa Fluor 594,secondary,Invitrogen,A-21155,pre-expansion,IF (1:500)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Goat polyclonal anti-chicken CF633,secondary,Biotium,20126,pre-expansion,IF (1:500)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Goat polyclonal anti-rabbit IgG (H+L) Alexa Fluor 594,secondary,Molecular Probes,A11037,pre-expansion,IF (1:400–1:200)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Goat polyclonal anti-mouse IgG (H+L) Alexa Fluor 488,secondary,Molecular Probes,A11029,pre-expansion,IF (1:400–1:200)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Goat polyclonal anti-chicken IgY (H+L) Alexa Fluor 488,secondary,Molecular Probes,A11039,pre-expansion,IF (1:400–1:200)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Mouse monoclonal anti-CD3 (clone UCHT1),primary,STEMCELL Technologies,60011,pre-expansion,IF (1:250)  (also used for coverslip coating at 10 μg/mL)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Rabbit monoclonal anti-α-tubulin (clone EP1332Y),primary,Abcam,ab52866,pre-expansion,IF (1:250)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Mouse monoclonal anti-clathrin heavy chain,primary,Thermo Fisher Scientific,MA1-065,pre-expansion,IF (1:250)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Chicken polyclonal anti-GFP,primary,Aves Labs,GFP-1010,pre-expansion,IF (1:400–1:200)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Chicken polyclonal anti-GFP,primary,Aves Labs,GFP-1020,pre-expansion,1:200
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Rabbit polyclonal anti-NUP153,primary,Abcam,ab84872,pre-expansion,IF (1:200)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Chicken polyclonal anti-Bassoon,primary,Synaptic Systems,141016,pre-expansion,IF (1:300)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Rabbit polyclonal anti-Homer,primary,Abcam,97593,pre-expansion,IF (1:300)
+Visualizing cellular and tissue ultrastructure using Ten-fold Robust Expansion Microscopy (TREx),Damstra 2022,Mouse monoclonal IgG3 anti-VGAT,primary,Synaptic Systems,131011,pre-expansion,IF (1:300)
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Rabbit anti-podocin,primary,Sigma-Aldrich,P0372,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Goat anti-podocalyxin,primary,R&D Systems Inc.,AF1556,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Mouse anti-agrin,primary,DSHB,6D2,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Rabbit anti-collagen IV,primary,Abcam,ab6586,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Mouse anti-acetylated tubulin,primary,Sigma-Aldrich,T7451,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Mouse anti-alpha smooth muscle actin,primary,BioLegend,904601,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Guinea pig anti-synaptopodin (internal N-terminus),primary,Progen Biotechnik,GP94-IN,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Mouse anti-vimentin,primary,Thermo Fisher Scientific/Invitrogen,18-0052,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Donkey anti-mouse (unconjugated),secondary,Jackson Immunoresearch,715-005-151,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Donkey anti-rabbit (unconjugated),secondary,Jackson Immunoresearch,711-005-152,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Donkey anti-goat (unconjugated),secondary,Jackson Immunoresearch,705-005-147,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Donkey anti-rat (unconjugated),secondary,Jackson Immunoresearch,712-545-150,pre-expansion,
+"Volumetric, Nanoscale Optical Imaging of Mouse and Human Kidney via Expansion Microscopy",Chozinski 2018,Donkey anti-guinea pig (unconjugated),secondary,Jackson Immunoresearch,706-005-148,pre-expansion,
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,rat monoclonal anti-tubulin,primary,Thermo Fisher Scientific,MA1-80017,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,guinea pig polyclonal anti-Synaptophysin,primary,Synaptic Systems,101 004,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,rabbit polyclonal anti-Homer1,primary,Synaptic Systems,160 003,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,mouse monoclonal anti-Bassoon (SAP7F407),primary,Enzo,SAP7F407,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,rabbit polyclonal anti-VDAC,primary,Santa Cruz,sc-98708,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,mouse monoclonal anti-PSD95,primary,Thermo Fisher Scientific,MA1-046,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,rabbit anti-RIM1,primary,Synaptic Systems,140 003,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,donkey anti-rat conjugated to Alexa Fluor 488,secondary,Dianova,712-545-153,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,goat anti-rabbit conjugated to Alexa Fluor 546,secondary,Thermo Fisher Scientific,A-11035,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,goat anti-rat conjugated to CF647,secondary,Biotium,#20013,pre-expansion,1:100
+X10 expansion microscopy enables 25-nm resolution on conventional microscopes,Truckenbrodt 2018,donkey anti-mouse conjugated to CF633,secondary,Biotium,#20124,pre-expansion,1:100
+A Universal Labeling Strategy for Nucleic Acids in Expansion Microscopy,Wen 2021,mouse anti-α-tubulin,primary,Abcam,ab7291,pre-expansion,2 μg/mL
+Aptamer-Based Cell Nucleus Imaging via Expansion Microscopy,Sun 2022,Histone H1 antibody (AE-4) (sc-8030),primary,"Santa Cruz Biotechnology, Inc.",sc-8030,pre-expansion,1:40
+Aptamer-Based Cell Nucleus Imaging via Expansion Microscopy,Sun 2022,m-lgGk BP-CFL 555 (sc-516177),secondary,"Santa Cruz Biotechnology, Inc.",sc-516177,pre-expansion,1:40
+Expansion tomography for large volume tissue imaging with nanoscale resolution,CHEN 2021,monoclonal mouse anti–α-tubulin,primary,Sigma,T5168,pre-expansion,1:500
+Expansion tomography for large volume tissue imaging with nanoscale resolution,CHEN 2021,Alexa Fluor 546 goat anti-mouse IgG,secondary,Thermo Fisher,A-11003,pre-expansion,1:500
+Expansion tomography for large volume tissue imaging with nanoscale resolution,CHEN 2021,rabbit anti-GFP,primary,Abcam,ab290,pre-expansion,1:500
+Expansion tomography for large volume tissue imaging with nanoscale resolution,CHEN 2021,goat anti-GFP,primary,Abcam,ab6673,pre-expansion,1:500
+Expansion Microscopy of the Enteric Nervous System: A Feasibility Study,Xu 2025,"Rabbit anti-GFAP (Dako, Z0334)",primary,Dako,Z0334,pre-expansion,"1:250 (in PBS + 1% BSA), incubated 48 h at 4°C"
+Expansion Microscopy of the Enteric Nervous System: A Feasibility Study,Xu 2025,"Donkey anti-rabbit IgG Alexa Fluor 594 (Abcam, ab150068)",secondary,Abcam,ab150068,pre-expansion,"1:300 (in PBS + 1% BSA), overnight at room temperature"
+Differential labelling of human sub-cellular compartments with fluorescent dye esters and expansion microscopy,Sheard 2023,rabbit polyclonal anti-KDEL,primary,Thermo Fisher Scientific,PA1-013,pre-expansion,1:200
+Differential labelling of human sub-cellular compartments with fluorescent dye esters and expansion microscopy,Sheard 2023,rabbit monoclonal anti-GM130,primary,Abcam,ab52649,pre-expansion,1:200
+Differential labelling of human sub-cellular compartments with fluorescent dye esters and expansion microscopy,Sheard 2023,mouse monoclonal anti-ATP5A1,primary,Thermo Fisher Scientific,43-9800,pre-expansion,1:200
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Rabbit anti-TOMM20,primary,Santa Cruz,sc-11415,pre-expansion,1:250
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,"Rat anti-a-TUBULIN, tyrosinated, clone YL1/2",primary,Millipore Sigma,MAB1864-I,pre-expansion,1:5000
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Rabbit anti-clathrin heavy-chain,primary,Abcam,ab21679,pre-expansion,1:100
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Rabbit anti-ARL13B,primary,Proteintech,17711-1-AP,pre-expansion,1:100
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Mouse anti-CEP164,primary,Santa Cruz,sc-515403,pre-expansion,1:100
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Chicken anti-GFAP,primary,Abcam,ab4674,pre-expansion,1:1000
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Rabbit anti-GFP (D5.1),primary,Cell Signaling,2956,pre-expansion,1:200
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,AffiniPure Goat anti-Rabbit IgG,secondary,Jackson ImmunoResearch,111-005-144,pre-expansion,"3 mg mL^-1, 1:100"
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Goat anti-Mouse IgG,secondary,Jackson ImmunoResearch,115-005-146,pre-expansion,1:100
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Goat anti-Rat IgG,secondary,Jackson ImmunoResearch,112-005-167,pre-expansion,1:100
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,ImmPRESS HRP Horse anti-Goat IgG Polymer Detection Kit,secondary,Vector Laboratories,MP-7405,pre-expansion,no dilution
+Proximity labeling expansion microscopy (PL-ExM) evaluates interactome labeling techniques,Park 2024,Goat anti-Horse HRP,secondary,Vector Laboratories,MP-7405,pre-expansion,no dilution
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,anti-b-tubulin mouse mAb,primary,Yeason Biotech,30301ES60,pre-expansion,
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,anti-b-actin mouse mAb,primary,Yeason Biotech,30101ES50,pre-expansion,
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,anti-Golgin-97 rabbit pAb,primary,Abcam,ab84340,pre-expansion,
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,anti-Fibrillarin rabbit pAb,primary,ABclonal Biotech,A13490,pre-expansion,
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,anti-TOMM20 rabbit pAb,primary,ZEN-BIOSCIENCE,382451,pre-expansion,
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,Alexa Fluor 488 AffiniPure goat anti-rabbit IgG(H + L),secondary,Yeason Biotech,33106ES60,pre-expansion,
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,Alexa Fluor 488 AffiniPure goat anti-mouse IgG(H + L),secondary,Yeason Biotech,33206ES60,pre-expansion,
+Super-resolution co-imaging of proteins and nucleic acids on expansion microscopy,Yuan 2025,Atto 647N goat anti-rabbit IgG(H + L),secondary,Sigma-Aldrich,40839,pre-expansion,
+Expansion microscopy reveals subdomains in C. elegans germ granules,Suen 2023,anti-mouse GFP,primary,Thermo Fisher Scientific,A-11120,pre-expansion,1:500
+Expansion microscopy reveals subdomains in C. elegans germ granules,Suen 2023,anti-rabbit Alexa Fluor 594 secondary antibody,secondary,Thermo Fisher Scientific,A11012,pre-expansion,1:500
+Expansion microscopy reveals subdomains in C. elegans germ granules,Suen 2023,anti-mouse Atto 647 secondary antibody,secondary,Sigma-Aldrich,50185,pre-expansion,1:160
+Visualisation of Euglena gracilis organelles and cytoskeleton using expansion microscopy,Konupkov´a 2025,anti-α-tubulin (anti-αTub; AA345),primary,ABCD Antibodies,AA345,post-expansion,1:300
+Visualisation of Euglena gracilis organelles and cytoskeleton using expansion microscopy,Konupkov´a 2025,anti-Rubisco activase (anti-RCA; AS10 700),primary,Agrisera,AS10 700,post-expansion,1:300
+Visualisation of Euglena gracilis organelles and cytoskeleton using expansion microscopy,Konupkov´a 2025,Alexa Fluor 488 goat anti-rabbit IgG,secondary,Invitrogen,A-11008,post-expansion,1:300
+Visualisation of Euglena gracilis organelles and cytoskeleton using expansion microscopy,Konupkov´a 2025,Alexa Fluor 488 goat anti-guinea pig IgG,secondary,Invitrogen,A-11073,post-expansion,1:300
+Visualisation of Euglena gracilis organelles and cytoskeleton using expansion microscopy,Konupkov´a 2025,Alexa Fluor 594 goat anti-guinea pig IgG,secondary,Invitrogen,A-11076,post-expansion,1:300
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,mouse IgG1 anti-Cx35/36,primary,Millipore,MAB3045,pre-expansion,1:250
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,mouse IgG1 anti-ZO1,primary,Invitrogen,33-9100,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,mouse IgG1 anti-N-cadherin,primary,BD Transduction Laboratories,610920,pre-expansion,1:50
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,mouse IgG1 anti-beta-catenin,primary,Sigma,C7207,pre-expansion,1:100
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,rabbit IgG anti-GluR2/3,primary,Millipore,07-598,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,chicken IgY anti-GFP,primary,Abcam,ab13970,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,mouse IgG- Alexa Fluor 546,secondary,Invitrogen,A11030,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,mouse IgG- Alexa Fluor 647,secondary,Invitrogen,A21235,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,rabbit IgG- Alexa Fluor 546,secondary,Invitrogen,A11010,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,rabbit IgG- Atto 647N,secondary,Sigma-Aldrich,40839,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,mouse IgG- Atto 647N,secondary,Sigma-Aldrich,50185,pre-expansion,1:200
+The components of an electrical synapse as revealed by expansion microscopy of a single synaptic contact,Cárdenas-García 2024,chicken IgY- Alexa Fluor 488,secondary,Invitrogen,A11039,pre-expansion,1:200
+Evaluation of Direct Grafting Strategies via Trivalent Anchoring for Enabling Lipid Membrane and Cytoskeleton Staining in Expansion Microscopy,Wen 2020,mouse anti α-tubulin,primary,Abcam,ab7291,pre-expansion,2 μg/mL
+Evaluation of Direct Grafting Strategies via Trivalent Anchoring for Enabling Lipid Membrane and Cytoskeleton Staining in Expansion Microscopy,Wen 2020,Donkey Anti-Mouse IgG (DNA-conjugated secondary antibody),secondary,Abcam,ab6707,pre-expansion,10 μg/mL (or 1:100)
+Expansion Microscopy Provides Nanoscale Insight into Nucleolar Reorganization and Nuclear Foci Formation during Nucleolar Stress,Alley 2025,Rabbit Polyclonal Fibrillarin antibody,primary,Abcam,ab5821,pre-expansion,1:500
+Expansion Microscopy Provides Nanoscale Insight into Nucleolar Reorganization and Nuclear Foci Formation during Nucleolar Stress,Alley 2025,mouse monoclonal RPA194 Antibody C-1,primary,Santa Cruz Biotechnology,sc-48385,pre-expansion,1:500
+Expansion Microscopy Provides Nanoscale Insight into Nucleolar Reorganization and Nuclear Foci Formation during Nucleolar Stress,Alley 2025,NPM1 antibody (FC-61991),primary,Thermo Fisher,FC-61991,pre-expansion,
+Expansion Microscopy Provides Nanoscale Insight into Nucleolar Reorganization and Nuclear Foci Formation during Nucleolar Stress,Alley 2025,Goat Anti-Mouse IgG H&L Alexa Fluor 488,secondary,Abcam,ab150113,pre-expansion,1:1000
+Expansion Microscopy Provides Nanoscale Insight into Nucleolar Reorganization and Nuclear Foci Formation during Nucleolar Stress,Alley 2025,"Goat Anti-Rabbit IgG (H+L) Cross-Adsorbed Secondary Antibody, Alexa Fluor 594",secondary,Thermo Fisher Scientific,A-11012,pre-expansion,1:1000
+Expansion Microscopy Provides Nanoscale Insight into Nucleolar Reorganization and Nuclear Foci Formation during Nucleolar Stress,Alley 2025,Goat anti-Mouse IgG (H+L) Highly Cross-Adsorbed Alexa Fluor 594,secondary,Thermo Fisher Scientific,A-11032,pre-expansion,1:1000
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,mouse monoclonal anti-α-tubulin,primary,Sigma-Aldrich,T6199,pre-expansion,1:300−1:400
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,rabbit anti-β-tubulin (anti-β-tubulin antibody [EPR16774]),primary,Abcam,ab179513,pre-expansion,1:300−1:400
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,Alexa Fluor 594-conjugated rabbit polyclonal anti-GFP,primary,Thermo Scientific,A-21312,pre-expansion,
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,antinuclear pore complex (NPC) protein antibody [Mab414],primary,Abcam,ab24609,pre-expansion,1:1000
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,recombinant anti-CD44 antibody [EPR18668],primary,Abcam,ab189524,pre-expansion,1:400
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,Alexa Fluor 488-conjugated goat anti-mouse IgG H&L,secondary,Abcam,ab150113,pre-expansion,1:300−1:400 (cells); 1:500 (tissue)
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,Alexa Fluor 488-conjugated donkey anti-rabbit IgG H&L,secondary,Abcam,ab150077,pre-expansion,1:300−1:400 (cells); 1:500 (tissue)
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,Alexa Fluor 594-conjugated donkey anti-mouse IgG H&L,secondary,Abcam,ab150108,pre-expansion,1:300−1:400 (cells); 1:500 (tissue)
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,Alexa Fluor 594-conjugated donkey anti-rabbit IgG H&L,secondary,Abcam,ab150076,pre-expansion,1:300−1:400 (cells); 1:500 (tissue)
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,Alexa Fluor 647-conjugated goat anti-mouse IgG H&L,secondary,Abcam,ab150115,pre-expansion,1:300−1:400 (cells); 1:500 (tissue)
+Expansion Microscopy with a Thermally Adjustable Expansion Factor Using Thermoresponsive Biospecimen−Hydrogel Hybrids,Kang 2021,Alexa Fluor 647-conjugated donkey anti-rabbit IgG H&L,secondary,Abcam,ab150063,pre-expansion,1:300−1:400 (cells); 1:500 (tissue)
+Detection of Chlamydia Developmental Forms and Secreted Effectors by Expansion Microscopy,Kunz 2019,anti-GFP (ab1218),primary,Abcam,ab1218,pre-expansion,1:200
+Detection of Chlamydia Developmental Forms and Secreted Effectors by Expansion Microscopy,Kunz 2019,anti-mcherry (ab167453),primary,Abcam,ab167453,pre-expansion,1:500
+Detection of Chlamydia Developmental Forms and Secreted Effectors by Expansion Microscopy,Kunz 2019,Alexa 488 (A-11008),secondary,Thermo Fisher,A-11008,pre-expansion,1:200
+Detection of Chlamydia Developmental Forms and Secreted Effectors by Expansion Microscopy,Kunz 2019,ATTO 647N (610-156-121S),secondary,Rockland,610-156-121S,pre-expansion,1:200
+Fluorescence Lifetime Multiplex Imaging in Expansion Microscopy with Tunable Donor−Acceptor Polymer Dots,Liu 2023,biotinylated mouse anti-alpha tubulin,primary,Abcam,ab74696,pre-expansion,1:100
+Fluorescence Lifetime Multiplex Imaging in Expansion Microscopy with Tunable Donor−Acceptor Polymer Dots,Liu 2023,rabbit anti-Tomm20,primary,Thermofisher,PA552843,pre-expansion,1:50
+Fluorescence Lifetime Multiplex Imaging in Expansion Microscopy with Tunable Donor−Acceptor Polymer Dots,Liu 2023,rabbit anti-clathrin,primary,Abcam,ab21679,pre-expansion,1:200
+Fluorescence Lifetime Multiplex Imaging in Expansion Microscopy with Tunable Donor−Acceptor Polymer Dots,Liu 2023,mouse anti-laminA/C,primary,Abcam,ab40567,pre-expansion,1:100
+Expansion Microscopy for Cell Biology Analysis in Fungi,Götz 2020,"anti-α-tubulin antibody (abcam, ab18251)",primary,Abcam,ab18251,pre-expansion,
+Expansion Microscopy for Cell Biology Analysis in Fungi,Götz 2020,"secondary antibody (Alexa 488-label, Thermo-ﬁsher, A11008)",secondary,Thermo Fisher,A11008,pre-expansion,
+Expansion Microscopy for Cell Biology Analysis in Fungi,Götz 2020,"secondary antibody (ATTO647N-label, Sigma, 40839)",secondary,Sigma,40839,pre-expansion,
+Visualizing the trans-synaptic arrangement of synaptic proteins by expansion microscopy,Sachs 2024,goat anti-rabbit secondary antibody,secondary,Invitrogen,31212,,
+Applications of Super Resolution Expansion Microscopy in Yeast,Chen 2021,"anti-GFP antibody (ab13970, Abcam)",primary,Abcam,ab13970,pre-expansion,
+Applications of Super Resolution Expansion Microscopy in Yeast,Chen 2021,"secondary antibody (ab150173, Abcam)",secondary,Abcam,ab150173,pre-expansion,
+Functionalized Docetaxel Probes for Refined Visualization of Mitotic Spindles by Expansion Microscopy,Wen 2025,rabbit anti-α-tubulin (Abcam ab18251),primary,Abcam,ab18251,pre-expansion,5 μg/mL
+Functionalized Docetaxel Probes for Refined Visualization of Mitotic Spindles by Expansion Microscopy,Wen 2025,mouse anti-β-tubulin (Merck T8328),primary,Merck,T8328,pre-expansion,5 μg/mL
+Functionalized Docetaxel Probes for Refined Visualization of Mitotic Spindles by Expansion Microscopy,Wen 2025,rabbit anti-TOMM20 (Abcam ab186734),primary,Abcam,ab186734,pre-expansion,4 μg/mL
+Functionalized Docetaxel Probes for Refined Visualization of Mitotic Spindles by Expansion Microscopy,Wen 2025,"goat anti-rabbit F(ab)2 IgG, AF 488 (ThermoFisher A-11070)",secondary,ThermoFisher,A-11070,pre-expansion,100×
+Functionalized Docetaxel Probes for Refined Visualization of Mitotic Spindles by Expansion Microscopy,Wen 2025,"goat anti-mouse IgG, AF 488 (Abcam ab150113)",secondary,Abcam,ab150113,pre-expansion,100×
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Human anti-centromeres,primary,Antibodies Incorporated,15-235,pre-expansion,2–5 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Mouse anti-H3K4me3,primary,EMD Millipore,05-1339-S,pre-expansion,2–5 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Mouse anti-RNA polymerase II CTD repeat YSPTSPS phosphorylated at Serine 5,primary,Abcam,ab5408,pre-expansion,2–5 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Rabbit anti-H3K4me3,primary,Active Motif,39159,pre-expansion,2–5 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Rabbit anti-H3K27me3,primary,Active Motif,39155,pre-expansion,2–5 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Rabbit anti-H3K27ac,primary,Active Motif,39133,pre-expansion,2–5 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Mouse anti-H3K27me3,primary,Active Motif,61017,pre-expansion,2–5 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Donkey anti-rabbit (unconjugated),secondary,Jackson ImmunoResearch,711-005-152,pre-expansion,2–3 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Donkey anti-human (unconjugated),secondary,Jackson ImmunoResearch,709-005-149,pre-expansion,2–3 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Donkey anti-rabbit conjugated with Alexa Fluor 488,secondary,Jackson ImmunoResearch,711-545-152,pre-expansion,2–3 µg/ml
+Multiplexed single-cell profiling of chromatin states at genomic loci by expansion microscopy,Woodworth 2021,Donkey anti-mouse conjugated with Alexa Fluor 488,secondary,Jackson ImmunoResearch,715-545-150,pre-expansion,2–3 µg/ml
+Mapping Protein Distribution in the Canine Photoreceptor Sensory Cilium and Calyceal Processes by Ultrastructure Expansion Microscopy,Takahashi 2025,CCDC66 antibody (PA5-60642),primary,Thermo Fisher Scientific (Invitrogen),PA5-60642,post-expansion,
+Iterative immunostaining combined with expansion microscopy and image processing reveals nanoscopic network organization of nuclear lamina,Mäntylä 2023,HSV-1 VP5 MAb (sc-13525),primary,Santa Cruz Biotechnology,sc-13525,pre-expansion,
+Iterative immunostaining combined with expansion microscopy and image processing reveals nanoscopic network organization of nuclear lamina,Mäntylä 2023,mouse monoclonal anti–lamin A/C C-terminus (LA/C-C) [131C3] (ab18984),primary,Abcam,ab18984,pre-expansion,1×
+Iterative immunostaining combined with expansion microscopy and image processing reveals nanoscopic network organization of nuclear lamina,Mäntylä 2023,mouse monoclonal anti–lamin A/C N-terminus (LA/C-N) [E-1] (sc-376248),primary,Santa Cruz Biotechnology,sc-376248,pre-expansion,1×
+Iterative immunostaining combined with expansion microscopy and image processing reveals nanoscopic network organization of nuclear lamina,Mäntylä 2023,rabbit monoclonal anti–lamin A/C (LA/C-rod) [EP4520-16] (ab133256),primary,Abcam,ab133256,pre-expansion,1×
+Iterative immunostaining combined with expansion microscopy and image processing reveals nanoscopic network organization of nuclear lamina,Mäntylä 2023,rabbit polyclonal anti–lamin A/C (pLA/C) (ab227176),primary,Abcam,ab227176,pre-expansion,1×
+Iterative immunostaining combined with expansion microscopy and image processing reveals nanoscopic network organization of nuclear lamina,Mäntylä 2023,rabbit polyclonal anti–histone H3 (ab1791),primary,Abcam,ab1791,pre-expansion,1×
+Iterative immunostaining combined with expansion microscopy and image processing reveals nanoscopic network organization of nuclear lamina,Mäntylä 2023,rabbit polyclonal anti–H3K9me3 (ab8898),primary,Abcam,ab8898,pre-expansion,1×
+Label-retention expansion microscopy,,rabbit anti-clathrin heavy-chain,primary,Abcam,ab21679,pre-expansion,2 µg/ml
+Label-retention expansion microscopy,,rat anti–α-tubulin (tyrosinated) clone YL1/2,primary,Millipore Sigma,MAB1864-I,pre-expansion,2 µg/ml
+Label-retention expansion microscopy,,monoclonal mouse anti-Nup153,primary,Abcam,ab24700,pre-expansion,2 µg/ml
+Label-retention expansion microscopy,,anti-H3K9me3,primary,Abcam,ab176916,pre-expansion,2 µg/ml
+Label-retention expansion microscopy,,anti-H3K4me3,primary,Abcam,ab8580,pre-expansion,2 µg/ml
+Label-retention expansion microscopy,,goat anti-CEP164,primary,Santa Cruz Biotechnology,sc-240226,pre-expansion,1:100
+Label-retention expansion microscopy,,mouse anti-Bassoon,primary,StressGene,VAM-PS003,pre-expansion,1:500
+Label-retention expansion microscopy,,rabbit anti-Homer1,primary,Synaptic Systems,160003,pre-expansion,1:200
+Label-retention expansion microscopy,,AffiniPure Donkey Anti-Rabbit IgG (unconjugated),secondary,Jackson ImmunoResearch,711-005-152,pre-expansion,3 µg/ml
+Label-retention expansion microscopy,,AffiniPure Donkey Anti-Rat IgG (unconjugated),secondary,Jackson ImmunoResearch,712-005-153,pre-expansion,3 µg/ml
+Label-retention expansion microscopy,,DyLight 594–labeled anti-DIG/Digoxin,secondary,Vector Laboratories,DI-7594,post-expansion,2 µg/ml
+Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage,,mouse anti-LAMP1 (clone H4A3),primary,Developmental Hybridoma Bank,H4A3,pre-expansion,1:1000 (PS-ExM); 1:500 (post-staining ExM)
+Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage,,guinea pig anti-α-tubulin,primary,Geneva Antibody Facility,AA345,pre-expansion,1:200 (PS-ExM); 1:125 (post-staining ExM)
+Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage,,anti-rabbit-IgG conjugated to ATTO 647,secondary,Sigma,40839,pre-expansion,1:1000 (PS-ExM); 1:500 (post-staining ExM)
+Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage,,anti-mouse-IgG conjugated to Alexa Fluor 488,secondary,Invitrogen Molecular Probes,A11001,pre-expansion,1:1000 (PS-ExM); 1:500 (post-staining ExM)
+Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage,,anti-guinea pig-IgG conjugated to Alexa Fluor 594,secondary,Invitrogen Molecular Probes,A11076,pre-expansion,1:1000 (PS-ExM); 1:500 (post-staining ExM)
+Pre-gelation staining expansion microscopy for visualisation of the Plasmodium liver stage,,anti-chicken-IgY conjugated to Alexa Fluor 594,secondary,Invitrogen Molecular Probes,A11042,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-CEP290,primary,Santa Cruz Biotechnology,sc-390462,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-CEP290,primary,Santa Cruz Biotechnology,sc-390462,pre-expansion,1:100
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-β-actin,primary,Abcam,49900,pre-expansion,1:2500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,anti-mouse-IgG secondary antibody conjugated with HRP,secondary,Jackson Laboratories,115-035-062,pre-expansion,1:2500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-ARL13B [N295B/66],primary,Biolegend,857601,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-CEP164,primary,Santa Cruz Biotechnology,sc-515403,pre-expansion,1:200
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-GFAP,primary,Cell Signaling,GA5,pre-expansion,1:300
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-MAP2A+B (IgG1),primary,Sigma,MAB378,pre-expansion,1:300
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-S100b,primary,Sigma,S2532,pre-expansion,1:200
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-nestin,primary,Millipore,MAB5326,pre-expansion,1:300
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rabbit anti-CEP290,primary,Abcam,ab85728,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rabbit anti-ARL13B,primary,Proteintech,17711-1-AP,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rabbit anti-GAD65,primary,Thermo Fisher Scientific,PA5-85750,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rabbit anti-PAX6,primary,Biolegend,Poly19013,pre-expansion,1:300
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rabbit anti-SOX2,primary,Cell Signaling,mAB3579,pre-expansion,1:300
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rabbit anti-TBR1,primary,Abcam,ab31940,pre-expansion,1:200
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rat anti-CTIP2 (25B6),primary,Abcam,ab18465,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,sheep anti-TTR (Prealbumin),primary,Bio-Rad,AHP1837,pre-expansion,1:100
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,Alexa Fluor 488 goat anti-mouse-IgG,secondary,Life Technologies,A21121,pre-expansion,1:1000
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,Alexa Fluor 568 goat anti-mouse-IgG,secondary,Life Technologies,A21124,pre-expansion,1:1000
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,Alexa Fluor 568 goat anti-rat-IgG,secondary,Life Technologies,A11077,pre-expansion,1:1000
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,Alexa Fluor 647 goat anti-rabbit-IgG,secondary,Life Technologies,A21245,pre-expansion,1:1000
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,Alexa Fluor 647 goat anti-sheep-IgG,secondary,Life Technologies,A21448,pre-expansion,1:1000
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,mouse anti-OCT3/4,primary,Santa Cruz Biotechnology,sc-5279,pre-expansion,1:200
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rabbit anti-Ki67,primary,Abcam,Ab16667,pre-expansion,1:250
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,rat anti-PH3,primary,Abcam,ab10543,pre-expansion,1:500
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,Alexa Fluor 568 donkey anti-goat-IgG,secondary,Life Technologies,A11057,pre-expansion,1:1000
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,anti-IFT88,primary,Proteintech,13967-1-AP,post-expansion,1:250
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,anti-ARL13B (U-ExM),primary,Proteintech,17711-1-AP,post-expansion,1:250
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,anti-α-tubulin (U-ExM),primary,ABCD antibodies,ABCD_AA345,post-expansion,1:250
+CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids,,anti-β-tubulin (U-ExM),primary,ABCD antibodies,ABCD_AA344,post-expansion,1:250
+Fast photostable expansion microscopy using QDots and deconvolution,Gunawardhana 2025,"anti-GFAP (ab7260, Abcam)",primary,Abcam,ab7260,pre-expansion,1:250
+Fast photostable expansion microscopy using QDots and deconvolution,Gunawardhana 2025,"anti-MBP (MAB386, Millipore Sigma)",primary,Millipore Sigma,MAB386,pre-expansion,1:250
+Fast photostable expansion microscopy using QDots and deconvolution,Gunawardhana 2025,"anti-α-tubulin (T8203, Millipore Sigma)",primary,Millipore Sigma,T8203,pre-expansion,1:250
+Fast photostable expansion microscopy using QDots and deconvolution,Gunawardhana 2025,"biotinylated goat anti-rabbit (111-065-144, Jackson immuno)",secondary,Jackson immuno,111-065-144,pre-expansion,1:200
+Fast photostable expansion microscopy using QDots and deconvolution,Gunawardhana 2025,"biotinylated goat anti-mouse (115-065-146, Jackson immuno)",secondary,Jackson immuno,115-065-146,pre-expansion,1:200
+Fast photostable expansion microscopy using QDots and deconvolution,Gunawardhana 2025,"biotinylated goat anti-rat (A24553, Invitrogen)",secondary,Invitrogen,A24553,pre-expansion,1:200
+Super-resolution expansion microscopy in plant roots,Gallei 2025,anti-Tubulin (monoclonal IgG2a),primary,Santa Cruz Biotechnology,SC-53030,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Alexa Fluor 488 Goat anti-rat IgG (H+L) Cross-Adsorbed Secondary Antibody,secondary,Invitrogen,A11006,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,anti-α-tubulin (mouse monoclonal),primary,Sigma-Aldrich,T6074,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,anti-β-tubulin (mouse monoclonal),primary,Sigma-Aldrich,T5293,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Alexa Fluor 488 Goat anti-mouse IgG (H+L) Highly Cross-Adsorbed Secondary Antibody,secondary,Invitrogen,A-11029,pre-expansion,1:300
+Super-resolution expansion microscopy in plant roots,Gallei 2025,rabbit anti-GFP,primary,Agrisera,AS152987,pre-expansion,
+Super-resolution expansion microscopy in plant roots,Gallei 2025,rat anti-α-tubulin (anti-tubulin),primary,Santa Cruz Biotechnology,SC-53030,pre-expansion,
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Alexa Fluor 633 Goat anti-rat IgG,secondary,Thermo Fisher,A21094,pre-expansion,
+Super-resolution expansion microscopy in plant roots,Gallei 2025,anti-GFP (mouse monoclonal),primary,Sigma,G6539,pre-expansion,1:500
+Super-resolution expansion microscopy in plant roots,Gallei 2025,anti-sec21 (rabbit),primary,Agrisera,AS08327,pre-expansion,1:500
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Alexa Fluor 488 Goat anti-rabbit IgG (H+L),secondary,Invitrogen / Thermo Fisher,A11034,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Alexa Fluor 594 Goat anti-mouse IgG,secondary,Abcam,150116,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Alexa Fluor 594 Goat anti-mouse IgG,secondary,Thermo Fisher,A11005,pre-expansion,1:100; 1:300
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Goat anti-rabbit IgG conjugated to Star635P,secondary,Abberior,ST635P-1002-500UG,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,Goat anti-rabbit IgG conjugated to Star580,secondary,Abberior,ST580-1002-500UG,pre-expansion,1:100
+Super-resolution expansion microscopy in plant roots,Gallei 2025,anti-GFP (mouse monoclonal),primary,Thermo Fisher,A11120,pre-expansion,2 µg/ml
+Root expansion microscopy: A robust method for super resolution imaging in Arabidopsis,Grison 2025,anti-alpha-Tubulin,primary,Merck,T5168,pre-expansion,
+Root expansion microscopy: A robust method for super resolution imaging in Arabidopsis,Grison 2025,anti-SUN,primary,Agrisera,AS18,pre-expansion,
+Following the cellular itinerary of renal aquaporin-2 shuttling with 4.5x expansion microscopy,Login 2023,mouse anti-AQP2 antibody,primary,Santa Cruz Biotechnology,sc-515770,pre-expansion,1:20
+Following the cellular itinerary of renal aquaporin-2 shuttling with 4.5x expansion microscopy,Login 2023,mouse anti-AQP2 antibody,primary,Santa Cruz Biotechnology,sc-515770,pre-expansion,1:20
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Mouse IgG1 anti-alpha Tubulin Clone B-5-1-2,primary,ThermoFisher,32-2500,pre-expansion,1:1000
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Mouse IgG1 anti-alpha Tubulin Clone B-5-1-2,primary,ThermoFisher,32-2500,post-expansion,1:500
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Mouse IgG2a anti-Centrin-1 Clone 20H5,primary,EMD Millipore,04-1624,post-expansion,1:100
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Goat anti-mouse IgG Alexa Fluor 488 Superclonal™,secondary,ThermoFisher,A28175,pre-expansion,1:1000
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Goat anti-mouse IgG Alexa Fluor 488 Superclonal™,secondary,ThermoFisher,A28175,post-expansion,1:500
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Goat anti-mouse IgG2a Alexa Fluor 488 Cross-Adsorbed,secondary,ThermoFisher,A21131,post-expansion,1:500
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Goat anti-mouse IgG1 Alexa Fluor 594 Cross-Adsorbed,secondary,ThermoFisher,A21125,post-expansion,1:500
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Goat anti-mouse IgG1 Alexa Fluor 647 Cross-Adsorbed,secondary,ThermoFisher,A21240,post-expansion,1:500
+Expansion Microscopy Reveals Plasmodium falciparum Blood-Stage Parasites Undergo Anaphase with A Chromatin Bridge in the Absence of Mini-Chromosome Maintenance Complex Binding Protein,Liffner 2021,Goat anti-rabbit Alexa Fluor 488 Highly Cross-Adsorbed,secondary,ThermoFisher,A11034,post-expansion,1:500
+Nanoscale imaging of clinical specimens using pathology-optimized expansion microscopy,Zhao 2017,goat anti-chicken Alexa 488,secondary,ThermoFisher Scientific,A-11039,pre-expansion,approximately 10 µg/mL
+Nanoscale imaging of clinical specimens using pathology-optimized expansion microscopy,Zhao 2017,goat anti-rabbit Alexa 546,secondary,ThermoFisher Scientific,A-11010,pre-expansion,approximately 10 µg/mL
+Nanoscale imaging of clinical specimens using pathology-optimized expansion microscopy,Zhao 2017,goat anti-mouse CF633,secondary,Biotium,20341,pre-expansion,approximately 10 µg/mL
+Nanoscale imaging of clinical specimens using pathology-optimized expansion microscopy,Zhao 2017,goat anti-guinea pig Alexa 488,secondary,ThermoFisher Scientific,A-11073,pre-expansion,approximately 10 µg/mL
+Nanoscale imaging of clinical specimens using pathology-optimized expansion microscopy,Zhao 2017,goat anti-mouse Atto 647N,secondary,Sigma-Aldrich,50185,pre-expansion,approximately 10 µg/mL
+Nanoscale imaging of clinical specimens using pathology-optimized expansion microscopy,Zhao 2017,goat anti-chicken Alexa 546,secondary,ThermoFisher Scientific,A-11040,pre-expansion,approximately 10 µg/mL
+Nanoscale imaging of clinical specimens using pathology-optimized expansion microscopy,Zhao 2017,goat anti-rabbit Alexa 488,secondary,ThermoFisher Scientific,A-11008,pre-expansion,approximately 10 µg/mL
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,antidynein mouse antibody,primary,Invitrogen,14-9772-80,pre-expansion,1:250
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,goat anti-mouse AlexaFluor488-coupled antibody,secondary,Invitrogen,A-11029,pre-expansion,1:500
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,anti-Eg5,primary,Novusbio,NB500-181,pre-expansion,
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,anti-p150,primary,DB Biosciences,610473,pre-expansion,
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,anti–γ-tubulin,primary,Sigma-Aldrich,T6557,pre-expansion,
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,anti-chTOG,primary,Abcam,AB86073,pre-expansion,
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,anti–α-tubulin,primary,Sigma-Aldrich,T6199,post-expansion,
+Optimized expansion microscopy reveals species-specific spindle microtubule organization in Xenopus egg extracts,Guilloux 2025,anti-polyglutamate chain (polyE),primary,AdipoGene Life Sciences,AG-25B-0030,post-expansion,
+From Trypomastigotes to Trypomastigotes: Analyzing the One-Way Intracellular Journey of Trypanosoma cruzi by Ultrastructure Expansion Microscopy,Tomasina 2024,Mouse anti-acetylated tubulin,primary,Sigma,T7451,post-expansion,1:500
+Practical method for superresolution imaging of primary cilia and centrioles by expansion microscopy using an amplibody for fluorescence signal amplification,Katoh 2020,mClover3-anti-mouse-Ig(κ)-light-chain-Nb (amplibody),secondary,authors / Addgene (plasmid deposited),Addgene #138128 (plasmid deposit for amplibody series),pre-expansion,1 µg/ml (PFA and methanol fixation) or 0.25 µg/ml (PHEM/methanol fixation)
+Practical method for superresolution imaging of primary cilia and centrioles by expansion microscopy using an amplibody for fluorescence signal amplification,Katoh 2020,mCherry-anti-mouse-Ig(κ)-light-chain-Nb (amplibody),secondary,authors / Addgene (plasmid deposited),Addgene #138129,pre-expansion,
+Practical method for superresolution imaging of primary cilia and centrioles by expansion microscopy using an amplibody for fluorescence signal amplification,Katoh 2020,mClover3-anti-rabbit-IgG(Fc)-Nb (amplibody),secondary,authors / Addgene (plasmid deposited),Addgene #138130,pre-expansion,
+Practical method for superresolution imaging of primary cilia and centrioles by expansion microscopy using an amplibody for fluorescence signal amplification,Katoh 2020,mCherry-anti-rabbit-IgG(Fc)-Nb (amplibody),secondary,authors / Addgene (plasmid deposited),Addgene #138131,pre-expansion,
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"Rabbit anti-mouse ASC (mASC) (AL177, Adipogen)",primary,Adipogen,AL177,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"mouse anti-mASC (2EI-7, Millipore)",primary,Millipore,2EI-7,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"mouse anti-mRIPK3 (B-2, Santacruz)",primary,Santa Cruz,B-2,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"rat anti-mRIPK3 (8G7, Millipore)",primary,Millipore,8G7,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"rat anti-mCASP8 (3B10, Adipogen)",primary,Adipogen,3B10,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"rabbit anti-mCASP8 (#4927, CST)",primary,Cell Signaling Technology,4927,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"goat anti-mouse IgG AlexaPlus-488 (A32723, ThermoFisher)",secondary,Thermo Fisher Scientific,A32723,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"goat anti-rat IgG AlexaPlus-555 (A48263, ThermoFisher)",secondary,Thermo Fisher Scientific,A48263,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"goat anti-rabbit IgG AlexaPlus-647 (A32733, ThermoFisher)",secondary,Thermo Fisher Scientific,A32733,pre-expansion,1:200
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"anti-caspase-8 (4927, CST)",primary,Cell Signaling Technology,4927,,
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"anti-cleaved caspase-8 (8592, CST)",primary,Cell Signaling Technology,8592,,
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"HRP-conjugated anti-mouse (315-035-047, Jackson ImmunoResearch Laboratories)",secondary,Jackson ImmunoResearch Laboratories,315-035-047,,
+Single cell analysis of PANoptosome cell death complexes through an expansion microscopy method,Wang 2022,"HRP-conjugated anti-rabbit (111-035-047, Jackson ImmunoResearch Laboratories)",secondary,Jackson ImmunoResearch Laboratories,111-035-047,,
+Ultrastructure Expansion Microscopy (U‑ExM) in Trypanosoma cruzi: localization of tubulin isoforms and isotypes,Alonso 2022,TAT-1,primary,Sigma Aldrich,"00,020,911",post-expansion,1:200
+Ultrastructure Expansion Microscopy (U‑ExM) in Trypanosoma cruzi: localization of tubulin isoforms and isotypes,Alonso 2022,KMX-1,primary,Millipore,MAB3408,post-expansion,1:200
+Ultrastructure Expansion Microscopy (U‑ExM) in Trypanosoma cruzi: localization of tubulin isoforms and isotypes,Alonso 2022,YL1/2,primary,Millipore,MAB1864,post-expansion,1:300
+Ultrastructure Expansion Microscopy (U‑ExM) in Trypanosoma cruzi: localization of tubulin isoforms and isotypes,Alonso 2022,6-11B-1,primary,Sigma Aldrich,MABT868,post-expansion,1:300
+Ultrastructure Expansion Microscopy (U‑ExM) in Trypanosoma cruzi: localization of tubulin isoforms and isotypes,Alonso 2022,Anti-mouse Alexa 555,secondary,Thermo Fisher Scientific,A-21427,post-expansion,1:400
+Prospects and limitations of expansion microscopy in chromatin ultrastructure determination,Kubalová 2020,secondary anti-rabbit Alexa488 antibodies,secondary,Jackson ImmunoResearch,711-545-152,post-expansion,1:200
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Rabbit anti-α-tubulin,primary,Abcam,ab18251,,1:500 (cend = 2 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Mouse anti-β-tubulin,primary,Sigma-Aldrich,T8328,pre-expansion,1:200 (cend = 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Mouse anti poly-glutamylated tubulin (mAb GT335),primary,Adipogen,AG-20B-0020,pre-expansion,1:500
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 647 F(ab')2 goat anti-rabbit IgG,secondary,Thermo Fisher Scientific,A-21246,post-expansion,1:200 (cend = 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 647 F(ab')2 goat anti-mouse IgG,secondary,Thermo Fisher Scientific,A-21235,,
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 532 goat anti-rabbit IgG (H+L) A-11009,secondary,Thermo Fisher Scientific,A-11009,,1:200 (cend = 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,Alexa Fluor 532 goat anti-rabbit IgG (H+L) A-11002,secondary,Thermo Fisher Scientific,A-11002,,1:200 (cend = 10 µg/ml)
+Molecular resolution imaging by post-labeling expansion single-molecule localization microscopy (Ex-SMLM),Zwettler 2020,HMSiR 647 conjugated to goat anti-rabbit IgG F(ab')2,secondary,Sigma-Aldrich,SAB3700946,post-expansion,
+Spatially resolved proteomics via tissue expansion,Li 2022,rabbit monoclonal anti-β amyloid (D54D2) XP®,primary,Cell Signaling Technology,8243S,pre-expansion,1:1000
+Spatially resolved proteomics via tissue expansion,Li 2022,Alexa Fluor 647 Goat Anti-Rat IgG,secondary,Abcam,ab150167,pre-expansion,1:1200
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,HsPOC5,primary,Bethyl,A303-341A,post-expansion,1:200 (iU-ExM & U-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,NUP98-96,primary,ProteinTech,12329-1-AP,post-expansion,1:200 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,NUP205,primary,ProteinTech,24439-1-AP,post-expansion,1:200 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rat Anti-HA,primary,Roche,11 867 423 001,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rhodopsin,primary,ThermoScientific,MA5-11741,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Centrin,primary,Millipore,04-1624,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,LCA5,primary,Proteintech,19333-1-AP,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,CEP290,primary,Proteintech,22490-1-AP,post-expansion,1:250 (iU-ExM and U-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rat 488,secondary,Invitrogen,A21208,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rabbit 488,secondary,Invitrogen,A11008,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Mouse 488,secondary,Invitrogen,A11029,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Mouse 568,secondary,Invitrogen,A11004,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Guinea Pig 568,secondary,Invitrogen,A11075,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+Trifunctional sphingomyelin derivatives enable nanoscale resolution of sphingomyelin turnover in physiological and infection processes via expansion microscopy,Rühling 2024,"anti-LAMP-1 antibody (sc-18821, clone H5G11)",primary,SantaCruz,sc-18821,pre-expansion,4 µg/ml
+Trifunctional sphingomyelin derivatives enable nanoscale resolution of sphingomyelin turnover in physiological and infection processes via expansion microscopy,Rühling 2024,anti-GM130 antibody,primary,Becton Dickinson,610823,pre-expansion,2.5 µg/ml
+Trifunctional sphingomyelin derivatives enable nanoscale resolution of sphingomyelin turnover in physiological and infection processes via expansion microscopy,Rühling 2024,anti-Peroxiredoxin 3 (Prx3) antibody,primary,OriGene,TA322472,pre-expansion,1:50
+Trifunctional sphingomyelin derivatives enable nanoscale resolution of sphingomyelin turnover in physiological and infection processes via expansion microscopy,Rühling 2024,anti-chlamydial HSP60 antibody,primary,SantaCruz,sc-57840,pre-expansion,4 µg/ml
+Trifunctional sphingomyelin derivatives enable nanoscale resolution of sphingomyelin turnover in physiological and infection processes via expansion microscopy,Rühling 2024,CF568 secondary antibody,secondary,Sigma,SAB4600082,pre-expansion,20 µg/ml
+Trifunctional sphingomyelin derivatives enable nanoscale resolution of sphingomyelin turnover in physiological and infection processes via expansion microscopy,Rühling 2024,AlexaFluor 405 secondary antibody,secondary,ThermoFisher,A48255,pre-expansion,20 µg/ml
+Rapid lightsheet fluorescence imaging of whole Drosophila brains at nanoscale resolution by potassium acrylate-based expansion microscopy,Tian 2024,GFP Antibody,primary,Thermo Fisher,A-11122,pre-expansion,1:200-1:100
+Rapid lightsheet fluorescence imaging of whole Drosophila brains at nanoscale resolution by potassium acrylate-based expansion microscopy,Tian 2024,Brp Antibody (BrpNc82),primary,DSHB,nc82,pre-expansion,1:50
+Rapid lightsheet fluorescence imaging of whole Drosophila brains at nanoscale resolution by potassium acrylate-based expansion microscopy,Tian 2024,"Goat anti-Rabbit IgG (H + L) Secondary Antibody, Biotin",secondary,Thermo Fisher,65-6140,pre-expansion,1:200-1:100
+Rapid lightsheet fluorescence imaging of whole Drosophila brains at nanoscale resolution by potassium acrylate-based expansion microscopy,Tian 2024,Goat anti-Mouse conjugate Cy3,secondary,Jackson ImmunoResearch,115-165-166,pre-expansion,1:200-1:100
+"Dense, continuous membrane labeling and expansion microscopy visualization of ultrastructure in tissues",Shin 2025,goat anti-rabbit ATTO 647N conjugated secondary antibody,secondary,Rockland Immunochemicals,50-194-3924,post-expansion,5-10 μg/mL
+"Dense, continuous membrane labeling and expansion microscopy visualization of ultrastructure in tissues",Shin 2025,rabbit anti-SV2A,primary,Abcam,ab32942,pre-expansion,
+"Dense, continuous membrane labeling and expansion microscopy visualization of ultrastructure in tissues",Shin 2025,rabbit anti-PSD95,primary,Thermo Fisher,MA1-046,post-expansion,10 μg/mL
+"Dense, continuous membrane labeling and expansion microscopy visualization of ultrastructure in tissues",Shin 2025,ATTO 647N-conjugated anti-GFP nanobody (gba647n),primary,ChromoTek,gba647n,post-expansion,10 μg/mL
+"Dense, continuous membrane labeling and expansion microscopy visualization of ultrastructure in tissues",Shin 2025,ATTO 488-conjugated anti-GFP nanobody (gba488),primary,ChromoTek,gba488,post-expansion,10 μg/mL
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,rabbit anti-HA,primary,Cell Signaling Technology,3724S,post-expansion,1:1000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,mouse anti-Myc,primary,Cell Signaling Technology,2276S,post-expansion,1:1000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,mouse antibody against both α-Tubulin I and α-Tubulin II,primary,Sigma-Aldrich,T6199,post-expansion,1:1000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,mouse anti-β-Tubulin,primary,Sigma-Aldrich,T5201,post-expansion,1:1000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,rabbit anti-Polyglutamate chain (PolyE),primary,AdipoGen,AG-25B-0030,post-expansion,1:1000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,HRP-conjugated goat anti-rabbit IgG,secondary,Abcam,ab6721,pre-expansion,1:5000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,HRP-conjugated goat anti-mouse IgG,secondary,Abcam,ab6789,pre-expansion,1:5000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,Alexa 555 goat anti-rabbit IgG,secondary,Thermo Fisher Scientific,A21428,post-expansion,1:1000
+A basal body microtubule singlet-to-doublet transition in Plasmodium male gametogenesis,Yang 2025,Alexa 488 goat anti-mouse IgG,secondary,Thermo Fisher Scientific,A11001,post-expansion,1:1000
+Protein and lipid expansion microscopy with trypsin and tyramide signal amplification for 3D imaging,Wang 2023,Cytochrome c oxidase subunit 5B (COX5B) rabbit polyclonal antibody,primary,Proteintech,11418-2-AP,pre-expansion,3–6 µg/ml
+Protein and lipid expansion microscopy with trypsin and tyramide signal amplification for 3D imaging,Wang 2023,Protein disulfide isomerase (PDI) rabbit polyclonal antibody,primary,Proteintech,11245-1-AP,pre-expansion,1–2 µg/ml
+Protein and lipid expansion microscopy with trypsin and tyramide signal amplification for 3D imaging,Wang 2023,Beta-tubulin mouse monoclonal antibody,primary,Sigma-Aldrich,T4026,pre-expansion,6 µg/ml
+Protein and lipid expansion microscopy with trypsin and tyramide signal amplification for 3D imaging,Wang 2023,Horseradish peroxidase (HRP)-conjugated anti-rabbit IgG,secondary,Jackson ImmunoResearch Laboratory,711-035-152,pre-expansion,1:500
+Protein and lipid expansion microscopy with trypsin and tyramide signal amplification for 3D imaging,Wang 2023,Alexa fluor-488-conjugated anti-mouse IgG,secondary,ThermoFisher,A28175,pre-expansion,1:500
+Protein and lipid expansion microscopy with trypsin and tyramide signal amplification for 3D imaging,Wang 2023,Alexa fluor-555-conjugated anti-rabbit IgG,secondary,ThermoFisher,A32732,pre-expansion,1:500
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,rabbit anti-alpha-tubulin,primary,Abcam,ab18251,pre-expansion,5 µg/ml
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,goat anti-rabbit Alexa Fluor 488 (fab fragment),secondary,Invitrogen (Thermo Fisher),A11070,pre-expansion,10 µg/ml
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,rabbit anti-granulysin,primary,Abbexa,abx006369,pre-expansion,10–25 µg/ml
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,mouse anti-perforin (clone dG9),primary,BioLegend,308102,pre-expansion,10–25 µg/ml (10 µg/ml reported in degranulation assay)
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,goat anti-mouse ATTO 643 (custom labeled),secondary,Sigma,SAB3701063,pre-expansion,5.5 µg/ml
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,rabbit anti-LAMP1 (CD107a),primary,Abcam,ab24170,pre-expansion,8.3 µg/ml (final concentration in assay)
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,goat anti-mouse Alexa Fluor 488 (fab fragment),secondary,Thermo Fisher Scientific,A11017,pre-expansion,10 µg/ml
+Subdiffraction-resolution fluorescence imaging of immunological synapse formation between NK cells and A. fumigatus by expansion microscopy,Trinks 2021,donkey anti-rabbit ATTO 643 (custom labeled),secondary,Jackson ImmunoResearch,711-005-152,pre-expansion,5 µg/ml
+3D-Aligner: advanced computational tool for correcting image distortion in expansion microscopy,Loi 2024,"guinea pig anti-CENP-C (MBL, PD030)",primary,MBL,PD030,pre-expansion,
+3D-Aligner: advanced computational tool for correcting image distortion in expansion microscopy,Loi 2024,"mouse anti-CENP-B (santacruz, sc-22788)",primary,santacruz,sc-22788,pre-expansion,
+3D-Aligner: advanced computational tool for correcting image distortion in expansion microscopy,Loi 2024,"mouse anti-tubulin (Sigma, DM1A, 05-829)",primary,Sigma,05-829,pre-expansion,
+3D-Aligner: advanced computational tool for correcting image distortion in expansion microscopy,Loi 2024,"minimum cross-react donkey anti-guinea pig IgG Alexa 488 (Jackson ImmunoResearch, 706-546-148)",secondary,Jackson ImmunoResearch,706-546-148,pre-expansion,
+3D-Aligner: advanced computational tool for correcting image distortion in expansion microscopy,Loi 2024,"anti-mouse IgG Biotin (Jackson ImmunoResearch,715-066-150)",secondary,Jackson ImmunoResearch,715-066-150,pre-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,Sigma–Aldrich #T6199,primary,Sigma–Aldrich,T6199,pre-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,Synaptic Systems #302211,primary,Synaptic Systems,302211,pre-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,Synaptic Systems #302203,primary,Synaptic Systems,302203,pre-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,Abcam #ab18251,primary,Abcam,ab18251,pre-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,Abberior #ST635P-1001,secondary,Abberior,ST635P-1001,pre-expansion,1:5 (primary:secondary complex ratio)
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,NanoTag Biotechnologies GmbH #N1202,secondary,NanoTag Biotechnologies GmbH,N1202,pre-expansion,1:5 (primary:secondary complex ratio)
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,NanoTag Biotechnologies GmbH #N2402,secondary,NanoTag Biotechnologies GmbH,N2402,pre-expansion,1:5 (primary:secondary complex ratio)
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,"FluoTag-X2 anti-Rabbit Star635P IgG, NanoTag, N2402-AB635P-S",secondary,NanoTag Biotechnologies GmbH,N2402-AB635P-S,post-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,"FluoTag-X2 anti-Rabbit ATTO643 IgG, NanoTag, N2402-At643-S",secondary,NanoTag Biotechnologies GmbH,N2402-At643-S,post-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,Proteintech 12329-1-AP,primary,Proteintech,12329-1-AP,post-expansion,
+Microtubules as a versatile reference standard for expansion microscopy,Chowdhury 2025,Proteintech 24439-1-AP,primary,Proteintech,24439-1-AP,post-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,goat anti-podocalyxin,primary,R&D Systems Inc.,AF1556,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-collagen IV,primary,Abcam,ab6586,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,mouse anti-alpha smooth muscle actin,primary,BioLegend Inc.,904601,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-aquaporin 1,primary,Abcam,ab15080,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,guinea pig anti-cytokeratin 8+18,primary,Abcam,ab194130,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,mouse anti-agrin,primary,DSHB Inc.,6D2,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-podocin,primary,Sigma-Aldrich,P0372,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-TOMM20,primary,Santa Cruz Biotechnology,sc-11415,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti–LAMP-1,primary,Abcam,24170,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,anti-GM130,primary,BD Biosciences,610822,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti–GFP conjugated with Alexa Fluor 488,primary,Thermo Fisher Scientific,A-21311,post-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-GFP conjugated with Alexa Fluor 647,primary,Thermo Fisher Scientific,A-31852,,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-H3K27ac,primary,Active Motif,39133,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-H3K4me3,primary,Active Motif,39159,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rat anti-alpha tubulin,primary,Invitrogen,MA1-80017,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,goat anti-nogo N-18,primary,Santa Cruz Biotechnology,sc-11027,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,rabbit anti-PMP70,primary,Thermo Fisher Scientific,PA1-650,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,anti-vimentin V9,primary,Invitrogen,18-0052,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,donkey anti-goat (unconjugated),secondary,Jackson ImmunoResearch,705-005-151,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,donkey anti-rabbit (unconjugated),secondary,Jackson ImmunoResearch,712-545-150,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,donkey anti-mouse (unconjugated),secondary,Jackson ImmunoResearch,715-005-151,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,donkey anti-guinea pig (unconjugated),secondary,Jackson ImmunoResearch,706-001-003,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,donkey anti-rat (unconjugated),secondary,Jackson ImmunoResearch,712-005-153,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,donkey anti-rabbit conjugated with Alexa Fluor 488,secondary,Jackson ImmunoResearch,711-545-152,pre-expansion,
+Feature-rich covalent stains for super-resolution and cleared tissue fluorescence microscopy,Mao 2020,donkey anti-mouse conjugated with Alexa Fluor 488,secondary,Jackson ImmunoResearch,715-545-150,pre-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"anti-GFP (chicken, Invitrogen, A10262)",primary,Invitrogen,A10262,post-expansion,5-10 µl (per section)
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"GABAARα1 (rabbit, Synaptic Systems, 224203)",primary,Synaptic Systems,224203,post-expansion,10-40 µl (per section)
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"GABAARβ3 (mouse, BioLegend, 818501)",primary,BioLegend,818501,post-expansion,10-40 µl (per section)
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"VGAT (rabbit, Millipore, AB5062P)",primary,Millipore,AB5062P,post-expansion,10-40 µl (per section)
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"GAD2 (mouse, BioLegend, 844502)",primary,BioLegend,844502,post-expansion,10-40 µl (per section)
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"Gephyrin (mouse, BD, 612632)",primary,BD,612632,post-expansion,10-40 µl (per section)
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"Bassoon (Synaptic Systems, 141004)",primary,Synaptic Systems,141004,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"Bassoon (Synaptic Systems, 141003)",primary,Synaptic Systems,141003,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"PSD-95 (NeuroMab, 75-028)",primary,NeuroMab,75-028,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"β-tubulin (ab6046, Abcam)",primary,Abcam,ab6046,post-expansion,1:300
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"anti–NF-H (PA1-10002, Invitrogen)",primary,Invitrogen,PA1-10002,pre-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"anti–NF-H (PA1-10002, Invitrogen)",primary,Invitrogen,PA1-10002,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"anti-chicken IgY (Alexa Fluor 647, Abcam, ab150175)",secondary,Abcam,ab150175,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"anti-rabbit IgG (Alexa Fluor Plus 488, Invitrogen, A32731)",secondary,Invitrogen,A32731,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"anti-mouse IgG (Alexa Fluor 568, Abcam, ab175473)",secondary,Abcam,ab175473,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"secondary antibodies (111-547-008, Jackson ImmunoResearch)",secondary,Jackson ImmunoResearch,111-547-008,post-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"Alexa Fluor 488–conjugated anti-chicken secondary antibody (Abcam, ab150169)",secondary,Abcam,ab150169,pre-expansion,
+Epitope-preserving magnified analysis of proteome (eMAP),Park 2021,"Alexa Fluor 647–conjugated anti-chicken antibody (Abcam, ab150175)",secondary,Abcam,ab150175,post-expansion,
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,rabbit anti-Alexa Fluor 488 antibody,primary,ThermoFisher Scientific,A11094,pre-expansion,10 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-FITC Alexa Fluor 488,secondary,ThermoFisher Scientific,A11096,pre-expansion,10 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,rabbit anti-FITC,primary,ThermoFisher Scientific,A889,pre-expansion,10 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,mouse anti-FITC,primary,Jackson ImmunoResearch,200-002-037,pre-expansion,10 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-rabbit Alexa Fluor 546,secondary,ThermoFisher Scientific,A11035,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,donkey anti-rabbit Alexa Fluor 546,secondary,ThermoFisher Scientific,A10040,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-mouse Alexa Fluor 546,secondary,ThermoFisher Scientific,A11030,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,donkey anti-mouse CF 633,secondary,Biotium,20124,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-mouse CF 633,secondary,Biotium,20341,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-rabbit CF 633,secondary,Biotium,20123,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-chicken Alexa Fluor 488,secondary,ThermoFisher Scientific,A11039,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-chicken Alexa Fluor 546,secondary,ThermoFisher Scientific,A11040,pre-expansion,5 μg/mL
+Super-Resolution Three-Dimensional Imaging of Actin Filaments in Cultured Cells and the Brain via Expansion Microscopy,Park 2020,goat anti-rabbit Alexa Fluor 488,secondary,Jackson ImmunoResearch,111-545-144,pre-expansion,5 μg/mL
+Trifunctional Linkers Enable Improved Visualization of Actin by Expansion Microscopy,Wen 2023,mouse anti-α-tubulin,primary,Abcam,ab7291,pre-expansion,2 μg/mL
+Trifunctional Linkers Enable Improved Visualization of Actin by Expansion Microscopy,Wen 2023,Bassoon antibody,primary,Synaptic Systems (SYSY),141 111,pre-expansion,1:200
+Trifunctional Linkers Enable Improved Visualization of Actin by Expansion Microscopy,Wen 2023,Homer antibody,primary,Synaptic Systems (SYSY),160 003,pre-expansion,1:200
+Trifunctional Linkers Enable Improved Visualization of Actin by Expansion Microscopy,Wen 2023,rabbit anti-Alexa Fluor 488 antibodies,primary,Invitrogen,A11094,pre-expansion,10 μg/mL
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,HsPOC5,primary,Bethyl,A303-341A,post-expansion,1:200 (iU-ExM & U-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,NUP98-96,primary,ProteinTech,12329-1-AP,post-expansion,1:200 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,NUP205,primary,ProteinTech,24439-1-AP,post-expansion,1:200 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rat Anti-HA,primary,Roche,11 867 423 001,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rhodopsin,primary,Thermo Scientific,MA5-11741,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Centrin,primary,Millipore,04-1624,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,LCA5,primary,Proteintech,19333-1-AP,post-expansion,1:250 (iU-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,CEP290,primary,Proteintech,22490-1-AP,post-expansion,1:250 (iU-ExM and U-ExM)
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rat 488,secondary,Invitrogen,A21208,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Rabbit 488,secondary,Invitrogen,A11008,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Mouse 488,secondary,Invitrogen,A11029,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Mouse 568,secondary,Invitrogen,A11004,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+iU-ExM: nanoscopy of organelles and tissues with iterative ultrastructure expansion microscopy,Louvel 2023,Guinea Pig 568,secondary,Invitrogen,A11075,post-expansion,"1:250 (iU-ExM), 1:400 (U-ExM)"
+Protein-retention expansion microscopy of cells and tissues labeled using standard fluorescent proteins and antibodies,Tillberg 2016,Sheep Anti-Tubulin,primary,Cytoskeleton,ATN02,pre-expansion,10 µg/mL
+Protein-retention expansion microscopy of cells and tissues labeled using standard fluorescent proteins and antibodies,Tillberg 2016,Rabbit Anti-Tom20,primary,Santa Cruz Biotech,sc-11415,pre-expansion,3 µg/mL
